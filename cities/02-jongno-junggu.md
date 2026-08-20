@@ -64,7 +64,24 @@
 
 ---
 
-## 🍜 Verified food — Jongno/Junggu (selection; full roster in Koreafood `cities/seoul.md`)
+## J5 — Naksan city-wall sunset → Hyehwa → Mulbit Yeonhwa night (🟨 moderate) — any evening **Tue Nov 3 – Sun Nov 8** (Mulbit dark Mon)
+
+> The ideal "Mulbit Yeonhwa" template: one Line-4 corridor (Hyehwa ↔ Myeongdong, ≈10–15 min), zero cross-town moves. Sunset in early November falls ≈17:15–17:30 (estimate — check a Seoul sunset table that week).
+
+| Time | Activity | Details (official) | Price | Status | Source |
+|---|---|---|---|---|---|
+| 14:30–15:00 | Line 4 Myeongdong → Hyehwa (direct, ≈10–15 min) | — | — | — | — |
+| 15:00–16:30 | **Ihwa Mural Village alleys + Naksan Park** (eastern city-wall park above Hyehwa; residential alleys — keep noise down) | Free; use the official wall-course pages | Free | 🔎 | KoreaFun seoul #68/#36 · seoulcitywall.seoul.go.kr |
+| 16:30–17:30 | Walk the **Naksan section of Hanyangdoseong** along the wall top; sunset from the wall (≈17:15–17:30) | Free | Free | 🔎 | KoreaFun seoul #36 |
+| 17:45–18:45 | Coffee/dinner Hyehwa or Jongno — **Hakrim Dabang** (1956, daily 10:00–23:00 LO 22:00) for coffee; dinner **Songam Onban** hanok gukbap (11:30–22:00, year-round) or **Moowee Nakwon** (Mon–Sat 11:30–23:00, break 15:00–17:00 / Sun 11:30–16:00) | — | — | 🔎 | Koreafood by-location |
+| 18:45–19:15 | Walk to **Changgyeonggung Honghwamun** (≈12 min from Hyehwa Stn Exit 4) — buy the ₩1,000 ticket at the office | **Entry closes 20:00**; grounds close 21:00 | ₩1,000 | ✅ | KoreaFun seoul #25 |
+| 19:15–21:00 | ⭐ **Changgyeonggung Mulbit Yeonhwa** — 8-scene night media art centred on Chundangji pond | Full run Sep 8–**Nov 8** (after that, partial show only); no booking, free roaming; **closed Mon**; rain rule: ≥3 mm forecast at 13:00 cancels scenes 2 & 5 | ₩1,000 | ✅ | KoreaFun seoul #25 · kh.or.kr |
+| 21:00–21:15 | Line 4 Hyehwa → Myeongdong (or walk ≈20 min via Donhwamun) | — | — | — | — |
+
+**Why this shape:** the show starts at dusk (16:40 onward) and the two headline water scenes (제2경/제5경) run all evening — arriving 19:00–19:30 gets you the full circuit with the crowds thinning after 20:00. Pair with **Jilsiru** tteok café near Changdeokgung (Mon–Sat 08:00–20:00 / Sun 08:00–19:00) if you want a pre-show snack on the walk down.
+
+---
+
 
 | Spot | Focus | Hours & closures | Badge | Source |
 |---|---|---|---|---|

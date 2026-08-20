@@ -42,6 +42,29 @@
 
 ---
 
+## M3 — Free micro-museum loop + Bosingak noon bell + Seoullo night (🟨 easy) — best **Tue, Wed, Fri or Sat** · most stops shut Sun + Mon
+
+> A near-zero-cost day entirely on the Myeong-dong side, built from the verified small-museum cluster. Works as the default rain or "tired legs" day. Everything is within a ~1.2 km walk of the hotel.
+
+| Time | Activity | Details (official) | Price | Status | Source |
+|---|---|---|---|---|---|
+| 10:00–10:45 | **Korea Postage Stamp Museum** (Post Tower, beside Myeong-dong) | Free; check operator hours before going | Free | ⏳ | KoreaFun myeongdong #22 |
+| 10:45–11:45 | **Donuimun Museum Village** (preserved mid-century block) or **Gyeongkyojang** — Kim Ku's residence (Saemunan-ro; Tue–Sun 09:00–18:00, last 17:30, free, closed Mon) | Free | Free | 🔎 | KoreaFun seoul #52 / districts #29 |
+| 11:50–12:10 | ⭐ **Bosingak bell-striking ceremony** — 12 strikes at noon, Jonggak Stn Exit 4 | **Daily except Mon**; **Tuesdays are the foreign-visitor slot** (apply online ahead to strike the bell yourself) | Free | ✅ | KoreaFun districts #68 |
+| 12:15–13:15 | Lunch — **Myeongdongjeong** hanjeongsik (11:30–21:30, break 15:00–17:00) or **Goryeo Samgyetang** (City Hall, daily 10:30–21:00) | — | — | 🔎 | Koreafood Route S1 |
+| 13:15–14:00 | **Korea Financial History Museum** (Sejong-daero 135-5) — free + special exhibition 《금융, 사람과 사람을 잇다》 to Dec 31, 2026 | 10:00–18:00 (last 17:00) · **closed Sun & public holidays** | Free | 🔎 | KoreaFun districts #89 |
+| 14:00–14:30 | **Hwangudan Altar** (beside Westin Josun, City Hall Stn ex. 6) | 07:00–21:00 — hours from visitor reports, not an operator page | Free | ⏳ | KoreaFun districts #93 |
+| 14:30–15:15 | **Woori Bank Museum** (B1 Woori HQ, Hoehyeon Stn ex. 1) | 10:00–18:00 (last 17:30) · **closed Sun & public holidays** (one city directory also lists Saturdays temporarily closed — check) | Free | 🔎 | KoreaFun districts #88 |
+| 15:15–16:00 | Wed or Sat only: **Seoul Gallery "Lunch Stage"** free concert (B1 City Hall main building) — **Wed 12:30–13:00 · Sat 14:00–14:30**, Apr 18–Dec 5, 2026 | Free | ✅ | KoreaFun districts #51 |
+| 16:00–17:00 | **Seoul Metropolitan Library** (the old City Hall building facing Seoul Plaza) | Tue–Fri 09:00–21:00 · Sat–Sun 09:00–18:00 · closed Mon & holidays | Free | 🔎 | KoreaFun districts #92 |
+| 17:00–18:00 | **HiKR Ground** KTO K-culture center on the Cheonggyecheon | Free; **closed Mon** | Free | 🔎 | KoreaFun seoul #55 |
+| 18:00–19:00 | **Seoullo 7017** elevated garden at dusk → Seoul Station → walk home (≈12 min) | Free, lit at night | Free | 🔎 | KoreaFun seoul #63 |
+| Evening | Merge into M1 dinner + NANTA 20:00, or D1 DDP light show (2 stops on Line 2) | — | — | — | — |
+
+**Swap-in anchors:** **SeMA Seosomun** (Tue–Thu 10:00–20:00, Fri to 21:00, closed Mon — GanaArt show to Nov 22) or the **Bank of Korea Money Museum** (Tue–Sun, free EN docent 14:00) both sit on this loop. *(myeongdong #2/#21)*
+
+---
+
 ## 🍜 Verified food — Myeong-dong core (all ≤10 min walk from hotel)
 
 | Spot | Focus | Hours & closures | Badge | Source |

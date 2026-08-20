@@ -55,6 +55,24 @@
 
 ## 3. Places & hours (district files)
 
+**Added in the second pass (Aug 20, 2026, pass 2):**
+
+| Claim | Repo entry | Status |
+|---|---|---|
+| Naksan Park + Ihwa Mural Village (J5) — free wall walk, residential etiquette | KoreaFun seoul #68/#36 | 🔎 |
+| J5 dinner stops: Hakrim Dabang daily 10:00–23:00 (LO 22:00) · Songam Onban 11:30–22:00 · Moowee Nakwon Mon–Sat 11:30–23:00 (break 15:00–17:00) / Sun 11:30–16:00 · Jilsiru Mon–Sat 08:00–20:00 / Sun 08:00–19:00 | Koreafood by-location | 🔎 |
+| Bosingak noon ceremony daily except Mon; Tuesday foreign-visitor bell-striking slot (M3) | KoreaFun districts #68 | ✅ |
+| Woori Bank Museum 10:00–18:00 (last 17:30), closed Sun & holidays (Sat possibly closed — flagged) | KoreaFun districts #88 | 🔎 |
+| Korea Financial History Museum 10:00–18:00 (last 17:00), closed Sun & holidays; exhibition to Dec 31 | KoreaFun districts #89 | 🔎 |
+| Seoul Metropolitan Library Tue–Fri 09:00–21:00 / Sat–Sun 09:00–18:00, closed Mon | KoreaFun districts #92 | 🔎 |
+| Hwangudan Altar 07:00–21:00 — visitor-reported hours only | KoreaFun districts #93 | ⏳ |
+| Seoul Gallery Lunch Stage Wed 12:30–13:00 / Sat 14:00–14:30, Apr 18–Dec 5, 2026 | KoreaFun districts #51 | ✅ |
+| Korea Postage Stamp Museum free, hours unconfirmed | KoreaFun myeongdong #22 | ⏳ |
+| Donuimun Museum Village / Gyeongkyojang (Tue–Sun 09:00–18:00, free) / HiKR Ground (closed Mon) / Seoullo 7017 lit at night | KoreaFun seoul #52/#55/#63, districts #29 | 🔎 |
+| Early-November Seoul sunset "≈17:15–17:30" | Estimate only — check a sunset table that week | ≈ |
+
+**Second-pass audit result (Aug 20, 2026):** scripted cross-check of 17 high-traffic restaurant rows (Hadongkwan, Myeongdong Kyoja, Hwangsaengga, Pildong Myeonok, Imun, Buchon Yukhoe, Geumdwaeji, Ohsaegyehyang, Jin Ok-hwa, MGM, Chosun Hwaro, Masichaina, Budnamujip, Madam Ming, Passion 5, Mapo Sutbulgalbi, Seowon) against the Koreafood source tables — **17/17 hour strings match exactly**. Full activity-hour re-read of all six district files confirmed the palace Mon/Tue matrix, show schedules (Elisabeth Tue 19:30; Glass Menagerie Wed–Sun schedule; Gugak Sat 15:00; NANTA Sunday 14:00/17:00) and museum late-days (NMK Wed/Sat 21:00; SeMA/Seosomun/History/Craft Friday 21:00) are carried correctly.
+
 | Claim | Repo entry | Status |
 |---|---|---|
 | Palace closure days: Gyeongbokgung/Jongmyo/Blue House Tue · Changdeokgung/Deoksugung/Changgyeonggung Mon; Deoksugung 09:00–21:00 ₩1,000; combined ticket ₩10,000 | KoreaFun seoul #29–37, myeongdong #31 | 🔎 |

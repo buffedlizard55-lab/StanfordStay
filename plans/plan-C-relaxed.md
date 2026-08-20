@@ -15,6 +15,7 @@
 | **Nov 9** | Mon 🟩 | Check-out 12:00 | Breakfast **Hadongkwan** (opens 07:00 — do it before checkout) → bags → **MMCA Seoul** or **Gyeongbokgung** encore (open Mon) → AREX to ICN |
 
 ## Rain plans (all verified indoor)
+- **M3 free micro-museum loop** — Bosingak noon bell, Financial/Woori museums, City Hall library, HiKR Ground; nearly all indoor, ≈0 won, on the hotel's doorstep (best Tue/Wed/Fri/Sat).
 - **DDP + Dongdaemun History Museum** (D1) — museum to 18:00 (closed Mon; lunch break 12:00–13:00), Hyundai City Outlet, light show 18:00–22:00 regardless of weather.
 - **National Museum + Amorepacific Jonas Wood + War Memorial** (I2) — one Ichon/Sinyongsan/Samgakji triangle, all free entry (APMA ticket ⏳).
 - **Lotte World Adventure** indoor park (Jamsil, 1 stop past Samseong on Line 2; Sun–Thu 10:00–21:00 / Fri–Sat to 22:00) + **Seoul Sky** (to 22:00/23:00) — the city's biggest weather-proof playground.
