@@ -16,8 +16,8 @@
 | File | Contents |
 |---|---|
 | [`00-MASTER-LIST.md`](00-MASTER-LIST.md) | **Start here.** Every itinerary, its district cluster, pace, and the verified anchor in each. |
-| [`cities/`](cities/) | Six district files — full-day and half-day itineraries per area, with food tables and transit times |
-| [`plans/`](plans/) | Three complete Nov 1–9 day-by-day plans (A: balanced first-timers · B: events-first · C: relaxed) |
+| [`cities/`](cities/) | Seven district files — full-day itineraries per area (M/J/D/H/I/G) plus mixed-cluster X1–X13 |
+| [`plans/`](plans/) | **Six** complete Nov 1–9 plans (A balanced · B events-first · C relaxed · D food-first · E walk-cluster · F heritage) |
 | [`verification/verification-log.md`](verification/verification-log.md) | Line-by-line ledger: every itinerary claim → official source → status |
 | [`verification/booking-checklist.md`](verification/booking-checklist.md) | What to book now vs. re-check in October 2026 |
 

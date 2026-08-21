@@ -23,20 +23,49 @@ Every itinerary below is built **only** from verified entries in the KoreaFun / 
 | **G2** | Gangnam classic: Seonjeongneung → K-Star Road → Apgujeong Rodeo → Some Sevit night | Gangnam/Seocho | 🟨 | Nov 3–8 (Seonjeongneung closed Mon) | Seonjeongneung ₩1,000 free docent tours 🔎 · K-Star Road 🔎 · Some Sevit decks free |
 | **G3** | Saturday gugak afternoon (adds to any Sat plan) | Seocho | 🟨 | **Nov 7 (Sat)** only | Gugak Museum free EN tour **14:00** + 토요명품 **15:00** (₩20–30k) |
 
-## B. Complete Nov 1–9 plans (pick one, or splice)
+## B. Complete Nov 1–9 plans (pick one, or splice) — **six itineraries**
 
 | Plan | Philosophy | Busy days | Easy days | File |
 |---|---|---|---|---|
 | **A — Balanced first-timers** | Palaces + one district per day, alternates load | Nov 2, 3, 5, 7 | Nov 1, 4, 8 | [`plans/plan-A-balanced.md`](plans/plan-A-balanced.md) |
 | **B — Events-first** | Built around dated shows/games (La Bohème, KGMA, Jujutsu Kaisen, Gugak, NANTA) | Nov 3, 5, 7, 8 | Nov 1, 4, 6* | [`plans/plan-B-events-first.md`](plans/plan-B-events-first.md) |
 | **C — Relaxed** | One anchor per day, long cafés, rest mornings | Nov 7 only | Nov 1, 2, 4, 6, 8 | [`plans/plan-C-relaxed.md`](plans/plan-C-relaxed.md) |
+| **D — Food-first** | One Koreafood walking route (S1–S5) per day; nearest verified activity only | Nov 2, 6, 7 | Nov 1, 4, 9 | [`plans/plan-D-food-first.md`](plans/plan-D-food-first.md) |
+| **E — Walk-cluster** | Commute once, then **no transit between activities** | Nov 2, 5, 7 | Nov 1, 4, 9 | [`plans/plan-E-walk-clusters.md`](plans/plan-E-walk-clusters.md) |
+| **F — Heritage & palaces** | One royal/museum/temple cluster per day, off the Mon/Tue palace matrix | Nov 2, 3, 5 | Nov 1, 9 | [`plans/plan-F-heritage.md`](plans/plan-F-heritage.md) |
+
+## D. Mixed-cluster itineraries — [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md)
+
+Entered only if every named stop traces to KoreaFun/Koreafood **and** the day stays in one walking cluster (one inbound ride from the hotel, then walk).
+
+| ID | Itinerary | Anchor districts | Pace | Best dates | Verified anchor(s) | Transit between activities |
+|---|---|---|---|---|---|---|
+| **X1** | Myeong-dong → City Hall → Sungnyemun | Myeong-dong + Jeong-dong | 🟨 | Wed Nov 4 / Fri Nov 6 | NANTA · Money Museum · Deoksugung to 21:00 · Seoullo | Walk |
+| **X2** | Bukchon → Seochon → Mulbit night | Jongno | 🟥 | Tue Nov 3 – Sat Nov 7 (not Mon) | Hwangsaengga (Bib 2026) · Tongin · Mulbit ₩1,000 | Walk + 1 Line-4 stop to Hyehwa |
+| **X3** | Euljiro → Sindang → DDP | Jung-gu Line 2 | 🟨 | Wed Nov 4 – Sat Nov 7 | Geumdwaeji (Bib 2026) · Jin Ok-hwa · Dream in Light | Walk or 1 Line-2 stop |
+| **X7** | Hotel-footprint food (Koreafood S1) | Myeong-dong | 🟩 | Any; not Sun for Hadongkwan | Hadongkwan · Kyoja · NANTA | **0** |
+| **X8** | Cheonggyecheon → Gwangjang → Ikseon | Jongno / Jung-gu | 🟨 | Any; not Sun for Chanyang-jip | Buchon Yukhoe · Imun (1907) · Ikseon cafés | **0** |
+| **X9** | COEX stay-put triangle | Gangnam Samseong | 🟥 | Thu Nov 5 (Temple Life) or Wed–Sat Food Week | Seonjeongneung · Bongeunsa EN 14:00 · Starfield · Food Week | 1 ride in, then walk |
+| **X10** | Hongdae stay-put | Hongdae / Yeonnam | 🟥 | Fri Nov 6 | Gyeongui Forest Park · busking 12:00–22:00 · MGM | 1 ride in, then walk |
+| **X11** | Hannam stay-put | Itaewon / Hannam | 🟥 | Tue–Sat (Leeum closed Mon; Elisabeth dark Mon) | Leeum both shows · Passion 5 · Elisabeth | 1 ride in, then walk |
+| **X12** | Ichon museum triangle | Yongsan | 🟨 | Wed Nov 4 or Sat Nov 7 (NMK to 21:00) | NMK · Jonas Wood · War Memorial | 1 Line-4 ride in, then walk |
+| **X13** | Friday-late civic museums | Gwanghwamun / Jeong-dong | 🟨 | **Fri Nov 6** | Deoksugung · History Museum / Sejong Story / SeMA Fri 21:00 | Walk from hotel |
+
+### Not entered (fails the gate)
+
+| ID | Why it is not on the itinerary list |
+|---|---|
+| **X4** Yeouido → Sebitseom → DDP | Two subway hops. BANKSY itself is Plan E **Nov 3 Yeouido-only**. |
+| **X5** Seongsu café street | Cafés not in KoreaFun/Koreafood; no Visit Seoul / Michelin / operator hours. |
+| **X6** Namsan → Leeum → Elisabeth | Line 4→6 transfer mid-day. Hannam half is **X11 / I1**. |
 
 ## C. Date-locked anchors (verified ✅ — these fix the calendar)
 
 | Date | Event | Where | Source |
 |---|---|---|---|
 | Sun Nov 1, 08:00 | JTBC Seoul Marathon (spectate; road closures AM) | Sangam → Olympic Park | KoreaFun seoul #2 |
-| Sun Nov 1 (last day) | Seoul Outdoor Library | Seoul Plaza/Gwanghwamun | KoreaFun seoul #3 |
+| Sun Nov 1 (last day) | Seoul Outdoor Library — Fri–Sun daytime 11:00–18:00 / night **16:00–22:00** | Seoul Plaza/Gwanghwamun | KoreaFun seoul #3 |
+| Apr 20 – Nov 15 | Han River History Tour (free; book ≥5 days ahead; 5–15 ppl) | Hangang parks | KoreaFun seoul #4 · visit-hangang.seoul.kr |
 | Sun Nov 1 (closes) | Dear Evan Hansen (Korean-language musical) | Chungmu Arts Center | KoreaFun seoul #84 |
 | **Tue Nov 3 (last day)** | **BANKSY: Still Here** (₩23,000, prebook) | The Hyundai Seoul, Yeouido | KoreaFun seoul #1 |
 | Wed Nov 4 – Sat Nov 7 | Food Week Korea (₩10,000; public all 4 days) | COEX Halls A–C | KoreaFun districts #42 |
