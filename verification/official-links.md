@@ -284,6 +284,27 @@ Each row was fetched directly from the official page today. This is the independ
 | Cheongdam Fashion Street | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84734) |
 | Mingles (Michelin 3★, closed Sun+Mon) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mingles) |
 
+### Second plan expansion (Q–Z) — new anchors (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Jogyesa Temple (24 h grounds, free) | [jogyesa.kr](https://www.jogyesa.kr/) |
+| Seoul Children's Grand Park (park/zoo, no weekly closed day) | [sisul.or.kr](https://www.sisul.or.kr/open_content/childrenpark/) · [Seoul city listing](https://english.seoul.go.kr/service/amusement/parks/) |
+| National Museum of Korea — Children's Museum reservation | [museum.go.kr](https://www.museum.go.kr/ENG/contents/E0103000000.do) |
+| Lotte World Adventure | [adventure.lotteworld.com](https://adventure.lotteworld.com/) |
+| Seoul Sky (Lotte World Tower) | [seoulsky.lotteworld.com](https://seoulsky.lotteworld.com/) |
+| Culture Station Seoul 284 (closed Mon) | [seoul284.org](https://www.seoul284.org/) |
+| Deoksugung Stonewall Walkway (Doldam-gil) | [VisitSeoul](https://english.visitseoul.net/attractions/Deoksugung%20Stonewall%20Walkway_/23958) |
+| Seoul Guided Walking Tour (free, English-speaking volunteer guides) | [VisitSeoul](https://english.visitseoul.net/walking-tour) · [sto.or.kr booking](https://www.sto.or.kr/english/tourism01/view?stBusinessSeq=30) |
+| Woo Lae Oak (Bib Gourmand, closed Mon) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak) |
+| Myeongdong Kyoja (Michelin Selected) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeongdong-kyoja) |
+| Hwangsaengga Kalguksu (Bib Gourmand 2026) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu) |
+| Imun Seolnongtang (Michelin Selected, 1907) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang) |
+| Hadongkwan (Michelin Selected, closed Sun) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan) |
+| Budnamujip (Michelin Selected) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip) |
+| Geumdwaeji Sikdang (Bib Gourmand 2026) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang) |
+| Pildong Myeonok (Bib Gourmand 2026, closed Sun) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pildong-myeonok) |
+
 ---
 
 ## 4. Restaurants & cafés — official pages (Koreafood verified roster)

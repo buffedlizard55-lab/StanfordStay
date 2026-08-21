@@ -33,7 +33,7 @@ Every itinerary below is built **only** from verified entries in the KoreaFun / 
 | **G4** | National Library of Korea → Seocho Park → Express Bus Terminal malls | Seocho | 🟩 | Any day (Library closed 2nd/4th Mon only) | National Library of Korea 🔎 · Seocho Park (24 h free) · Go-To Mall |
 | **G5** | Apgujeong Galleria → Cheongdam Fashion Street → Mingles gallery walk | Gangnam | 🟨 | Tue–Sat (Mingles closed Sun & Mon) | Galleria Department Store 🔎 · Cheongdam Fashion Street 🔎 · Mingles (Michelin 3★, exterior/booked) |
 
-## B. Complete Nov 1–9 plans (pick one, or splice) — **sixteen itineraries**
+## B. Complete Nov 1–9 plans (pick one, or splice) — **twenty-six itineraries**
 
 ### B1. Original set (A–F)
 
@@ -62,6 +62,23 @@ Same design rules: **one walking cluster per day** · busy+rest mix · closure-a
 | **N — Free & budget** | Prefer free official sites; Mulbit ₩1,000 finale; BANKSY/shows optional upgrades only | — | Nov 1, 3, 5, 7, 9 | [`plans/plan-N-free-budget.md`](plans/plan-N-free-budget.md) |
 | **O — Classic alternate order** | Plan A anchors re-ordered: BANKSY Yeouido-only Tue; Huwon on Fri; Hongdae Sat | Nov 2, 3, 5, 6 | Nov 1, 4, 9 | [`plans/plan-O-classic-alternate.md`](plans/plan-O-classic-alternate.md) |
 | **P — Modern Seoul** | DDP, BANKSY, Leeum, COEX, APMA, Elisabeth, Garosu/Sevit — minimal palace days | Nov 3, 4, 5, 6 | Nov 1, 2, 9 | [`plans/plan-P-modern-seoul.md`](plans/plan-P-modern-seoul.md) |
+
+### B3. Second expanded set (Q–Z) — added Aug 21, 2026
+
+Same design rules: **one walking cluster per day** · busy+rest mix · closure-aware · ✅/🔎/⏳/⛔ · **official links inline in every day cell + appendix table** · X4/X5/X6 still held.
+
+| Plan | Philosophy | Busy days | Easy days | File |
+|---|---|---|---|---|
+| **Q — Family & kids** | Free/low-cost parks, hands-on museums, Children's Grand Park zoo day | Nov 4, 7 | Nov 1, 2, 5, 9 | [`plans/plan-Q-family-kids.md`](plans/plan-Q-family-kids.md) |
+| **R — Michelin & Bib Gourmand food trail** | One starred/Bib Gourmand meal per day (Hadongkwan, Hwangsaengga, Imun, Budnamujip, Woo Lae Oak) | Nov 2, 5, 7 | Nov 1, 4, 9 | [`plans/plan-R-michelin-food-trail.md`](plans/plan-R-michelin-food-trail.md) |
+| **S — All-weather / indoor-first** | Every day leads with an indoor anchor; Lotte World Adventure rain-proof Saturday | Nov 4, 7 | Nov 1, 2, 5, 9 | [`plans/plan-S-all-weather.md`](plans/plan-S-all-weather.md) |
+| **T — Golden hour & viewpoints** | Sunrise/sunset-timed skyline anchors (N Seoul Tower, Some Sevit, Naksan, Yeouido) | Nov 3, 6, 8 | Nov 1, 4, 9 | [`plans/plan-T-golden-hour-viewpoints.md`](plans/plan-T-golden-hour-viewpoints.md) |
+| **U — Solo traveler** | Free guided walking tours, counter-seating meals, well-lit evening anchors | Nov 2, 5, 7 | Nov 1, 4, 8, 9 | [`plans/plan-U-solo-traveler.md`](plans/plan-U-solo-traveler.md) |
+| **V — First-timer express** | Five back-to-back busy days covering the maximum landmark checklist | Nov 2, 3, 5, 6, 7 | Nov 1, 4, 9 | [`plans/plan-V-first-timer-express.md`](plans/plan-V-first-timer-express.md) |
+| **W — Traditional crafts & temple** | Jogyesa, Bongeunsa Temple Life, gugak, craft museums — Buddhism/craft, not palaces | Nov 3, 5, 7 | Nov 1, 2, 4, 9 | [`plans/plan-W-crafts-temple.md`](plans/plan-W-crafts-temple.md) |
+| **X — Architecture & design** | Free DDP architecture tour, Leeum's three architects, Culture Station Seoul 284 | Nov 4, 6 | Nov 1, 2, 5, 9 | [`plans/plan-X-architecture-design.md`](plans/plan-X-architecture-design.md) |
+| **Y — Nightlife & late-night** | Soft mornings, late malls, 24 h BBQ, Mulbit's latest closing hour | Nov 3, 6, 7 | Nov 1, 2, 5, 9 | [`plans/plan-Y-nightlife-late.md`](plans/plan-Y-nightlife-late.md) |
+| **Z — Slow travel & wellness** | Zero 🟥 days; one anchor per day; only BANKSY + Mulbit are fixed | none | Nov 1, 2, 4, 5, 6, 7, 9 | [`plans/plan-Z-slow-wellness.md`](plans/plan-Z-slow-wellness.md) |
 
 ## D. Mixed-cluster itineraries — [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md)
 

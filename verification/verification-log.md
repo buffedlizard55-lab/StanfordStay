@@ -366,3 +366,24 @@ Ten more district-level day itineraries added — one per district file (`cities
 
 **Gate check applied to M4/J6/J7/D3/D4/H3/I3/I4/G4/G5:** every day is hotel → one inbound ride → walk-only for the rest of the day (D3's three-mall crawl is on foot between malls; G4/G5 each use a single Line 3/7/9 or Bundang Line ride in). Every district now has at least one 🟩 easy/rest day that wasn't previously in that file. Closure days are stated inline per itinerary (Migliore Mon, Hello apM Tue, Nagwon Sun, Unhyeongung Mon, Cheonggyecheon Museum Mon, Yanghwajin Sun, Jeoldusan museum Mon, Yongsan History Museum Mon, National Library 2nd/4th Mon, Majang Market 1st/3rd Sun, Mingles Sun+Mon). Individual café/mall-food-court hours inside Haebangchon and the Go-To Mall underground floors are marked 🔎/⏳ where only the anchor institution itself (not every shop) has an official page.
 
+---
+
+## 0g. Second complete-plan expansion (Q–Z) — line-by-line build (Aug 21, 2026)
+
+Ten more complete Nov 1–9 plans added, each a distinct traveler philosophy (family, Michelin food trail, all-weather, golden hour/viewpoints, solo, first-timer express, crafts/temple, architecture, nightlife, slow/wellness). Every plan reuses already-verified anchors from A–P, G–P's expansion, and the X14–X23/district-day rounds, plus a small number of new anchors specific to these themes — each checked directly against an official page this session.
+
+| # | Item | Official page fetched Aug 21, 2026 | Verdict |
+|---|---|---|---|
+| V47 | Jogyesa Temple grounds/hours | jogyesa.kr official — grounds open 24 h year-round, free, no admission fee, main hall (Daeungjeon) accessible roughly 04:00–21:00/23:00 per posted visitor notices; no weekly closed day | ✅ |
+| V48 | Seoul Children's Grand Park (park + zoo) hours/closure | sisul.or.kr official (Seoul Facilities Corporation) — park 05:00–22:00 daily, zoo 10:00–17:00 daily, **no weekly closed day**, free entry to park+zoo; amusement rides separately ticketed | ✅ |
+| V49 | National Museum of Korea Children's Museum reservation rule | museum.go.kr official (ENG contents E0103000000) — free but **compulsory online reservation**, 5 timed sessions 10:00–17:50, book up to 14 days ahead | ✅ |
+| V50 | Lotte World Adventure + Seoul Sky hours | adventure.lotteworld.com / seoulsky.lotteworld.com official — Lotte World Adventure today's-hours widget confirms daily operation; Seoul Sky Sun–Thu 10:30–22:00, Fri–Sat/holidays 10:30–23:00 (cross-checked against VisitKorea vcontsId=65854) | ✅ |
+| V51 | Culture Station Seoul 284 hours/closure | mediahub.seoul.go.kr (Seoul city record citing the venue's own posted hours) + korean.visitkorea.or.kr — Tue–Sun 10:00–19:00 (last Wed of month to 21:00), **closed every Monday**, free | ✅ |
+| V52 | Deoksugung Stonewall Walkway (Doldam-gil) hours | VisitSeoul ENP023958 — open year-round; interior walking path Tue–Sun 09:00–21:00 | ✅ |
+| V53 | Seoul Guided Walking Tour program | english.visitseoul.net/walking-tour official + sto.or.kr (Seoul Tourism Organization) — free program, 38 courses, English/Japanese/Chinese/Korean volunteer guides, online reservation required | ✅ |
+| V54 | Woo Lae Oak hours/closure | Michelin Guide official + madeinjoo.com cross-check — Tue–Sun 11:30–21:30, **closed Monday** (not Sunday — corrected from an initial assumption during drafting) | ✅ |
+| V55 | Bukchon Red Zone tourist-hour restriction | VisitSeoul ENP000261 + VisitKorea vcontsId=215658 — tourist visits restricted 17:00–10:00 next day since Nov 1, 2024, fine (₩100,000) enforced from Mar 2025; used across Q/T/V/Z to cap all Bukchon visits by 17:00 | ✅ |
+| V56 | Seoul sunrise/sunset times, Nov 2026 | timeofsunrise.com + worlddata.info (cross-checked, both agree) — average sunrise ≈07:10–07:15, average sunset ≈17:20–17:25 across Nov 1–9 at Seoul's latitude | 🔎 (independent almanac cross-check, not a single official page — used only for light-planning guidance in Plan T, no ticketed claim depends on it) |
+
+**Gate check applied to Q–Z:** every plan retains one walking cluster per day (hotel → ≤1 inbound ride → walk), a busy+rest mix (Plan Z is the sole intentional exception, capped at 🟨 with zero 🟥 by stated design), the Mon/Tue palace-closure matrix and Sunday restaurant closures are respected in every day cell (e.g., Plan R explicitly reroutes around Hadongkwan/Pildong Myeonok/Chanyang-jip's Sunday closures; Plan Q keeps Bukchon inside the pre-17:00 window), and the Nov 1 marathon AM closure is called out in every plan's Nov 1 row. X4/X5/X6 remain held. No new claim in this batch relies on an aggregator as its sole source — Woo Lae Oak's closed-day was corrected mid-draft (Michelin's Bib Gourmand page didn't state the closed day explicitly; a second independent source, madeinjoo.com, was used to confirm Monday rather than Sunday, and Michelin's own hours grid was re-checked to confirm consistency).
+
