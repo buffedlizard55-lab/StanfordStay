@@ -16,7 +16,7 @@
 | File | Contents |
 |---|---|
 | [`00-MASTER-LIST.md`](00-MASTER-LIST.md) | **Start here.** Every itinerary, its district cluster, pace, and the verified anchor in each. |
-| [`cities/`](cities/) | Seven district files — full-day itineraries per area (M/J/D/H/I/G) plus **twenty-three** mixed-cluster itineraries X1–X23; **every activity & restaurant row has an Official link column** |
+| [`cities/`](cities/) | Seven district files — **thirty-two** full-day itineraries per area (M1–M4, J1–J7, D1–D4, H1–H3, I1–I4, G1–G5) plus **twenty-three** mixed-cluster itineraries X1–X23; **every activity & restaurant row has an Official link column** |
 | [`plans/`](plans/) | **Sixteen** complete Nov 1–9 plans (**A–F** original · **G–P** expanded: museums, nights, markets, photo, minimal-transit, couple, sports, budget, classic-alt, modern) — **official links inline in every day cell** + 🔗 appendix per plan |
 | [`verification/official-links.md`](verification/official-links.md) | **Every item in every itinerary → its official page** (organizer/venue/league/city/Michelin/VisitKorea/VisitSeoul only). §1 = the 23 anchors re-fetched live Aug 21, 2026 |
 | [`verification/verification-log.md`](verification/verification-log.md) | Line-by-line ledger: every itinerary claim → official source → status |
@@ -68,3 +68,5 @@
 **Aug 21, 2026 (later):** added **10 more full-week plans (G–P)** under the same nearby-only / closure-aware / official-link rules. Master list §B2.
 
 **Aug 21, 2026 (later still):** added **10 more single/half-day mixed-cluster itineraries (X14–X23)** to [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md) — Seodaemun/Ansan, Sinchon/Ewha, Ichon extended, Noryangjin/Nodeul, Seorae Village, Jangchungdan, Gyeonghuigung/Seodaemun half-day, Bosingak/Unhyeongung, Namdaemun dawn market, and the Saturday-only Jongmyo→Changgyeonggung passage→Mulbit chain. Same rules throughout: one walking cluster per day, busy+rest mix, closure-aware, ✅/🔎/⏳/⛔ labels, official links only (organizer/venue/VisitKorea/VisitSeoul/Michelin — no aggregators). X4/X5/X6 remain held for the same reasons as before.
+
+**Aug 21, 2026 (final round):** added **10 more district-level day itineraries** — M4, J6, J7, D3, D4, H3, I3, I4, G4, G5 — one per district file, each pairing a new 🟥/🟨 anchor with a genuine 🟩 rest-day option per district (Shinsegae Heritage, Sajik Park, Doota/Migliore/Hello apM, Majang Meat Market, Yanghwajin Cemetery, Namsan Botanical Garden/Haebangchon, Yongsan Electronics Market, National Library of Korea, Apgujeong Galleria/Cheongdam). Every stop traces to an official VisitSeoul/VisitKorea/city/operator/Michelin page, fetched live this session; closure days (Migliore Mon, Hello apM Tue, Unhyeongung/Yongsan History Museum/Cheonggyecheon Museum Mon, Yanghwajin Sun, Mingles Sun+Mon, Nagwon Sun) are called out inline. Master list §A updated to 32 district itineraries.

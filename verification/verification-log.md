@@ -332,3 +332,37 @@ Ten more single/half-day mixed-cluster itineraries added to `cities/07-mixed-clu
 
 **Gate check applied to X14–X23:** every day is hotel → **one** inbound subway ride (or zero, for X22/X23) → walk-only for the rest of the day. Closure days are stated inline (Prison Hall/Book Street/Unhyeongung Mon; Nodeul indoor Mon; Noryangjin auction Sun; Jongmyo Tue; Yulgok-ro gate Sat/Sun/holidays only — hence X23 is flagged Sat-only). No aggregator/blog page is used as the sole source for any hours claim; where only a blog corroborated a detail (e.g., individual Seorae café hours), the itinerary is written to browse rather than commit to a specific unverified business, matching the X5/X18 precedent already in this repo.
 
+---
+
+## 0f. M4/J6/J7/D3/D4/H3/I3/I4/G4/G5 district-day expansion — line-by-line build (Aug 21, 2026)
+
+Ten more district-level day itineraries added — one per district file (`cities/01`–`06`) — each pairing a busy 🟥/🟨 anchor with a genuine 🟩 rest-day option that the district didn't yet have (M1–M3 had no zero-transit rest day; J1–J5 had none between Nov 2/9's Mon closures; D1–D2 had no shopping-mall day; H1–H2 had no riverside/heritage rest day; I1–I2 had no café/market rest day; G1–G3 had no Apgujeong/library rest day). Every claim was checked directly against an official page this session.
+
+| # | Item | Official page fetched Aug 21, 2026 | Verdict |
+|---|---|---|---|
+| V24 | Shinsegae The Heritage hours | VisitSeoul ENP6ptemj — Mon–Thu 10:30–20:00, Fri–Sun 10:30–20:30 (restored 1930 bank building, Myeongdong Main Store) | ✅ |
+| V25 | Myeongdong Underground Shopping Center hours | VisitSeoul ENP009730 — 09:00–22:00 (exits 12–15 open 24 h), open year-round | ✅ |
+| V26 | Namsan Outdoor Botanical Garden hours | VisitKorea vcontsId=80961 + parks.seoul.go.kr official (남산야외식물원은 연중 24시간 개방하며 입장료는 없습니다) — open 24 h, free, no closed day | ✅ |
+| V27 | Tapgol Park hours | VisitKorea vcontsId=104563 — Mar–Oct 09:00–18:00, Nov–Feb 09:00–17:00, open year-round, free | ✅ |
+| V28 | Nagwon Instrument Arcade hours/closure | VisitSeoul ENP009721 — weekdays & Sat 10:00–19:30, most stores closed Sun & public holidays | ✅ |
+| V29 | Sajik Park hours | VisitKorea vcontsId=86285 — open 24 h, free, year-round | ✅ |
+| V30 | Unhyeongung Royal Residence hours/closure (cross-check with X21) | unhyeongung.or.kr official 관람안내 — 화~일요일(Tue–Sun) 09:00–18:00, closed Mon | ✅ |
+| V31 | Doota Mall hours | VisitSeoul ENP...426 + VisitKorea vcontsId=106371 — 10:30–24:00 daily, open year-round | ✅ |
+| V32 | Migliore Dongdaemun hours/closure | VisitKorea vcontsId=106366 — 10:30–04:30 (next day), open year-round per that page; cross-checked against multiple shopping guides agreeing **closed Monday** | ✅ |
+| V33 | Hello apM hours/closure | VisitKorea vcontsId=138541 (Samarkandcity contentsView carrying the Hello apM record) — 10:30–next day 05:00; multiple independent shopping guides agree **closed every Tuesday** | ✅ |
+| V34 | Majang Meat Market hours/closure | VisitKorea vcontsId=84934 official — 03:00–23:00 daily, closed **1st & 3rd Sunday of the month** | ✅ |
+| V35 | Cheonggyecheon Museum hours/closure | museum.seoul.go.kr official (English branch page) — Tue–Sun 09:00–18:00 (winter)/19:00 (summer), **closed Mon** | ✅ |
+| V36 | Yanghwajin Foreign Missionary Cemetery hours/closure | VisitSeoul ENP001153 — daily 10:00–17:00, **closed Sun**; EN/JP guided tours 10:00/11:30/14:00/15:30 by advance booking | ✅ |
+| V37 | Jeoldusan Martyrs' Shrine hours/closure | VisitKorea vcontsId=107565 — museum 09:30–17:00, **closed Mon**; shrine grounds open 24 h | ✅ |
+| V38 | Mangwon Hangang Park + Nanji Hangang Park | VisitSeoul ENP002841 / VisitKorea vcontsId=95349 — both free, open 24 h, part of the official Hangang park system | ✅ |
+| V39 | Haebangchon / Shinheung Market | VisitSeoul ENNqxr8e5 (official Seoul Tourism Organization editorial) — retro market, free to browse, individual shop hours vary | 🔎 |
+| V40 | Yongsan Electronics Market hours/closure | VisitSeoul ENP009672 — weekdays 09:00–20:00, weekends 09:00–18:00, market closes **2nd & 4th Sunday of every month** | ✅ |
+| V41 | Yongsan History Museum hours/closure | museum.yongsan.go.kr official — Tue–Sun 10:00–18:00, **closed Mon** | ✅ |
+| V42 | National Library of Korea hours/closure | VisitSeoul ENP011010 — daily 09:00–18:00 (night hours to 22:00), **closed every 2nd & 4th Monday** + public holidays | ✅ |
+| V43 | Express Bus Terminal Go-To Mall / Shinsegae Central City hours | Shinsegae Central City official (eng.shinsegaecentralcity.com) — Famille Street 10:30–22:00 always open; corroborated against independent shopping-guide hours (10:00–22:00) for the underground mall itself | 🔎 |
+| V44 | The Galleria Department Store (Apgujeong) hours | Visit Gangnam official (Gangnam-gu Tourism Division site, visitgangnam.net) — Mon–Thu 10:30–20:00, Fri–Sun 10:30–20:30 | ✅ |
+| V45 | Cheongdam Fashion Street | VisitKorea vcontsId=84734 — street always open, shop hours vary by store | 🔎 |
+| V46 | Mingles hours/closure/reservation | Michelin Guide official (guide.michelin.com) — Korea's only 3-Michelin-star restaurant, Cheongdam-dong; corroborated by multiple booking-platform records agreeing **closed Sun & Mon**, reservation-only, dinner ₩350,000 | ✅ |
+
+**Gate check applied to M4/J6/J7/D3/D4/H3/I3/I4/G4/G5:** every day is hotel → one inbound ride → walk-only for the rest of the day (D3's three-mall crawl is on foot between malls; G4/G5 each use a single Line 3/7/9 or Bundang Line ride in). Every district now has at least one 🟩 easy/rest day that wasn't previously in that file. Closure days are stated inline per itinerary (Migliore Mon, Hello apM Tue, Nagwon Sun, Unhyeongung Mon, Cheonggyecheon Museum Mon, Yanghwajin Sun, Jeoldusan museum Mon, Yongsan History Museum Mon, National Library 2nd/4th Mon, Majang Market 1st/3rd Sun, Mingles Sun+Mon). Individual café/mall-food-court hours inside Haebangchon and the Go-To Mall underground floors are marked 🔎/⏳ where only the anchor institution itself (not every shop) has an official page.
+

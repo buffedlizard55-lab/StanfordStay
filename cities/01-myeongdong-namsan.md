@@ -1,7 +1,7 @@
-# 🛍️ Myeong-dong + Namsan — Itineraries M1 & M2
+# 🛍️ Myeong-dong + Namsan — Itineraries M1–M4
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
-**Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1; M2 starts at Myeongdong Station (8-min walk).
+**Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1/M4; M2 starts at Myeongdong Station (8-min walk).
 
 ---
 
@@ -95,3 +95,21 @@
 - Myeongdong NANTA theatre is inside the shopping district (UNESCO Building 3F) — 5-min walk from the hotel. A second NANTA house exists in Hongdae (reduced Wed–Sun schedule).
 - Myeong-dong Tourist Information Center (66 Eulji-ro, 09:00–18:00) + Seoul My Soul official shop inside. *(KoreaFun myeongdong #9–10)*
 - **1898 Cathedral cultural complex** (bookstore/gallery/café beside the cathedral) is a rain plan. *(KoreaFun myeongdong #7)*
+
+---
+
+## M4 — Shinsegae Heritage → Underground shopping → Namsan Botanical Garden rest day (🟩 easy) — any day; a genuinely zero-transit rest day
+
+> Built as the "tired legs" companion to M1/M3 — everything is inside the ≤12-min walking radius of the hotel, and the only ticketed stop (Shinsegae "The Heritage") is optional browsing, not a timed activity.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Walk (≈8 min) to **Shinsegae Department Store Main / "The Heritage"** — restored 1930 bank building, garden + gallery floors | **Mon–Thu 10:30–20:00 · Fri–Sun 10:30–20:30** | Free to browse | 🔎 | [Shinsegae The Heritage](https://english.visitseoul.net/shopping/ShinsegaeTheHeritage/ENP6ptemj) | VisitSeoul ENP6ptemj |
+| 11:00–11:45 | Continue into **Myeongdong Underground Shopping Center** (connects Myeong-dong to City Hall) | **09:00–22:00** (exits 12–15 open 24 h) | Free entry | 🔎 | [Myeongdong Underground Shopping Center](https://english.visitseoul.net/area/Myeongdong-Underground-Shopping-Center/ENP009730) | VisitSeoul ENP009730 |
+| 11:45–12:45 | Lunch — **Myeongdong Kyoja** (daily 10:30–21:00) or **Yeongyang Center** (daily 10:30–22:30) | — | — | 🔎 | [Myeongdong Kyoja](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99925) · [Yeongyang Center](https://english.visitseoul.net/restaurants/Yeongyang-Center/ENP012371) | Koreafood Route S1 |
+| 12:45–13:15 | Walk (≈15 min) toward Namsan's Hoehyeon side | — | — | — | [Namsan Outdoor Botanical Garden](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) | — |
+| 13:15–14:30 | **Namsan Outdoor Botanical Garden** — 13 themed gardens, open 24 h, free, no interior building to worry about closing | Open 24 h, free | Free | 🔎 | [Namsan Outdoor Botanical Garden](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) | VisitKorea vcontsId=80961 |
+| 14:30–15:15 | Coffee/tea back toward Myeong-dong — **Eulji Dabang** (Mon–Sat 06:00–21:00 / Sun 09:00–20:00) | — | — | 🔎 | [Eulji Dabang](https://english.visitseoul.net/restaurants/Eulji-Coffee-Shop/ENP025376) | Koreafood by-location |
+| 15:15 | Back at the hotel — the rest of the day is free | — | — | — | [Stanford Hotel Myeongdong](http://stanfordmyeongdong.com) | — |
+
+**Why this is the easy day:** zero subway rides, one optional purchase decision (Shinsegae), and every other stop is either free (botanical garden, underground shopping browsing) or a known Koreafood-verified meal. Pairs well after a busy J1/J2/G1 day.

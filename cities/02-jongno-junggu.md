@@ -1,4 +1,4 @@
-# ⛩️ Jongno & central Jung-gu — Itineraries J1–J4
+# ⛩️ Jongno & central Jung-gu — Itineraries J1–J7
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Jongno-gu + Gwanghwamun/City Hall side of Jung-gu · **From hotel:** Line 2→3 or a 15–20 min walk to Jongno 3-ga; ≈20–25 min to Gyeongbokgung by subway, ≈15 min by taxi.
@@ -104,3 +104,38 @@
 - Jongno 3-ga (Lines 1/3/5) is the useful hub for J2/J4 — ≈12–15 min from the hotel via Line 2→3 or a 20-min walk via Gwangjang.
 - **Jongmyo** (UNESCO shrine; closed **Tue**) is directly behind Changdeokgung — weekday visits are typically guided-tour-only; Saturday rules differ. Verify on royal.khs.go.kr before adding it. *(KoreaFun seoul #34)*
 - **Gyeongbokgung hanbok free-entry rule:** wearing hanbok grants free palace admission — rental shops cluster near Gyeongbokgung/Jongno. Combined 4-palace + Jongmyo ticket ₩10,000/3 months only pays off if you'll visit 3+. *(KoreaFun myeongdong #31)*
+
+---
+
+## J6 — Tapgol Park → Nagwon Instrument Arcade → Unhyeongung (🟨 moderate) — Tue–Sun (Unhyeongung closed Mon)
+
+> A quieter civic-heritage loop through central Jongno that has not appeared in J1–J5 or X-series: Korea's first modern public park, a working musical-instrument bazaar, and the royal residence where Gojong grew up — all inside a 15-minute walking triangle from Jongno 3-ga.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:20 | Line 1/3/5 to **Jongno 3-ga** Stn Exit 5 (≈15 min) | — | T-money | — | [Nagwon Instrument Arcade](https://english.visitseoul.net/area/Nagwon-Instrument-Arcade/ENP009721) | — |
+| 10:20–11:00 | **Tapgol Park** (formerly Pagoda Park) — Korea's first modern public park; 10-story Wongaksa pagoda, March 1st Movement monuments | **Mar–Oct 09:00–18:00 · Nov–Feb 09:00–17:00**, open year-round | Free | 🔎 | [Tapgol Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/locIntrdnList.do?vcontsId=104563) | VisitKorea vcontsId=104563 |
+| 11:00–12:00 | **Nagwon Instrument Arcade** — Korea's largest music-store bazaar, 2nd–3rd floors, hundreds of instrument shops | **Weekdays & Sat 10:00–19:30**; **most stores closed Sun & public holidays** | Free to browse | 🔎 | [Nagwon Instrument Arcade](https://english.visitseoul.net/area/Nagwon-Instrument-Arcade/ENP009721) | VisitSeoul ENP009721 |
+| 12:00–13:00 | Lunch — **Nagwon Rice Cake** or Insadong-side option (Sanchon, Bukchon Son Mandu) | — | — | 🔎 | [Nagwon Rice Cake](https://english.visitseoul.net/restaurants/Nakwon-Food/ENP026190) | VisitSeoul ENP026190 |
+| 13:00–14:30 | **Insadong** car-free street + Ssamziegil (10:30–20:30 daily) | Free | Free | 🔎 | [Insadong](https://mediahub.seoul.go.kr/archives/1270460) | KoreaFun districts #91 |
+| 14:30–16:00 | ⭐ **Unhyeongung Royal Residence** (Heungseon Daewongun's residence) | **Tue–Sun 09:00–18:00, closed Mon** | Free | ✅ | [Unhyeongung Royal Residence](https://www.unhyeongung.or.kr/?ckattempt=1) | unhyeongung.or.kr |
+| 16:00–16:30 | Walk or Line 3 Anguk → hotel-side transfer (≈20 min) | — | — | — | [Unhyeongung Royal Residence](https://www.unhyeongung.or.kr/?ckattempt=1) | — |
+
+**Closure trap:** Nagwon Arcade shops are mostly **closed Sundays**; Unhyeongung is **closed Mondays** — this itinerary only fully works **Tue–Sat**.
+
+---
+
+## J7 — Sajik Park → Gyeonghuigung → Seoullo civic sunset walk (🟩 easy) — any day; a rest day inside Jongno
+
+> The quiet, low-effort counterpart to J1/J2 — two 24-hour-open parks plus a free palace-grounds walk, with the only timed stop (Gyeonghuigung) open every day of the stay.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–10:50 | Line 3 to **Gyeongbokgung** Stn Exit 1, walk 5 min (≈20 min from hotel) | — | T-money | — | [Sajik Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86285) | — |
+| 10:50–12:00 | **Sajik Park** — 1395 Sajikdan altar grounds, quiet paths, statues of Sin Saimdang & Yi I | Open 24 h, free | Free | 🔎 | [Sajik Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86285) | VisitKorea vcontsId=86285 |
+| 12:00–13:00 | Lunch near Gyeongbokgung Stn (any J1 option — Hwangsaengga Kalguksu if walking to Bukchon after) | — | — | 🔎 | [Hwangsaengga Kalguksu](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86236) | Koreafood S3 |
+| 13:00–14:00 | **Gyeonghuigung** — quiet western Joseon palace, usually uncrowded, grounds free | Free entry to grounds | Free | 🔎 | [Gyeonghuigung](https://royal.khs.go.kr) | KoreaFun seoul #33 |
+| 14:00–15:00 | Walk to **Gwanghwamun Square** + **Seoullo 7017** entry point near Seoul Station side | Free | Free | 🔎 | [Seoullo 7017](https://seoullo7017.seoul.go.kr) | KoreaFun seoul #63 |
+| 15:00–16:00 | Coffee/rest at a Gwanghwamun-side café; walk back to the hotel (≈15–20 min) | — | — | ⏳ | — | — |
+
+**Why this is the easy day:** two free 24-hour parks, one free palace-grounds walk, zero ticketed stops, and it never touches the Mon/Tue palace-closure matrix since Gyeonghuigung's grounds and both parks are open every day of the stay.

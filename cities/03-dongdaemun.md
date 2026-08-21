@@ -1,4 +1,4 @@
-# 🏮 Dongdaemun & east — Itineraries D1 & D2
+# 🏮 Dongdaemun & east — Itineraries D1–D4
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** DDP / Dongdaemun markets (Jung-gu edge) + Sindang + Jegi-dong/Hongneung (Dongdaemun-gu) · **From hotel:** DDP is a **12–15 min walk** straight up Euljiro or 2 stops on Line 2 (≈8 min); Sindang is 2 stops on Line 2/6.
@@ -55,3 +55,38 @@
 - DDP area = Lines 2/4/5 **Dongdaemun History & Culture Park** — from the hotel it's the simplest night out in the city (walk or 2 stops).
 - **"DDP Autumn Festival Oct 30–Nov 1"** appears only on the SMG planning calendar — treat as unconfirmed; the nightly light show is the reliable plan. *(KoreaFun seoul #53)*
 - Dongdaemun Comprehensive Market's home-goods floors only partially open 1st/3rd/5th Sundays; fabric floors shut Sundays. Don't promise Sunday shopping there. *(KoreaFun districts #74)*
+
+---
+
+## D3 — Dongdaemun retail malls: Doota → Migliore → Hello apM night crawl (🟥 busy) — best Wed–Sun (Hello apM closed Tue; Migliore closed Mon)
+
+> The "midnight shopping" version of D1 — three of Dongdaemun's flagship 24-hour-ish retail towers, sequenced so no mall's weekly closed day is hit, ending back at DDP for Dream in Light.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 17:30–18:00 | Walk or Line 2 to **Dongdaemun History & Culture Park** Stn Exit 14 (≈15 min) | — | — | — | [Doota Mall](https://english.visitseoul.net/shopping/doota-dongdaemun_/426) | — |
+| 18:00–19:30 | ⭐ **Doota Mall** — 8-floor K-fashion complex, open until midnight | **10:30–24:00 daily, open year-round** | Free entry | ✅ | [Doota Mall](https://english.visitseoul.net/shopping/doota-dongdaemun_/426) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106371) | VisitSeoul ENP...426 · VisitKorea vcontsId=106371 |
+| 19:30–20:30 | **Migliore** — budget streetwear, 10-min walk | **10:30–04:30 (next day), closed Monday** | Free entry | ✅ | [Migliore](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106366) | VisitKorea vcontsId=106366 |
+| 20:30–21:30 | Dinner — **Jin Ok-hwa Halmae Wonjo Dakhanmari** (daily 10:30–01:00) or **Eunhangnamujip** (24 h) | — | — | 🔎 | [Jin Ok-hwa](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86514) · [Eunhangnamujip](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=58916) | Koreafood S5 |
+| 21:30–22:30 | **Hello apM** — younger-skewing fashion mall, popular with foreign tourists | **10:30–next day 05:00, closed every Tuesday** | Free entry | ✅ | [Hello apM (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138541) | VisitKorea vcontsId=138541 |
+| 22:30–23:00 | Walk back to **DDP** for the last **Dream in Light** cycle (18:00–22:00 nightly, on the hour — catch an earlier cycle if timing runs late) | Free | Free | 🔎 | [DDP Dream in Light](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) | KoreaFun districts #1 |
+| 23:00 | Line 2 back to Euljiro 1-ga (2 stops) | — | — | — | [DDP](https://ddp.or.kr) | — |
+
+**Closure trap:** **Migliore closed Mon; Hello apM closed Tue** — this sequence (Doota → Migliore → Hello apM) only fully works **Wed–Sun**. On a Monday, swap Migliore for extra time in Doota or Hello apM; on a Tuesday, swap Hello apM for Doota's food court.
+
+---
+
+## D4 — Majang Meat Market → Cheonggyecheon Museum → Cheonggyecheon stream walk (🟩 easy) — Tue–Sun (museum closed Mon)
+
+> The rest day for this district — a wholesale meat market for a hanwoo BBQ lunch, a small free museum, then a flat riverside walk all the way back toward the hotel.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 11:00–11:30 | Line 2 to **Yongdu** Stn Exit 4 (≈20 min) | — | T-money | — | [Majang Meat Market](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84934) | — |
+| 11:30–13:00 | **Majang Meat Market** — Korea's largest hanwoo/meat wholesale market; buy cuts + pay a nearby grill house corkage to cook them | **03:00–23:00 daily**; closed **1st & 3rd Sunday of the month** | Free entry (pay per item) | 🔎 | [Majang Meat Market](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84934) | VisitKorea vcontsId=84934 |
+| 13:00–13:30 | Lunch — grilled hanwoo at a market-adjacent grill house (pay corkage on the meat you bought) | — | — | ⏳ | — | — |
+| 13:30–14:30 | Line 2 to **Sindang** → walk to **Cheonggyecheon Museum** | **Tue–Sun 09:00–19:00 (summer) / 09:00–18:00 (winter), closed Mon** | Free | 🔎 | [Cheonggyecheon Museum](https://museum.seoul.go.kr/eng/about/annex/cheongGyeMuse.jsp) | museum.seoul.go.kr official |
+| 14:30–16:00 | **Cheonggyecheon stream walk** westward back toward the hotel (≈2.5 km, flat, shaded) | Free, lit at night | Free | 🔎 | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | KoreaFun seoul #64 |
+| 16:00 | Arrive back near the hotel via the stream path | — | — | — | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | — |
+
+**Closure trap:** Cheonggyecheon Museum **closed Mondays**; Majang Meat Market closes on the **1st and 3rd Sunday** of the month — check the calendar date, not just the weekday.

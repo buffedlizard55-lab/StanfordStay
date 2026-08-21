@@ -1,4 +1,4 @@
-# 🕌 Itaewon & Yongsan — Itineraries I1 & I2
+# 🕌 Itaewon & Yongsan — Itineraries I1–I4
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Itaewon-ro / Hannam / Hangangjin (Line 6) + Yongsan museums (Ichon / Sinyongsan / Samgakji) · **From hotel:** Itaewon ≈20–25 min (Line 4→6 or taxi ≈15 min) · Leeum (Hangangjin) ≈25 min · National Museum (Ichon, **Line 4 direct from Myeongdong**) ≈25–30 min.
@@ -51,3 +51,37 @@
 - Leeum + Blue Square are ~8 min apart in Hannam — doing the museum by day and Elisabeth by night is one subway stop (Hangangjin) plus a walk.
 - **Theater YONG** (4F National Museum) had **no published November programme** at the Aug review — check museum.go.kr in October; a show there pairs perfectly with the Wed/Sat late opening. *(KoreaFun districts #41-note)*
 - The National Museum's **Children's Museum** needs a compulsory free online reservation (~30 days ahead) if you're traveling with kids. *(KoreaFun districts #80)*
+
+---
+
+## I3 — Namsan Botanical Garden → Haebangchon → Shinheung Market rest day (🟩 easy) — any day, walkable from Noksapyeong Stn
+
+> The slow, café-crawl counterpart to I1's museum-heavy day — a free garden, a hillside neighborhood walk, and a retro market, with no ticketed anchor at all.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 11:00–11:30 | Line 4→6 to **Noksapyeong** Stn Exit 2 (≈25 min) | — | T-money | — | [Namsan Outdoor Botanical Garden](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) | — |
+| 11:30–12:30 | **Namsan Outdoor Botanical Garden** — 13 themed gardens on Namsan's south slope | Open 24 h, free | Free | 🔎 | [Namsan Outdoor Botanical Garden](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) | VisitKorea vcontsId=80961 |
+| 12:30–13:30 | Walk uphill into **Haebangchon (HBC)** — hillside neighborhood, rooftop cafés, independent bookstores | Free to walk; café hours vary | — | 🔎 | [HBC / Haebangchon area](https://english.visitseoul.net/editorspicks/Shinheung/ENNqxr8e5) | VisitSeoul ENNqxr8e5 |
+| 13:30–14:30 | Lunch — **Haebangchondak** (Mon–Fri 17:00–24:00 dinner-only, so lunch elsewhere on the main strip) or any HBC storefront | — | — | 🔎 | [Haebangchondak](https://english.visitseoul.net/restaurants/2024-hbcdak_/45783) | VisitSeoul ENP45783 |
+| 14:30–15:30 | **Shinheung Market** — 1990s-retro revitalized market with vintage shops, cafés, indie bookstores | Free to browse; shop hours vary (most 10:30–21:30+) | — | 🔎 | [Shinheung Market](https://english.visitseoul.net/editorspicks/Shinheung/ENNqxr8e5) | VisitSeoul ENNqxr8e5 |
+| 15:30–16:00 | Walk down to Noksapyeong Stn → Line 6/4 back to hotel (≈25 min) | — | — | — | [Namsan Outdoor Botanical Garden](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) | — |
+
+**Why this is the easy day:** the only fixed anchor (the botanical garden) is free and open 24 h year-round — no closure day to plan around. HBC/Shinheung café choice is left open since individual shops aren't yet in the Koreafood verified roster.
+
+---
+
+## I4 — Yongsan Electronics Market → Yongsan History Museum → Iparkmall (🟨 moderate) — Tue–Sun (History Museum closed Mon; market's 1st/3rd Sun vary)
+
+> A different Yongsan half-day from I2 — shopping and civic history around Yongsan Station itself, not the Ichon museum row.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 1 or 4 to **Yongsan** Stn (≈15–20 min from hotel) | — | T-money | — | [Yongsan Electronics Market](https://english.visitseoul.net/shopping/Yongsan-Electronics-Market-EN/ENP009672) | — |
+| 11:00–12:30 | **Yongsan Electronics Market** — Korea's largest electronics bazaar (Najin/Seonin/Terminal/Space9 buildings) | **Weekdays 09:00–20:00 · weekends 09:00–18:00**; market closes **2nd & 4th Sunday of every month** (hours vary by store) | Free entry | 🔎 | [Yongsan Electronics Market](https://english.visitseoul.net/shopping/Yongsan-Electronics-Market-EN/ENP009672) | VisitSeoul ENP009672 |
+| 12:30–13:30 | Lunch in the Iparkmall food court or nearby streets | — | — | ⏳ | [Iparkmall Yongsan](https://access.visitkorea.or.kr/ms/detail.do?cotId=f10e3c38-2b26-49ca-9ea3-7ec1e8b559b6) | KTO listing |
+| 13:30–15:00 | **Yongsan History Museum** — restored 1930s Japanese-style residence, local history exhibits | **Tue–Sun 10:00–18:00, closed Mon** | Free | 🔎 | [Yongsan History Museum](https://museum.yongsan.go.kr/visit/guide) | museum.yongsan.go.kr official |
+| 15:00–16:00 | **Iparkmall Yongsan** browsing (cinema, shops, connected to Yongsan Station) | Standard mall hours | Free entry | 🔎 | [Iparkmall Yongsan](https://access.visitkorea.or.kr/ms/detail.do?cotId=f10e3c38-2b26-49ca-9ea3-7ec1e8b559b6) | KTO listing |
+| 16:00–16:30 | Line 1 or 4 back to Myeongdong/Seoul Station corridor (≈15–20 min) | — | — | — | [Yongsan Electronics Market](https://english.visitseoul.net/shopping/Yongsan-Electronics-Market-EN/ENP009672) | — |
+
+**Closure trap:** Yongsan History Museum **closed Mondays**; the Electronics Market's individual buildings close on the **2nd and 4th Sunday** of the month — check the calendar date, not just the weekday.

@@ -22,6 +22,16 @@ Every itinerary below is built **only** from verified entries in the KoreaFun / 
 | **G1** | COEX day: Bongeunsa Temple Life (EN) → Starfield Library → Food Week → Garosu-gil | Gangnam/Seocho | 🟥 | **Nov 5 (Thu)** — Temple Life is Thursday-only in window (also Nov 12+) | Bongeunsa Temple Life **Thu 14:00–16:00, ₩30,000** · Food Week Korea Nov 4–7 (₩10,000) |
 | **G2** | Gangnam classic: Seonjeongneung → K-Star Road → Apgujeong Rodeo → Some Sevit night | Gangnam/Seocho | 🟨 | Nov 3–8 (Seonjeongneung closed Mon) | Seonjeongneung ₩1,000 free docent tours 🔎 · K-Star Road 🔎 · Some Sevit decks free |
 | **G3** | Saturday gugak afternoon (adds to any Sat plan) | Seocho | 🟨 | **Nov 7 (Sat)** only | Gugak Museum free EN tour **14:00** + 토요명품 **15:00** (₩20–30k) |
+| **M4** | Shinsegae Heritage → Underground shopping → Namsan Botanical Garden rest day | Myeong-dong + Namsan | 🟩 | Any day — a zero-transit rest day | Shinsegae The Heritage 🔎 · Myeongdong Underground Shopping 🔎 · Namsan Outdoor Botanical Garden (24 h free) |
+| **J6** | Tapgol Park → Nagwon Instrument Arcade → Unhyeongung | Jongno | 🟨 | Tue–Sat (Nagwon shops shut Sun; Unhyeongung closed Mon) | Tapgol Park 🔎 · Nagwon Instrument Arcade 🔎 · Unhyeongung Royal Residence ✅ |
+| **J7** | Sajik Park → Gyeonghuigung → Seoullo civic sunset walk | Jongno | 🟩 | Any day — rest day, no closure matrix | Sajik Park (24 h free) 🔎 · Gyeonghuigung 🔎 · Seoullo 7017 🔎 |
+| **D3** | Dongdaemun retail malls: Doota → Migliore → Hello apM night crawl | Dongdaemun | 🟥 | Wed–Sun (Migliore closed Mon; Hello apM closed Tue) | Doota Mall ✅ · Migliore ✅ · Hello apM ✅ · DDP Dream in Light |
+| **D4** | Majang Meat Market → Cheonggyecheon Museum → stream walk | Dongdaemun-gu | 🟩 | Tue–Sun (museum closed Mon; market shut 1st/3rd Sun) | Majang Meat Market 🔎 · Cheonggyecheon Museum 🔎 · Cheonggyecheon walk |
+| **H3** | Yanghwajin Missionary Cemetery → Jeoldusan Shrine → Hangang riverside | Mapo | 🟩 | Mon–Sat (cemetery closed Sun) | Yanghwajin Cemetery 🔎 · Jeoldusan Martyrs' Shrine 🔎 · Mangwon/Nanji Hangang Park |
+| **I3** | Namsan Botanical Garden → Haebangchon → Shinheung Market rest day | Itaewon/Yongsan | 🟩 | Any day — no ticketed anchor | Namsan Outdoor Botanical Garden (24 h free) · Haebangchon walk · Shinheung Market |
+| **I4** | Yongsan Electronics Market → Yongsan History Museum → Iparkmall | Yongsan | 🟨 | Tue–Sun (History Museum closed Mon) | Yongsan Electronics Market 🔎 · Yongsan History Museum ✅ · Iparkmall |
+| **G4** | National Library of Korea → Seocho Park → Express Bus Terminal malls | Seocho | 🟩 | Any day (Library closed 2nd/4th Mon only) | National Library of Korea 🔎 · Seocho Park (24 h free) · Go-To Mall |
+| **G5** | Apgujeong Galleria → Cheongdam Fashion Street → Mingles gallery walk | Gangnam | 🟨 | Tue–Sat (Mingles closed Sun & Mon) | Galleria Department Store 🔎 · Cheongdam Fashion Street 🔎 · Mingles (Michelin 3★, exterior/booked) |
 
 ## B. Complete Nov 1–9 plans (pick one, or splice) — **sixteen itineraries**
 

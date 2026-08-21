@@ -1,4 +1,4 @@
-# 🏙️ Gangnam & Seocho — Itineraries G1–G3
+# 🏙️ Gangnam & Seocho — Itineraries G1–G5
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Samseong/COEX + Bongeunsa (Gangnam-gu) · Seolleung/Apgujeong/Cheongdam · Seocho (National Gugak Center, Seoul Arts Center) · **From hotel:** Line 2 direct from Euljiro 1-ga to Samseong ≈30 min / Gangnam Stn ≈25 min; express note — Shinbundang does **not** accept Climate Card.
@@ -75,3 +75,37 @@ KGMA 2026 (3rd edition) is confirmed **Sat–Sun Nov 7–8 at Gocheok Sky Dome**
 - COEX = Line 2 **Samseong** inside the station; Bongeunsa is the exit-adjacent temple; the whole G1 cluster is a 10-min walk triangle.
 - Sunday closures hit this district hard (Madam Ming, Moodeungsan, BBQ YUL closed Sun) — favor Tue–Sat for G2 dining.
 - **Jamsil extension (outside the requested districts, optional):** Lotte World Adventure indoor park (Sun–Thu 10:00–21:00 / Fri–Sat to 22:00 — big rainy-day option; after-4 tickets from 16:00) + Seoul Sky (₩33,000, Sun–Thu 10:30–22:00 / Fri–Sat to 23:00) are one Line 2 stop past Samseong. *(KoreaFun seoul #96/#58)*
+
+---
+
+## G4 — National Library of Korea → Seocho Park → Express Bus Terminal underground malls (🟩 easy) — any day; a rest day inside Seocho
+
+> A slow, mostly-free day around the National Library campus — this is the low-effort Seocho counterpart to G1's busy COEX triangle.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 3/7/9 to **Express Bus Terminal** Stn (≈25–30 min) | — | T-money | — | [National Library of Korea](https://english.visitseoul.net/attractions/National-Library-of-Korea-EN/ENP011010) | — |
+| 11:00–12:30 | **National Library of Korea** — main building + annex, free reading rooms, visitor tour program | **Daily 09:00–18:00 (night hours to 22:00)**; **closed every 2nd & 4th Monday** + public holidays | Free | 🔎 | [National Library of Korea](https://english.visitseoul.net/attractions/National-Library-of-Korea-EN/ENP011010) | VisitSeoul ENP011010 |
+| 12:30–13:00 | Walk into **Seocho Park** (adjacent, free, open 24 h) | Free | Free | 🔎 | [National Library of Korea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111030) | VisitKorea vcontsId=111030 (library grounds) |
+| 13:00–14:00 | Lunch — Express Bus Terminal underground food court | — | — | ⏳ | — | — |
+| 14:00–15:30 | **Express Bus Terminal Underground Shopping Center (Go-To Mall)** browsing | **10:00–22:00 daily**, closed 3rd Thursday of the month | Free entry | 🔎 | [Go-To Mall](https://www.trazy.com/spot/82/express-bus-terminal-underground-shopping-center-go-to-mall-shopping) — cross-checked against [Shinsegae Central City official](http://eng.shinsegaecentralcity.com/about) | Shinsegae Central City official |
+| 15:30–16:00 | Return: Line 3/7/9 back toward the hotel (≈25–30 min) | — | — | — | [National Library of Korea](https://english.visitseoul.net/attractions/National-Library-of-Korea-EN/ENP011010) | — |
+
+**Closure trap:** National Library **closed every 2nd and 4th Monday of the month** (not every Monday) — check the specific Monday date before going.
+
+---
+
+## G5 — Apgujeong Galleria → Cheongdam Fashion Street → Mingles-side gallery walk (🟨 moderate) — Tue–Sat (Galleria/Cheongdam best avoiding Sun closures at nearby restaurants)
+
+> A step up in polish from G2 — the Galleria department store's architecture, Cheongdam's gallery-and-boutique street, and a walk past Korea's only 3-Michelin-star restaurant (exterior only — book weeks ahead to dine).
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 11:00–11:30 | Line 3 or Bundang Line to **Apgujeong / Apgujeong Rodeo** Stn (≈30 min) | — | T-money | — | [The Galleria](https://visitgangnam.net/en/places/the-galleria-masterpieces-among-masterpieces) | — |
+| 11:30–13:00 | **Galleria Department Store** (WEST/EAST halls) — architecture + luxury-brand floors | **Mon–Thu 10:30–20:00 · Fri–Sun 10:30–20:30** | Free to browse | 🔎 | [The Galleria](https://visitgangnam.net/en/places/the-galleria-masterpieces-among-masterpieces) | Visit Gangnam official (Gangnam-gu Tourism Division) |
+| 13:00–14:00 | Lunch on Apgujeong Rodeo (any posted-hours storefront) | — | — | ⏳ | — | — |
+| 14:00–16:00 | **Cheongdam Fashion Street** — boutiques, art galleries, restaurant row | Street always open; shop hours vary | Free | 🔎 | [Cheongdam Fashion Street](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84734) | VisitKorea vcontsId=84734 |
+| 16:00–16:30 | Walk past **Mingles** (Korea's only 3-Michelin-star restaurant, Dosan-daero 67-gil) — exterior only unless booked weeks ahead via the restaurant's own site | Reservation-only; **closed Sun & Mon** | ⏳ (dinner ₩350,000+) | 🔎 | [Mingles (Michelin Guide)](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mingles) | Michelin Guide official |
+| 16:30–17:00 | Return: Line 3/Bundang → hotel-side transfer (≈30 min) | — | — | — | [The Galleria](https://visitgangnam.net/en/places/the-galleria-masterpieces-among-masterpieces) | — |
+
+**Closure trap:** Mingles is **closed Sunday and Monday** and requires reservations weeks in advance — this itinerary treats it as a photo-op landmark, not a booked meal, unless you've already secured a table.

@@ -253,6 +253,37 @@ Each row was fetched directly from the official page today. This is the independ
 | Sanchon (Insadong temple-food restaurant) | [VisitSeoul](https://english.visitseoul.net/restaurants/Sanchon-en/ENP014518) |
 | Seodaemun Gopchang (closed Sun) | [VisitSeoul](https://english.visitseoul.net/restaurants/Seodaemun-Gopchang/ENP013139) |
 
+### District day-itineraries — M4/J6/J7/D3/D4/H3/I3/I4/G4/G5 (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Shinsegae The Heritage (Myeongdong Main Store) | [VisitSeoul](https://english.visitseoul.net/shopping/ShinsegaeTheHeritage/ENP6ptemj) |
+| Myeongdong Underground Shopping Center | [VisitSeoul](https://english.visitseoul.net/area/Myeongdong-Underground-Shopping-Center/ENP009730) |
+| Namsan Outdoor Botanical Garden (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) |
+| Tapgol Park (formerly Pagoda Park) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/locIntrdnList.do?vcontsId=104563) |
+| Nagwon Instrument Arcade (closed Sun) | [VisitSeoul](https://english.visitseoul.net/area/Nagwon-Instrument-Arcade/ENP009721) |
+| Nagwon Rice Cake | [VisitSeoul](https://english.visitseoul.net/restaurants/Nakwon-Food/ENP026190) |
+| Sajik Park (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86285) |
+| Doota Mall | [VisitSeoul](https://english.visitseoul.net/shopping/doota-dongdaemun_/426) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106371) |
+| Migliore Dongdaemun (closed Mon) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106366) |
+| Hello apM (closed Tue) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138541) |
+| Majang Meat Market (closed 1st/3rd Sun) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84934) |
+| Cheonggyecheon Museum (closed Mon) | [museum.seoul.go.kr](https://museum.seoul.go.kr/eng/about/annex/cheongGyeMuse.jsp) |
+| Yanghwajin Foreign Missionary Cemetery (closed Sun) | [VisitSeoul](https://english.visitseoul.net/attractions/Yanghwajin-Foreign-Missionary-Cemetery/ENP001153) |
+| Jeoldusan Martyrs' Shrine (museum closed Mon) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107565) |
+| Mangwon Hangang Park | [VisitSeoul](https://english.visitseoul.net/nature/Mangwon-Hangang-Park/ENP002841) |
+| Nanji Hangang Park | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=95349) |
+| Haebangchon / Shinheung Market | [VisitSeoul](https://english.visitseoul.net/editorspicks/Shinheung/ENNqxr8e5) |
+| Haebangchondak | [VisitSeoul](https://english.visitseoul.net/restaurants/2024-hbcdak_/45783) |
+| Yongsan Electronics Market | [VisitSeoul](https://english.visitseoul.net/shopping/Yongsan-Electronics-Market-EN/ENP009672) |
+| Yongsan History Museum (closed Mon) | [museum.yongsan.go.kr](https://museum.yongsan.go.kr/visit/guide) |
+| Iparkmall Yongsan | [KTO listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=f10e3c38-2b26-49ca-9ea3-7ec1e8b559b6) |
+| National Library of Korea (closed 2nd/4th Mon) | [VisitSeoul](https://english.visitseoul.net/attractions/National-Library-of-Korea-EN/ENP011010) · [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111030) |
+| Express Bus Terminal Go-To Mall / Shinsegae Central City | [Shinsegae Central City official](http://eng.shinsegaecentralcity.com/about) |
+| The Galleria Department Store (Apgujeong) | [Visit Gangnam (Gangnam-gu Tourism Division)](https://visitgangnam.net/en/places/the-galleria-masterpieces-among-masterpieces) |
+| Cheongdam Fashion Street | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84734) |
+| Mingles (Michelin 3★, closed Sun+Mon) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mingles) |
+
 ---
 
 ## 4. Restaurants & cafés — official pages (Koreafood verified roster)

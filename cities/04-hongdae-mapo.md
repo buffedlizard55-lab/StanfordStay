@@ -1,4 +1,4 @@
-# 🎸 Hongdae & Mapo — Itineraries H1 & H2
+# 🎸 Hongdae & Mapo — Itineraries H1–H3
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Hongdae (Hongik Univ. Stn) + Yeonnam + Mangwon/Sangam (Mapo-gu) · **From hotel:** Line 2 direct from Euljiro 1-ga to Hongik Univ. ≈20 min ride (≈25–30 min door-to-door); Mangwon adds Line 6 (≈35 min); Sangam ≈35–40 min.
@@ -64,3 +64,20 @@
 - Line 2 from **Euljiro 1-ga runs direct to Hongik Univ.** — no transfers; ~9 stops. Coming home after midnight, budget a taxi (≈25 min, well-trafficked rank in Hongdae).
 - **Seoul Marathon (Sun Nov 1)** starts at Sangam (World Cup Park) 08:00 — if you want to *watch* the start, go early; expect crowds and closed roads around Hapjeong/Mapo bridges that morning. *(KoreaFun seoul #2)*
 - FC Seoul plays at Seoul World Cup Stadium; final-round home fixtures are only drawn after Oct 25 — a match could land on a Nov weekend (👀 kleague.com). *(KoreaFun seoul #79)*
+
+---
+
+## H3 — Yanghwajin Missionary Cemetery → Jeoldusan Shrine → Hangang riverside (🟩 easy) — Mon–Sat (cemetery/shrine both closed Sun)
+
+> A quiet riverside half-day on the Mapo side of the line, entirely different in character from H1's busking energy — two heritage sites overlooking the Han, then a flat riverside walk.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 2 → Line 6 transfer at Hapjeong → **Hapjeong** Stn, walk to the river (≈30 min from hotel) | — | T-money | — | [Jeoldusan Martyrs' Shrine](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107565) | — |
+| 11:00–12:00 | **Jeoldusan Martyrs' Shrine** — Catholic martyrdom site overlooking the Han, museum + shrine grounds | Grounds open 24 h; **museum 09:30–17:00, closed Mon** | Free | 🔎 | [Jeoldusan Martyrs' Shrine](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107565) | VisitKorea vcontsId=107565 |
+| 12:00–13:00 | **Yanghwajin Foreign Missionary Cemetery** — 1890 international cemetery, English-language guided tours at set times | **Mon–Sat 10:00–17:00, closed Sun**; EN/JP tours 10:00/11:30/14:00/15:30 (book ahead) | Free | 🔎 | [Yanghwajin Foreign Missionary Cemetery](https://english.visitseoul.net/attractions/Yanghwajin-Foreign-Missionary-Cemetery/ENP001153) | VisitSeoul ENP001153 |
+| 13:00–14:00 | Lunch near Hapjeong/Mangwon | — | — | ⏳ | — | — |
+| 14:00–15:30 | **Mangwon Hangang Park** or **Nanji Hangang Park** riverside walk (both open 24 h, free) | Free | Free | 🔎 | [Mangwon Hangang Park](https://english.visitseoul.net/nature/Mangwon-Hangang-Park/ENP002841) · [Nanji Hangang Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=95349) | VisitSeoul ENP002841 · VisitKorea vcontsId=95349 |
+| 15:30–16:00 | Line 6 or bus back to Hapjeong → Line 2 → Euljiro 1-ga (≈30 min) | — | — | — | [Mangwon Hangang Park](https://english.visitseoul.net/nature/Mangwon-Hangang-Park/ENP002841) | — |
+
+**Closure trap:** Yanghwajin Cemetery **closed Sundays**; Jeoldusan's indoor museum **closed Mondays** (shrine grounds stay open). Best run **Tue–Sat** to get both interiors.
