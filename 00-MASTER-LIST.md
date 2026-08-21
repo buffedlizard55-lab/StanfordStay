@@ -91,7 +91,7 @@ Entered only if every named stop traces to KoreaFun/Koreafood **and** the day st
 
 ## C2. Official links for every date-locked anchor (added Aug 21, 2026)
 
-Full directory with every activity + restaurant link: [`verification/official-links.md`](verification/official-links.md).
+Full directory with every activity + restaurant link: [`verification/official-links.md`](verification/official-links.md). **Every city itinerary table and every plan day-cell also carries the official URL inline** — you do not need to leave the itinerary to look something up.
 
 | Anchor | Official page(s) |
 |---|---|
