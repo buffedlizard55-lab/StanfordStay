@@ -17,7 +17,7 @@
 |---|---|
 | [`00-MASTER-LIST.md`](00-MASTER-LIST.md) | **Start here.** Every itinerary, its district cluster, pace, and the verified anchor in each. |
 | [`cities/`](cities/) | Seven district files — full-day itineraries per area (M/J/D/H/I/G) plus mixed-cluster X1–X13; **every activity & restaurant row has an Official link column** |
-| [`plans/`](plans/) | **Six** complete Nov 1–9 plans (A balanced · B events-first · C relaxed · D food-first · E walk-cluster · F heritage) — **official links inline in every day cell** + a 🔗 appendix table per plan |
+| [`plans/`](plans/) | **Sixteen** complete Nov 1–9 plans (**A–F** original · **G–P** expanded: museums, nights, markets, photo, minimal-transit, couple, sports, budget, classic-alt, modern) — **official links inline in every day cell** + 🔗 appendix per plan |
 | [`verification/official-links.md`](verification/official-links.md) | **Every item in every itinerary → its official page** (organizer/venue/league/city/Michelin/VisitKorea/VisitSeoul only). §1 = the 23 anchors re-fetched live Aug 21, 2026 |
 | [`verification/verification-log.md`](verification/verification-log.md) | Line-by-line ledger: every itinerary claim → official source → status |
 | [`verification/booking-checklist.md`](verification/booking-checklist.md) | What to book now vs. re-check in October 2026 |
@@ -64,3 +64,5 @@
 **October re-check:** hours/prices/line-ups move. Re-verify ticketed items (KGMA, La Bohème, BANKSY, Huwon, NANTA, KGMA transit) with the linked official pages in **mid-October 2026** — checklist in [`verification/booking-checklist.md`](verification/booking-checklist.md).
 
 **Aug 21, 2026 update:** every date-locked anchor was **re-fetched live from its official page this session** (BANKSY venue page, KGMA site, NOL/YES24/SAC/Sejong listings, gugak.go.kr, kh.or.kr, foodweek.co.kr, museum.go.kr, nanta.co.kr, hanokmaeul.or.kr, festival.seoul.go.kr, culture.seoul.go.kr — all matched). Direct official links were then added **inside every plan day-cell**, as an **Official link column on every city itinerary/food table**, and consolidated in [`verification/official-links.md`](verification/official-links.md).
+
+**Aug 21, 2026 (later):** added **10 more full-week plans (G–P)** under the same nearby-only / closure-aware / official-link rules. Master list §B2.

@@ -277,3 +277,31 @@ Cross-checks performed line-by-line against `cities/walking-food-routes.md` (Rou
 | Seongsu café street (X5) | No official hours; **not entered** as an itinerary |
 | X4 Yeouido→Sebitseom→DDP as one day | Two subway hops between activities — BANKSY kept as Yeouido-only (Plan E Nov 3) |
 | X6 Namsan→Leeum as one day | Requires a transfer — Hannam half kept as X11 / I1 |
+
+---
+
+## 0d. Plans G–P expansion — line-by-line build (Aug 21, 2026)
+
+Ten new complete Nov 1–9 itineraries added. **No new facts** beyond KoreaFun/Koreafood verified rosters and the Aug 21 live re-fetch (§0c). Each plan:
+
+- 9 day-rows (Nov 1–9) in a table with **inline official links** on every named stop
+- 🔗 appendix table of every item → official URL
+- One walking cluster per day (hotel → ≤1 inbound ride → walk)
+- Busy + easy mix; Mon/Tue palace matrix + Sun restaurant closures + marathon AM Nov 1 respected
+- X4 / X5 / X6 still not entered
+
+| Plan | File | Primary verified anchors used |
+|---|---|---|
+| G Museums | `plan-G-museums-galleries.md` | Gyeongbokgung Mon · BANKSY last day · NMK Wed late · Leeum · Mulbit final |
+| H Nights | `plan-H-night-lights-shows.md` | NANTA · DDP Dream in Light · BANKSY · Bongeunsa+Food Week · La Bohème · Sat clash table · Mulbit |
+| I Markets | `plan-I-markets-streets.md` | Gwangjang/Ikseon · Tongin · Namdaemun · Dongdaemun · Mangwon/Haneul · Folk Flea (not Tue) |
+| J Photo | `plan-J-photo-hanok-foliage.md` | Bukchon · Huwon · Namsan/Namsangol · Haneul grass · Garosu ginkgo · Naksan · Mulbit |
+| K Minimal transit | `plan-K-minimal-transit.md` | Hotel-footprint walks; only Yeouido (BANKSY) + Hyehwa (Mulbit) rides |
+| L Couple | `plan-L-couple-cafes.md` | Cafés (Layered, Passion 5, Hakrim, Monday To Sunday) · Elisabeth or La Bohème · Mulbit |
+| M Sports | `plan-M-sports-energy.md` | Marathon Nov 1 · E-Land Nov 7 16:30 · World Cup Stadium tour · KGMA optional · FC Seoul ⏳ |
+| N Budget | `plan-N-free-budget.md` | Free sites (Outdoor Library, Dream in Light, Bosingak, BoK, busking, Sevit) · Mulbit ₩1,000 |
+| O Classic alt | `plan-O-classic-alternate.md` | Same anchors as A; BANKSY Tue-only; Huwon Fri; Hongdae Sat |
+| P Modern | `plan-P-modern-seoul.md` | DDP · BANKSY · NMK/APMA · COEX · Leeum · Elisabeth · Garosu/Sevit · Mulbit media art |
+
+**Gate check:** no Seongsu café street (X5), no Yeouido→Sebitseom→DDP chain (X4), no Namsan→Leeum mid-day transfer (X6). National Hangeul Museum still ⛔. Restaurant prices still omitted.
+

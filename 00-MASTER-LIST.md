@@ -23,7 +23,9 @@ Every itinerary below is built **only** from verified entries in the KoreaFun / 
 | **G2** | Gangnam classic: Seonjeongneung → K-Star Road → Apgujeong Rodeo → Some Sevit night | Gangnam/Seocho | 🟨 | Nov 3–8 (Seonjeongneung closed Mon) | Seonjeongneung ₩1,000 free docent tours 🔎 · K-Star Road 🔎 · Some Sevit decks free |
 | **G3** | Saturday gugak afternoon (adds to any Sat plan) | Seocho | 🟨 | **Nov 7 (Sat)** only | Gugak Museum free EN tour **14:00** + 토요명품 **15:00** (₩20–30k) |
 
-## B. Complete Nov 1–9 plans (pick one, or splice) — **six itineraries**
+## B. Complete Nov 1–9 plans (pick one, or splice) — **sixteen itineraries**
+
+### B1. Original set (A–F)
 
 | Plan | Philosophy | Busy days | Easy days | File |
 |---|---|---|---|---|
@@ -33,6 +35,23 @@ Every itinerary below is built **only** from verified entries in the KoreaFun / 
 | **D — Food-first** | One Koreafood walking route (S1–S5) per day; nearest verified activity only | Nov 2, 6, 7 | Nov 1, 4, 9 | [`plans/plan-D-food-first.md`](plans/plan-D-food-first.md) |
 | **E — Walk-cluster** | Commute once, then **no transit between activities** | Nov 2, 5, 7 | Nov 1, 4, 9 | [`plans/plan-E-walk-clusters.md`](plans/plan-E-walk-clusters.md) |
 | **F — Heritage & palaces** | One royal/museum/temple cluster per day, off the Mon/Tue palace matrix | Nov 2, 3, 5 | Nov 1, 9 | [`plans/plan-F-heritage.md`](plans/plan-F-heritage.md) |
+
+### B2. Expanded set (G–P) — added Aug 21, 2026
+
+Same design rules: **one walking cluster per day** · busy+rest mix · closure-aware · ✅/🔎/⏳/⛔ · **official links inline in every day cell + appendix table** · X4/X5/X6 still held.
+
+| Plan | Philosophy | Busy days | Easy days | File |
+|---|---|---|---|---|
+| **G — Museums & galleries** | One museum/gallery cluster per day; BANKSY Yeouido-only; Leeum Hannam-only | Nov 2, 4, 6 | Nov 1, 3, 9 | [`plans/plan-G-museums-galleries.md`](plans/plan-G-museums-galleries.md) |
+| **H — Night lights & shows** | NANTA, DDP Dream in Light, BANKSY, La Bohème, busking, Mulbit, Sat headlines | Nov 3, 5, 7 | Nov 1, 4, 9 | [`plans/plan-H-night-lights-shows.md`](plans/plan-H-night-lights-shows.md) |
+| **I — Markets & streets** | One market/street per day (Gwangjang, Tongin, Namdaemun, Dongdaemun, Mangwon, Flea) | Nov 3, 6 | Nov 1, 2, 4, 9 | [`plans/plan-I-markets-streets.md`](plans/plan-I-markets-streets.md) |
+| **J — Photo, hanok & foliage** | Bukchon, Huwon, Namsan, Haneul silver grass, Garosu ginkgo, Naksan, Mulbit | Nov 2, 3, 6, 8 | Nov 1, 5, 9 | [`plans/plan-J-photo-hanok-foliage.md`](plans/plan-J-photo-hanok-foliage.md) |
+| **K — Minimal transit** | Maximize **0-subway** days from hotel; only BANKSY + Mulbit require a ride | — | Nov 1, 2, 5, 7, 9 | [`plans/plan-K-minimal-transit.md`](plans/plan-K-minimal-transit.md) |
+| **L — Couple / cafés** | Slow cafés + one shared evening highlight (NANTA, Namsan, Elisabeth, Sevit, Mulbit) | Nov 5 | Nov 1, 2, 6, 9 | [`plans/plan-L-couple-cafes.md`](plans/plan-L-couple-cafes.md) |
+| **M — Sports & energy** | Marathon race-day atmosphere, E-Land Nov 7 16:30, World Cup Stadium tour, Haneul | Nov 6, 7 | Nov 1, 2, 9 | [`plans/plan-M-sports-energy.md`](plans/plan-M-sports-energy.md) |
+| **N — Free & budget** | Prefer free official sites; Mulbit ₩1,000 finale; BANKSY/shows optional upgrades only | — | Nov 1, 3, 5, 7, 9 | [`plans/plan-N-free-budget.md`](plans/plan-N-free-budget.md) |
+| **O — Classic alternate order** | Plan A anchors re-ordered: BANKSY Yeouido-only Tue; Huwon on Fri; Hongdae Sat | Nov 2, 3, 5, 6 | Nov 1, 4, 9 | [`plans/plan-O-classic-alternate.md`](plans/plan-O-classic-alternate.md) |
+| **P — Modern Seoul** | DDP, BANKSY, Leeum, COEX, APMA, Elisabeth, Garosu/Sevit — minimal palace days | Nov 3, 4, 5, 6 | Nov 1, 2, 9 | [`plans/plan-P-modern-seoul.md`](plans/plan-P-modern-seoul.md) |
 
 ## D. Mixed-cluster itineraries — [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md)
 
