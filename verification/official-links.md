@@ -205,6 +205,53 @@ Each row was fetched directly from the official page today. This is the independ
 | Maeheon Yun Bong-gil Memorial + Yangjae Citizens' Forest (free; closed Mon) | [Seoul 120 listing](https://opengov.seoul.go.kr/civilappeal/2898608) |
 | Some Sevit (decks free, 11:00–22:00; fountain OFF Nov) | [hangang.seoul.go.kr](https://hangang.seoul.go.kr/www/contents/804.do?mid=622) |
 | Seoripul / Montmartre Park ridge | [seocho.go.kr](https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505) |
+| Montmartre Park (Seorae) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) |
+| Seorae Village ("Little France") | [VisitSeoul](https://english.visitseoul.net/attractions/seorae-village_/20977) |
+| Banpo Hangang Park | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91983) |
+
+### Seodaemun-gu / Sinchon / Ewha (added Aug 21, 2026 — X14/X15/X20)
+
+| Item | Official page(s) |
+|---|---|
+| Seodaemun Prison History Hall (closed Mon) | [VisitSeoul](https://english.visitseoul.net/attractions/Seodaemun-Prison-History-Hall_/1834) · [sscmc.or.kr](https://sphh.sscmc.or.kr) |
+| Seodaemun Independence Park (24 h, free) | [VisitSeoul](https://english.visitseoul.net/area/Seodaemun-Independence-Park/ENP001753) |
+| Ansan Jarak-gil (7 km accessible trail, free) | [VisitSeoul accessible course](https://english.visitseoul.net/accessible-seoul/AnsanCourse/ENNjlyd7c) |
+| Dongnimmun Yeongcheon Market | [VisitSeoul](https://english.visitseoul.net/shopping/Yeongcheon-Market/ENP028253) |
+| Ewha Womans University campus | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=174329) |
+| Yonsei-ro transit-zone lift / Sunday car-free (Seoul city release) | [news.seoul.go.kr](https://news.seoul.go.kr/traffic/archives/513420) |
+| Gyeongui Line Book Street (closed Mon) | [english.seoul.go.kr](https://english.seoul.go.kr/gyeongui-line-book-street/) · [gbookst.or.kr](https://www.gbookst.or.kr) |
+| Gyeonghuigung | [royal.khs.go.kr](https://royal.khs.go.kr) |
+
+### Yongsan / Ichon extended (added Aug 21, 2026 — X16)
+
+| Item | Official page(s) |
+|---|---|
+| Yongsan Family Park (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111286) |
+| Dongbinggo café | [VisitSeoul](https://english.visitseoul.net/restaurants/Dongbinggo-en/ENP013716) |
+
+### Dongjak / Noryangjin / Nodeul (added Aug 21, 2026 — X17)
+
+| Item | Official page(s) |
+|---|---|
+| Noryangjin Fisheries Wholesale Market | [susansijang.co.kr](https://www.susansijang.co.kr/nsis/miw/en/intro) · [VisitSeoul](https://english.visitseoul.net/shopping/Noryangjin-Fisheries-Wholesale-Market-Noryangjin-Fish-Market/ENP009505) |
+| Nodeul Island (closed Mon indoors; outdoor 24 h) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34334) · [nodeul.org](https://nodeul.org/guide/) |
+
+### Jung-gu east / Namsan east (added Aug 21, 2026 — X19)
+
+| Item | Official page(s) |
+|---|---|
+| Jangchungdan Park (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=85639) |
+| Jangchung-dong Jokbal Alley | [VisitSeoul](https://english.visitseoul.net/attractions/jangchung-dong-jokbal-alley_/29089) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85189) |
+
+### Jongno civic heritage additions (added Aug 21, 2026 — X21/X23)
+
+| Item | Official page(s) |
+|---|---|
+| Unhyeongung Royal Residence (closed Mon) | [unhyeongung.or.kr](https://www.unhyeongung.or.kr/?ckattempt=1) · [Seoul (SMG)](https://english.seoul.go.kr/namsangol-hanok-village-unhyeongung-royal-residence-announce-major-events-calendar-to-attract-millennials-gen-z-and-reborn-as-hot-spots/) |
+| Jongmyo Shrine (self-guided Sat/Sun only; closed Tue) | [royal.khs.go.kr](https://royal.khs.go.kr) |
+| Jongmyo–Changgyeonggung Yulgok-ro connecting gate (Sat/Sun/holidays only) | [korea.kr press release](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156653898) |
+| Sanchon (Insadong temple-food restaurant) | [VisitSeoul](https://english.visitseoul.net/restaurants/Sanchon-en/ENP014518) |
+| Seodaemun Gopchang (closed Sun) | [VisitSeoul](https://english.visitseoul.net/restaurants/Seodaemun-Gopchang/ENP013139) |
 
 ---
 

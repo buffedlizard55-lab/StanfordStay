@@ -69,6 +69,16 @@ Entered only if every named stop traces to KoreaFun/Koreafood **and** the day st
 | **X11** | Hannam stay-put | Itaewon / Hannam | 🟥 | Tue–Sat (Leeum closed Mon; Elisabeth dark Mon) | Leeum both shows · Passion 5 · Elisabeth | 1 ride in, then walk |
 | **X12** | Ichon museum triangle | Yongsan | 🟨 | Wed Nov 4 or Sat Nov 7 (NMK to 21:00) | NMK · Jonas Wood · War Memorial | 1 Line-4 ride in, then walk |
 | **X13** | Friday-late civic museums | Gwanghwamun / Jeong-dong | 🟨 | **Fri Nov 6** | Deoksugung · History Museum / Sejong Story / SeMA Fri 21:00 | Walk from hotel |
+| **X14** | Seodaemun Prison History Hall → Independence Park → Ansan Jarak-gil | Seodaemun-gu | 🟨 | Any non-Mon (Prison Hall closed Mon) | Seodaemun Prison History Hall · Ansan Jarak-gil 7 km | 1 Line-3 ride in, then walk |
+| **X15** | Sinchon/Ewha stroll → Yonsei-ro → Gyeongui Book Street | Seodaemun-gu / Mapo-gu | 🟩 | **Sun** (Yonsei-ro car-free 09:00–22:00; Book St closed Mon) | Ewha campus · Yonsei-ro · Gyeongui Line Book Street | 1 Line-2 ride in, then walk |
+| **X16** | Ichon extended: NMK → Yongsan Family Park → Dongbinggo | Yongsan | 🟨 | Wed / Sat (NMK to 21:00) | National Museum · Yongsan Family Park · Ichon Hangang Park | 1 Line-4 ride in, then walk |
+| **X17** | Noryangjin Fish Market → Nodeul Island night | Dongjak / Yongsan | 🟨 | Any (live auction closed Sun) | Noryangjin Market · Nodeul Island | 1 Line-1/9 ride in, then walk |
+| **X18** | Seorae Village → Montmartre Park → Banpo Hangang Park | Seocho | 🟩 | Any | Seorae Village · Montmartre Park · Banpo Hangang Park | 1 Line-3/7/9 ride in, then walk |
+| **X19** | Jangchungdan Park → Jokbal Alley → Namsan east | Jung-gu | 🟩 | Any | Jangchungdan Park · Jangchung-dong Jokbal Alley | 1 Line-3 ride in, then walk |
+| **X20** | Gyeonghuigung → Seodaemun museum half-day | Jongno-gu / Seodaemun-gu | 🟨 | Any non-Mon | Gyeonghuigung · Seodaemun Prison History Hall · Independence Park | Walk + short ride |
+| **X21** | Bosingak noon bell → Insadong → Unhyeongung | Jongno-gu | 🟨 | Tue–Sun (closed Mon) | Bosingak ✅ · Insadong · Unhyeongung Royal Residence | Walk from hotel |
+| **X22** | Namdaemun dawn market → Sungnyemun → Seoullo 7017 | Jung-gu | 🟩 | Any (some stalls shut Sun) | Namdaemun Market · Sungnyemun · Seoullo 7017 | **0** |
+| **X23** | Jongmyo Saturday self-guided → Changgyeonggung passage → Mulbit | Jongno-gu | 🟥 | **Sat Nov 7 only** | Jongmyo self-guided ✅ · Yulgok-ro connecting gate ✅ · Mulbit Yeonhwa | **0** (one continuous grounds walk) |
 
 ### Not entered (fails the gate)
 
@@ -77,6 +87,8 @@ Entered only if every named stop traces to KoreaFun/Koreafood **and** the day st
 | **X4** Yeouido → Sebitseom → DDP | Two subway hops. BANKSY itself is Plan E **Nov 3 Yeouido-only**. |
 | **X5** Seongsu café street | Cafés not in KoreaFun/Koreafood; no Visit Seoul / Michelin / operator hours. |
 | **X6** Namsan → Leeum → Elisabeth | Line 4→6 transfer mid-day. Hannam half is **X11 / I1**. |
+
+**Aug 21, 2026 (later still):** added **10 more mixed-cluster itineraries (X14–X23)** under the same gate — each stays inside one walking cluster after a single inbound ride, every stop traces to an official VisitSeoul/VisitKorea/city/operator page, and closure days are called out line-by-line. Full detail: [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md).
 
 ## C. Date-locked anchors (verified ✅ — these fix the calendar)
 

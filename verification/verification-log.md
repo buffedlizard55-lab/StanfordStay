@@ -305,3 +305,30 @@ Ten new complete Nov 1–9 itineraries added. **No new facts** beyond KoreaFun/K
 
 **Gate check:** no Seongsu café street (X5), no Yeouido→Sebitseom→DDP chain (X4), no Namsan→Leeum mid-day transfer (X6). National Hangeul Museum still ⛔. Restaurant prices still omitted.
 
+---
+
+## 0e. X14–X23 mixed-cluster expansion — line-by-line build (Aug 21, 2026)
+
+Ten more single/half-day mixed-cluster itineraries added to `cities/07-mixed-clusters.md`, extending districts not yet covered by X1–X13 (Seodaemun, Sinchon/Ewha, Ichon extended, Dongjak/Noryangjin, Seorae Village, Jangchungdan) plus three Jongno civic-heritage additions that use anchors not already in J1–J5/X1–X13 (Unhyeongung, Jongmyo self-guided Saturday, the Yulgok-ro connecting gate). Every claim below was checked directly against an official page this session — none are carried from KoreaFun/Koreafood (those repos don't cover these specific stops), so each is logged individually.
+
+| # | Item | Official page fetched Aug 21, 2026 | Verdict |
+|---|---|---|---|
+| W1 | Seodaemun Prison History Hall hours/fee/closure | sscmc.or.kr / VisitSeoul ENP001831 — Mar–Oct 09:30–18:00, Nov–Feb 09:30–17:00, last admission 30 min before close, **closed Mon**, ₩3,000/₩1,500/₩1,000 | ✅ |
+| W2 | Seodaemun Independence Park hours | VisitSeoul ENP001753 — open 24 h, free, year-round | ✅ |
+| W3 | Ansan Jarak-gil trail | VisitSeoul accessible-tourism course ENNjlyd7c — 7 km circular barrier-free trail, free, always open | ✅ |
+| W4 | Ewha Womans University campus visiting hours | VisitKorea vcontsId=174329 — campus + shopping street, generally free, weekday mornings recommended | 🔎 |
+| W5 | Yonsei-ro transit-zone lift + Sunday car-free schedule | news.seoul.go.kr Dec 19 2024 press release + Seoul walking-street registry (love.seoul.go.kr) — transit-only designation lifted **Jan 1, 2025**; Sun car-free 09:00–22:00 retained, Sat 14:00–22:00 also listed | ✅ |
+| W6 | Gyeongui Line Book Street hours/closure | english.seoul.go.kr + gbookst.or.kr — Tue–Sun 11:00–20:00, **closed Mon** | ✅ |
+| W7 | Yongsan Family Park hours | VisitKorea vcontsId=111286 — open 24 h, free, year-round | ✅ |
+| W8 | Dongbinggo café hours | VisitSeoul ENP013716 — daily 10:30–21:30 | ✅ |
+| W9 | Noryangjin Fisheries Wholesale Market hours | susansijang.co.kr official (English) — wholesale/retail by category, general 01:30–22:00; auction **closed Sun** | ✅ |
+| W10 | Nodeul Island hours/closure | nodeul.org official guide — winter (Nov–Feb) Tue–Sun 10:00–20:00, outdoor 24 h, **closed Mon** | ✅ |
+| W11 | Montmartre Park + Seorae Village + Banpo Hangang Park | VisitKorea vcontsId=69718 / VisitSeoul ENP...20977 / VisitKorea vcontsId=91983 — all free, open 24 h/streets always open | ✅ |
+| W12 | Jangchungdan Park + Jokbal Alley | VisitKorea vcontsId=85639 / VisitSeoul ENP029089 + VisitKorea vcontsId=85189 — park 24 h free; alley shops vary by store | ✅ |
+| W13 | Unhyeongung Royal Residence hours/closure | unhyeongung.or.kr official (관람 안내: 화~일요일, 09:00~18:00) + english.seoul.go.kr events page — **closed Mon**, free | ✅ |
+| W14 | Jongmyo Shrine self-guided rule | royal.khs.go.kr notice (Korea Heritage Agency, 2025 schedule-change notice) — weekdays guided-tour-only (10:00/12:00/14:00/16:00 or 10/11/13/14/15 depending on period); **Sat/Sun/Culture Day = self-guided (general admission)**; **closed Tue** | ✅ |
+| W15 | Jongmyo–Changgyeonggung Yulgok-ro connecting gate | korea.kr press release Oct 8, 2024 (국가유산청 궁능유적본부) — gate opened permanently; regular schedule **Sat/Sun/public holidays/Culture Day (last Wed of month)**; separate ₩1,000 tickets required each side | ✅ |
+| W16 | Sanchon (Insadong temple food) + Seodaemun Gopchang hours | VisitSeoul ENP014518 (daily 11:30–21:00) / ENP013139 (Mon–Sat 17:00–22:30, closed Sun) | ✅ |
+
+**Gate check applied to X14–X23:** every day is hotel → **one** inbound subway ride (or zero, for X22/X23) → walk-only for the rest of the day. Closure days are stated inline (Prison Hall/Book Street/Unhyeongung Mon; Nodeul indoor Mon; Noryangjin auction Sun; Jongmyo Tue; Yulgok-ro gate Sat/Sun/holidays only — hence X23 is flagged Sat-only). No aggregator/blog page is used as the sole source for any hours claim; where only a blog corroborated a detail (e.g., individual Seorae café hours), the itinerary is written to browse rather than commit to a specific unverified business, matching the X5/X18 precedent already in this repo.
+

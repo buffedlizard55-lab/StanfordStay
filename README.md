@@ -16,7 +16,7 @@
 | File | Contents |
 |---|---|
 | [`00-MASTER-LIST.md`](00-MASTER-LIST.md) | **Start here.** Every itinerary, its district cluster, pace, and the verified anchor in each. |
-| [`cities/`](cities/) | Seven district files — full-day itineraries per area (M/J/D/H/I/G) plus mixed-cluster X1–X13; **every activity & restaurant row has an Official link column** |
+| [`cities/`](cities/) | Seven district files — full-day itineraries per area (M/J/D/H/I/G) plus **twenty-three** mixed-cluster itineraries X1–X23; **every activity & restaurant row has an Official link column** |
 | [`plans/`](plans/) | **Sixteen** complete Nov 1–9 plans (**A–F** original · **G–P** expanded: museums, nights, markets, photo, minimal-transit, couple, sports, budget, classic-alt, modern) — **official links inline in every day cell** + 🔗 appendix per plan |
 | [`verification/official-links.md`](verification/official-links.md) | **Every item in every itinerary → its official page** (organizer/venue/league/city/Michelin/VisitKorea/VisitSeoul only). §1 = the 23 anchors re-fetched live Aug 21, 2026 |
 | [`verification/verification-log.md`](verification/verification-log.md) | Line-by-line ledger: every itinerary claim → official source → status |
@@ -66,3 +66,5 @@
 **Aug 21, 2026 update:** every date-locked anchor was **re-fetched live from its official page this session** (BANKSY venue page, KGMA site, NOL/YES24/SAC/Sejong listings, gugak.go.kr, kh.or.kr, foodweek.co.kr, museum.go.kr, nanta.co.kr, hanokmaeul.or.kr, festival.seoul.go.kr, culture.seoul.go.kr — all matched). Direct official links were then added **inside every plan day-cell**, as an **Official link column on every city itinerary/food table**, and consolidated in [`verification/official-links.md`](verification/official-links.md).
 
 **Aug 21, 2026 (later):** added **10 more full-week plans (G–P)** under the same nearby-only / closure-aware / official-link rules. Master list §B2.
+
+**Aug 21, 2026 (later still):** added **10 more single/half-day mixed-cluster itineraries (X14–X23)** to [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md) — Seodaemun/Ansan, Sinchon/Ewha, Ichon extended, Noryangjin/Nodeul, Seorae Village, Jangchungdan, Gyeonghuigung/Seodaemun half-day, Bosingak/Unhyeongung, Namdaemun dawn market, and the Saturday-only Jongmyo→Changgyeonggung passage→Mulbit chain. Same rules throughout: one walking cluster per day, busy+rest mix, closure-aware, ✅/🔎/⏳/⛔ labels, official links only (organizer/venue/VisitKorea/VisitSeoul/Michelin — no aggregators). X4/X5/X6 remain held for the same reasons as before.
