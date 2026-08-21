@@ -34,3 +34,40 @@
 - **KBL** Seoul SK/Samsung at Jamsil Students' Gymnasium (schedule published Aug 10 — pull November dates from kbl.or.kr).
 - **V-League** Jangchung Arena home dates (fixtures published Aug 18 — pull from kovo.co.kr; the arena is 15 min from Myeong-dong via Line 3 Dongguk Univ.).
 - **Seoul Kimjang Culture Festival** — 2026 dates still unpublished (Aug 20); traditionally first Nov weekend at Seoul Plaza.
+
+---
+
+## 🔗 Official links — everything named in Plan B
+
+
+> Direct official pages only (organizer / venue / league / city / Michelin / VisitKorea / VisitSeoul). Aggregator pages are never used. Full directory: [`verification/official-links.md`](../verification/official-links.md).
+
+
+| Item | Official page(s) |
+|---|---|
+| Anthropolis IV | [official page](https://www.ntck.or.kr/ko/performance/info) |
+| BANKSY | [official page](https://thehyundaiseoul.ehyundai.com/culture/alt1) |
+| Bongeunsa Temple Life | [official page](http://temple.bongeunsa.org/public_html/explain/temple_life.asp) |
+| Budnamujip | [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip) |
+| Bukchon | [official page](https://hanok.seoul.go.kr) |
+| Changdeokgung + Huwon | [official page](https://www.cdg.go.kr) |
+| DDP Dream in Light | [official page](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) |
+| Elisabeth | [official page](https://tickets.interpark.com/contents/notice/detail/14348) |
+| Food Week Korea | [official page](https://www.foodweek.co.kr/) |
+| Glass Menagerie | [official page](https://www.sac.or.kr/site/main/show/show_view?SN=83392) |
+| Gyeongbokgung | [official page](https://royal.khs.go.kr) |
+| Hakrim Dabang | [official page](https://english.visitseoul.net/restaurants/Hakrim-Coffee-Shop/ENP025377) |
+| Jujutsu Kaisen in Concert | [official page](https://tickets.interpark.com/contents/notice/detail/13737) |
+| KGMA | [official page](https://kgma-is.com/locales/en/index.html) |
+| La Bohème | [official page](https://www.sejongpac.or.kr/) |
+| MMCA Seoul | [official page](https://www.mmca.go.kr) |
+| Mulbit Yeonhwa | [official page](https://www.kh.or.kr/cms/content/view/1526) |
+| NANTA Myeongdong | [official page](https://www.nanta.co.kr/kr/show/detail.php?id=1) |
+| Ohsaegyehyang | [official page](https://english.visitseoul.net/restaurants/Ohsaegyehyang/ENP001670) |
+| Regallily | [official page](https://ticket.yes24.com/Perf/59001) |
+| SAC The NEXT oboe recital | [official page](https://www.sac.or.kr/site/main/show/show_view?SN=75581) |
+| SeMA Seosomun | [official page](https://sema.seoul.go.kr) |
+| Seonjeongneung | [official page](https://royaltombs.cha.go.kr/multiBbz/selectMultiBbzView.do?id=61&no=61&bbzId=tombs&mn=RT_01_08_03) |
+| Seoul E-Land FC | [official page](https://www.seoulelandfc.com/match/schedule) |
+| Seoul Museum of History | [official page](https://museum.seoul.go.kr) |
+| Starfield Library | [official page](https://starfield.co.kr/m/coexmall/starfieldLibrary/library.do) |

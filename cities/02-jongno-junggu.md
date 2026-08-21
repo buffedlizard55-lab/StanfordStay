@@ -1,4 +1,5 @@
 # ⛩️ Jongno & central Jung-gu — Itineraries J1–J4
+> 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Jongno-gu + Gwanghwamun/City Hall side of Jung-gu · **From hotel:** Line 2→3 or a 15–20 min walk to Jongno 3-ga; ≈20–25 min to Gyeongbokgung by subway, ≈15 min by taxi.
 

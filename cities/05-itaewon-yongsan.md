@@ -1,4 +1,5 @@
 # 🕌 Itaewon & Yongsan — Itineraries I1 & I2
+> 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Itaewon-ro / Hannam / Hangangjin (Line 6) + Yongsan museums (Ichon / Sinyongsan / Samgakji) · **From hotel:** Itaewon ≈20–25 min (Line 4→6 or taxi ≈15 min) · Leeum (Hangangjin) ≈25 min · National Museum (Ichon, **Line 4 direct from Myeongdong**) ≈25–30 min.
 

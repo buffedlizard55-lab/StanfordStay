@@ -1,4 +1,5 @@
 # 🏮 Dongdaemun & east — Itineraries D1 & D2
+> 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** DDP / Dongdaemun markets (Jung-gu edge) + Sindang + Jegi-dong/Hongneung (Dongdaemun-gu) · **From hotel:** DDP is a **12–15 min walk** straight up Euljiro or 2 stops on Line 2 (≈8 min); Sindang is 2 stops on Line 2/6.
 

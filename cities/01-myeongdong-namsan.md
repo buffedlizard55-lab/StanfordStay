@@ -1,4 +1,5 @@
 # 🛍️ Myeong-dong + Namsan — Itineraries M1 & M2
+> 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1; M2 starts at Myeongdong Station (8-min walk).
 

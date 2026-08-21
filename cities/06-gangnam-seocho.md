@@ -1,4 +1,5 @@
 # 🏙️ Gangnam & Seocho — Itineraries G1–G3
+> 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Samseong/COEX + Bongeunsa (Gangnam-gu) · Seolleung/Apgujeong/Cheongdam · Seocho (National Gugak Center, Seoul Arts Center) · **From hotel:** Line 2 direct from Euljiro 1-ga to Samseong ≈30 min / Gangnam Stn ≈25 min; express note — Shinbundang does **not** accept Climate Card.
 

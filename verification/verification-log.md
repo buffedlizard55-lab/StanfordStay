@@ -1,8 +1,43 @@
-# 🔍 Verification Log — StanfordStay itinerary system (built Aug 20, 2026)
+# 🔍 Verification Log — StanfordStay itinerary system (built Aug 20, 2026 · re-verified Aug 21, 2026)
 
-**Method.** Every itinerary row was built **only** from entries in the two verified source repos — [KoreaFun](https://github.com/karagemop466-tech/KoreaFun) (protocol-verified against official sources Aug 17–19, 2026) and [Koreafood](https://github.com/karagemop466-tech/Koreafood) (448 restaurants, hours/address from official pages only) — and this ledger re-checks each anchor **line by line** against the repo text and, for the most date-critical items, against the live official source (Aug 20, 2026 spot-checks listed first). Nothing else was added. Where the source repo says a detail is unverified (⏳), it stays ⏳ here.
+**Method.** Every itinerary row was built **only** from entries in the two verified source repos — [KoreaFun](https://github.com/karagemop466-tech/KoreaFun) (protocol-verified against official sources Aug 17–19, 2026) and [Koreafood](https://github.com/karagemop466-tech/Koreafood) (448 restaurants, hours/address from official pages only) — and this ledger re-checks each anchor **line by line** against the repo text and, for the most date-critical items, against the live official source. Nothing else was added. Where the source repo says a detail is unverified (⏳), it stays ⏳ here.
 
 **Status key:** ✅ dated event confirmed by organizer/venue/league · 🔎 verified place with official hours/price · ⏳ real program, Nov 2026 schedule unpublished · ⛔ closed/excluded.
+
+---
+
+## 0c. Aug 21, 2026 — independent live re-fetch pass + official-links rollout
+
+This session (1) re-fetched every date-locked anchor **directly from its official page**, (2) added direct official links to every plan file and a consolidated directory ([`official-links.md`](official-links.md)), and (3) added a C2 link table to the master list. The live pages matched the itineraries exactly — no corrections were needed. Results (full detail + URLs in `official-links.md` §1):
+
+| # | Anchor | Live page fetched Aug 21 | Verdict |
+|---|---|---|---|
+| V1 | BANKSY | thehyundaiseoul.ehyundai.com/culture/alt1 — "2026.07.22 — 11.03", Mon–Thu last entry 19:00 / Fri–Sun 19:30, Ticketlink booking link | ✅ |
+| V2 | JTBC Seoul Marathon | en.marathon.jtbc.com (script-rendered) + AIMS + race DBs — Nov 1, 08:00, Sangam, ~32,000 | ✅ |
+| V3 | Seoul Outdoor Library | festival.seoul.go.kr festacode=394 — 04-23 ~ **11-01**, Fri–Sun 11–18 / 16–22, free | ✅ |
+| V4 | Han River History Tour | festival.seoul.go.kr festacode=396 — 04-20 ~ 11-15, 10–12 & 14–16, free, 5–15 ppl, visit-hangang.seoul.kr ≥5 days | ✅ |
+| V5 | KGMA 2026 | kgma-is.com — "Nov 7, 2026 (Sat) – Nov 8, 2026 (Sun) · Gocheok Sky Dome" | ✅ |
+| V6 | Jujutsu Kaisen in Concert | NOL notice 13737 — Nov 7 18:30 / Nov 8 14:00, Kyung Hee, 14+, ₩77–154k, 140 min | ✅ |
+| V7 | Regallily | YES24 Perf/59001 — 2026.11.07 **19:00**, Sangsangmadang Hongdae, ₩88,000, ~90 min | ✅ |
+| V8 | Gugak 토요명품 | gugak.go.kr Nov 2026 — Nov 7/14/21 15:00 Umyeondang, A ₩30k/B ₩20k | ✅ |
+| V9 | Gugak Museum EN tour | gugak.go.kr — every Sat 14:00 (Nov 7/14/21), free | ✅ |
+| V10 | Bongeunsa Temple Life | temple.bongeunsa.org — Thu 14:00–16:00, foreigners, ₩30,000, English, arrive 13:50 | ✅ |
+| V11 | Mulbit Yeonhwa | kh.or.kr — full 8-scene fall run **Sep 8–Nov 8**; ₩1,000 at Honghwamun, no booking, entry to 20:00, closed Mon, rain rule ≥3 mm cancels scenes 2 & 5 (spring page re-fetched shows identical mechanics) | ✅ |
+| V12 | Food Week Korea | foodweek.co.kr — **11.4–11.7**, Hall A/B/C + The Platz (⚠️ coex.co.kr archive page is stale 2015 — use foodweek.co.kr) | ✅ |
+| V13 | La Bohème | sejongpac.or.kr live listing — 라보엠 11.05–11.08 세종대극장 (+ JoongAng season announcement) | ✅ |
+| V14 | Elisabeth | NOL notice 14348 — 8.16–**11.15**, Tue/Thu 19:30 · Wed/Fri 14:30+19:30 · Sat 14+19 · Sun 15, no Mon, ₩90–180k, 170 min | ✅ |
+| V15 | Glass Menagerie | sac.or.kr SN=83392 — 10.17–11.22, Wed–Sun schedule, dark Mon/Tue, ₩55–99k, 120 min | ✅ |
+| V16/V17 | Leeum both shows | leeumhoam.org #93 (to 11.29) & #94 (M2, 9.05–12.27) — hours remain ⏳ | ✅ dates |
+| V18 | National Museum hours | museum.go.kr — 09:30–17:30 / **Wed & Sat to 21:00**, garden 07–22, free, no closure day in window | ✅ |
+| V19 | DDP Dream in Light | culture.seoul.go.kr cultcode=156491 — 1.9–12.31, 18:00–22:00 hourly, free, content table | ✅ |
+| V20 | NANTA Myeongdong | nanta.co.kr detail id=1 — open run; Mon–Fri 17/20, Sat 14/17/20, Sun/hol 14/17; VIP ₩70k/S ₩60k/A ₩50k | ✅ |
+| V21 | Namsangol Hanok Village | hanokmaeul.or.kr — winter (Nov–Mar) 09:00–**20:00**, hanok closed Mon, free | ✅ |
+| V22 | Seoul E-Land vs Jeonnam | kleague.com + seoulelandfc.com — K2 R32 Sat Nov 7 **16:30** Mokdong | ✅ |
+| V23 | Stanford Hotel Myeongdong | stanfordmyeongdong.com unreachable from sandbox (connection reset); address 84 Namdaemun-ro / 15:00 / 12:00 corroborated by multiple booking listings — stays 🔎 | 🔎 |
+
+**No corrections required** — every live page agreed with the itinerary text (the one stale official page found, COEX's archived Food Week 2015 listing, was already avoided in the itineraries, which cite foodweek.co.kr). The Aug 21 links rollout adds no new facts: every link is the same official page the KoreaFun/Koreafood repos cited.
+
+
 
 ---
 

@@ -26,3 +26,52 @@
 - One paid ticket per day maximum (except Sat Nov 7 if you opt into an evening show).
 - Every dinner is within 10 min of a Line 2/4 station — no cross-town night rides except Plan-day 5 (Samseong).
 - Bukchon quiet hours (after 17:00 on some alleys) respected — village walks kept to afternoons.
+
+---
+
+## 🔗 Official links — everything named in Plan C
+
+
+> Direct official pages only (organizer / venue / league / city / Michelin / VisitKorea / VisitSeoul). Aggregator pages are never used. Full directory: [`verification/official-links.md`](../verification/official-links.md).
+
+
+| Item | Official page(s) |
+|---|---|
+| BANKSY | [official page](https://thehyundaiseoul.ehyundai.com/culture/alt1) |
+| Bank of Korea Money Museum | [official page](https://www.bok.or.kr/museum/main/contents.do?menuNo=700112) |
+| Bongeunsa Temple Life | [official page](http://temple.bongeunsa.org/public_html/explain/temple_life.asp) |
+| Budnamujip | [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip) |
+| Bukchon | [official page](https://hanok.seoul.go.kr) |
+| Cafe Monday To Sunday | [official page](https://english.visitseoul.net/area/Cafe-Monday-To-Sunday1/ENP005525) |
+| Café SangGuk | [official page](https://english.visitseoul.net/restaurants/cafe-sangguk/ENP04yoa2) |
+| Chanyang-jip | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=100177) |
+| Cheonggyecheon | [official page](https://cheonggyecheon.seoul.go.kr) |
+| Cinematheque KOFA | [official page](https://www.koreafilm.or.kr/pages/PC_00000004) |
+| DDP | [official page](https://ddp.or.kr) |
+| Dilkusha | [official page](https://museum.seoul.go.kr/www/intro/annexIntro/annex_dilkusha/annex_dilkusha_01.jsp) |
+| Dongdaemun History Museum | [official page](https://museum.seoul.go.kr/scwm/exhibition/ddmHistory/ddmExhGuide.jsp) |
+| Garosu-gil | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87385) |
+| Gobong Samgyetang | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60093) |
+| Gyeongbokgung | [official page](https://royal.khs.go.kr) |
+| Gyeongin Dawon | [official page](https://english.visitseoul.net/eat/Gyeongin-Misulgwan-Jeontong-Dawon/ENP010878) |
+| Hadongkwan | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192949) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan) |
+| HiKR Ground | [official page](https://hikr.visitkorea.or.kr) |
+| Hwangsaengga Kalguksu | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86236) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu) |
+| Ichon Hangang Park | [official page](https://hangang.seoul.go.kr) |
+| KGMA | [official page](https://kgma-is.com/locales/en/index.html) |
+| Korean Film Museum | [official page](https://www.koreafilm.or.kr/pages/PC_00000004) |
+| La Bohème | [official page](https://www.sejongpac.or.kr/) |
+| Lotte World Adventure | [official page](https://adventure.lotteworld.com/) |
+| MMCA Seoul | [official page](https://www.mmca.go.kr) |
+| Madam Ming | [official page](https://english.visitseoul.net/gangnamarea/madam-ming-en_/11745) |
+| Minsokchon | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57201) |
+| Moowee Nakwon | [official page](https://english.visitseoul.net/restaurants/2024-mwnw/ENPp5wevo) |
+| Mulbit Yeonhwa | [official page](https://www.kh.or.kr/cms/content/view/1526) |
+| National Museum of Korea | [official page](https://www.museum.go.kr/MUSEUM/contents/M0101000000.do) |
+| Ops Bakery | [official page](https://english.visitseoul.net/tours/seouls-bakeries--nostalgia-memories-and-bread/ENN020733) |
+| Seocho Galbi | [official page](https://english.visitseoul.net/restaurants/Seoriful-Ribs-EN/ENP006638) |
+| Seoul Coffee Ikseon | [official page](https://english.visitseoul.net/restaurants/Seoul-Coffee-Ikseon-Branch/ENP039310) |
+| Seoul Sky | [official page](https://seoulsky.lotteworld.com/price/info/ticket) |
+| Seowon | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59730) |
+| Starfield Library | [official page](https://starfield.co.kr/m/coexmall/starfieldLibrary/library.do) |
+| Yeongyang Center | [official page](https://english.visitseoul.net/restaurants/Yeongyang-Center/ENP012371) |

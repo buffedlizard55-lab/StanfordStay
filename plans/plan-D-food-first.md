@@ -28,3 +28,62 @@ Those two are real, verified, and date-locked — they live in Plans A/B/F. Addi
 | Ohsaegyehyang | **Thu Nov 5** |
 | Seowon (every other Wednesday) | **Wed Nov 4** — treat as closed until you confirm that week |
 | Tongin Market, Dilkusha, Craft Museum, Baek Inje, Deoksugung, Changdeokgung, Mulbit | **Mon Nov 2 / Nov 9** (already avoided above) |
+
+---
+
+## 🔗 Official links — everything named in Plan D
+
+
+> Direct official pages only (organizer / venue / league / city / Michelin / VisitKorea / VisitSeoul). Aggregator pages are never used. Full directory: [`verification/official-links.md`](../verification/official-links.md).
+
+
+| Item | Official page(s) |
+|---|---|
+| BANKSY | [official page](https://thehyundaiseoul.ehyundai.com/culture/alt1) |
+| Buchon Yukhoe | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=67578) |
+| Budnamujip | [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip) |
+| Bukchon | [official page](https://hanok.seoul.go.kr) |
+| Busanjib Hongdae | [official page](https://english.visitseoul.net/restaurants/Busanjib-HongdaeKR/ENPwpiwpw) |
+| Changdeokgung + Huwon | [official page](https://www.cdg.go.kr) |
+| Chanyang-jip | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=100177) |
+| Chosun Hwaro Gui | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=214996) |
+| Chungmu Gimbap | [official page](https://english.visitseoul.net/restaurants/MyeongdongChungmuGimbap/ENP7m82bh) |
+| DDP Dream in Light | [official page](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) |
+| Deoksugung | [official page](https://royal.khs.go.kr) |
+| Dilkusha | [official page](https://museum.seoul.go.kr/www/intro/annexIntro/annex_dilkusha/annex_dilkusha_01.jsp) |
+| Eomeonijip | [official page](https://english.visitseoul.net/eat/myeongdong-eomeonijip1_/13573) |
+| Geumdwaeji Sikdang | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=191564) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang) |
+| Gobong Samgyetang | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60093) |
+| Gugak Museum EN tour | [official page](https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37731) |
+| Gyeongbokgung | [official page](https://royal.khs.go.kr) |
+| Gyeongin Dawon | [official page](https://english.visitseoul.net/eat/Gyeongin-Misulgwan-Jeontong-Dawon/ENP010878) |
+| Hadongkwan | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192949) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan) |
+| Hakrim Dabang | [official page](https://english.visitseoul.net/restaurants/Hakrim-Coffee-Shop/ENP025377) |
+| Heukdonga Gangnam | [official page](https://english.visitseoul.net/restaurants/Heukdonga-EN/ENP006289) |
+| Hwangsaengga Kalguksu | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86236) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu) |
+| Hyundai Kalguksu | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99750) |
+| Imun Seolnongtang | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=100222) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang) |
+| Insadong Sujebi | [official page](https://english.visitseoul.net/restaurants/Insadong-Sujebi1/ENP014605) |
+| Jin Ok-hwa | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86514) |
+| KGMA | [official page](https://kgma-is.com/locales/en/index.html) |
+| MGM Hongdae | [official page](https://english.visitseoul.net/MapoArea/2024-MGM/ENPtojamy) |
+| MMCA Seoul | [official page](https://www.mmca.go.kr) |
+| Masichaina | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=66922) |
+| Minsokchon | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=57201) |
+| Moowee Nakwon | [official page](https://english.visitseoul.net/restaurants/2024-mwnw/ENPp5wevo) |
+| Mulbit Yeonhwa | [official page](https://www.kh.or.kr/cms/content/view/1526) |
+| Myeongdong Hamheung Myeonok | [official page](https://english.visitseoul.net/restaurants/Myeongdong-Hamheung-Myeonok_/5254) |
+| Myeongdong Hanubang | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=60163) |
+| Myeongdong Kyoja | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99925) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeongdong-kyoja) |
+| Ogu Banjeom | [official page](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=46034) |
+| Ohsaegyehyang | [official page](https://english.visitseoul.net/restaurants/Ohsaegyehyang/ENP001670) |
+| Ops Bakery | [official page](https://english.visitseoul.net/tours/seouls-bakeries--nostalgia-memories-and-bread/ENN020733) |
+| Parole & Langue | [official page](https://english.visitseoul.net/restaurants/Parole-Langue/ENP0p4bkd) |
+| Pildong Myeonok | [official page](https://english.visitseoul.net/eat/pildong-myeonok1/ENP013409) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pildong-myeonok) |
+| Regallily | [official page](https://ticket.yes24.com/Perf/59001) |
+| Sadong Myeonok | [official page](https://english.visitseoul.net/restaurants/Sadong-Myeonok-E/ENP011974) |
+| SeMA Seosomun | [official page](https://sema.seoul.go.kr) |
+| Seocho Galbi | [official page](https://english.visitseoul.net/restaurants/Seoriful-Ribs-EN/ENP006638) |
+| Seowon | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59730) |
+| Tongin Market | [official page](https://tonginmarket.co.kr) |
+| Yeongyang Center | [official page](https://english.visitseoul.net/restaurants/Yeongyang-Center/ENP012371) |

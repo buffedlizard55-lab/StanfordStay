@@ -1,4 +1,5 @@
 # 🎸 Hongdae & Mapo — Itineraries H1 & H2
+> 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Hongdae (Hongik Univ. Stn) + Yeonnam + Mangwon/Sangam (Mapo-gu) · **From hotel:** Line 2 direct from Euljiro 1-ga to Hongik Univ. ≈20 min ride (≈25–30 min door-to-door); Mangwon adds Line 6 (≈35 min); Sangam ≈35–40 min.
 

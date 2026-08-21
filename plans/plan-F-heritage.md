@@ -28,3 +28,37 @@
 ## Optional (book 5 days ahead — do not lock the day on it)
 
 **Han River History Tour** — ✅ Apr 20–Nov 15, 2026; slots 10:00–12:00 and 14:00–16:00; free; reserve at visit-hangang.seoul.kr **≥5 days ahead**; 5–15 people per run. Fits a Hangang cluster (Ichon / Yeouido) **if** a group is already forming. *(KoreaFun seoul #4)*
+
+---
+
+## 🔗 Official links — everything named in Plan F
+
+
+> Direct official pages only (organizer / venue / league / city / Michelin / VisitKorea / VisitSeoul). Aggregator pages are never used. Full directory: [`verification/official-links.md`](../verification/official-links.md).
+
+
+| Item | Official page(s) |
+|---|---|
+| BANKSY | [official page](https://thehyundaiseoul.ehyundai.com/culture/alt1) |
+| Bongeunsa Temple Life | [official page](http://temple.bongeunsa.org/public_html/explain/temple_life.asp) |
+| Bukchon | [official page](https://hanok.seoul.go.kr) |
+| Changdeokgung + Huwon | [official page](https://www.cdg.go.kr) |
+| Deoksugung | [official page](https://royal.khs.go.kr) |
+| Dilkusha | [official page](https://museum.seoul.go.kr/www/intro/annexIntro/annex_dilkusha/annex_dilkusha_01.jsp) |
+| Gyeongbokgung | [official page](https://royal.khs.go.kr) |
+| Hadongkwan | [official page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192949) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan) |
+| Han River History Tour | [official page](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=396) |
+| Jeongdong Observatory | [official page](https://www.seoul.go.kr/storyw/jeongdong/listm.do) |
+| La Bohème | [official page](https://www.sejongpac.or.kr/) |
+| MMCA Seoul | [official page](https://www.mmca.go.kr) |
+| Mulbit Yeonhwa | [official page](https://www.kh.or.kr/cms/content/view/1526) |
+| N Seoul Tower | [official page](https://www.nseoultower.co.kr) |
+| Namsangol Hanok Village | [official page](https://www.hanokmaeul.or.kr/ko/guide) |
+| National Folk Museum | [official page](https://www.nfm.go.kr) |
+| National Palace Museum | [official page](https://www.gogung.go.kr) |
+| Pildong Myeonok | [official page](https://english.visitseoul.net/eat/pildong-myeonok1/ENP013409) · [official page](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pildong-myeonok) |
+| SeMA Seosomun | [official page](https://sema.seoul.go.kr) |
+| Seonjeongneung | [official page](https://royaltombs.cha.go.kr/multiBbz/selectMultiBbzView.do?id=61&no=61&bbzId=tombs&mn=RT_01_08_03) |
+| Seosomun Shrine History Museum | [official page](http://www.seosomun.org) |
+| Seoul Museum of Korean Folk Music | [official page](http://gomuseum.seoul.go.kr/sekm/front/main.do?locale=KO) |
+| Seoul Outdoor Library | [official page](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=394) |

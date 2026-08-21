@@ -1,4 +1,5 @@
 # 🌆 Mixed-cluster itineraries (X1–X6) — new Aug 20, 2026
+> 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Built to fill the gap between the single-cluster city files.** Each itinerary chains 2–3 neighbouring districts so a full day runs without public-transit hops between activities. All anchors trace to entries already in the KoreaFun/Koreafood verified rosters, with the source's claim cross-checked against the original official page in [`verification/verification-log.md`](../verification/verification-log.md).
 

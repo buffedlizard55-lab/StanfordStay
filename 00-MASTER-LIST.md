@@ -87,6 +87,38 @@ Entered only if every named stop traces to KoreaFun/Koreafood **and** the day st
 | Daily | NANTA Myeongdong (non-verbal; VIP ₩70k) | Myeongdong | KoreaFun myeongdong #3 |
 | Nightly 18:00–22:00 | DDP Dream in Light (free, ~25-min cycle, hourly) | DDP | KoreaFun districts #1 |
 
+
+
+## C2. Official links for every date-locked anchor (added Aug 21, 2026)
+
+Full directory with every activity + restaurant link: [`verification/official-links.md`](verification/official-links.md).
+
+| Anchor | Official page(s) |
+|---|---|
+| BANKSY | [official page](https://thehyundaiseoul.ehyundai.com/culture/alt1) |
+| JTBC Seoul Marathon | [official page](https://en.marathon.jtbc.com/) |
+| Seoul Outdoor Library | [official page](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=394) |
+| Han River History Tour | [official page](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=396) |
+| Food Week Korea | [official page](https://www.foodweek.co.kr/) |
+| AIoT Korea 2026 | [official page](https://www.aiotkorea.or.kr/2026/kor/about/information.asp) |
+| La Bohème | [official page](https://www.sejongpac.or.kr/) |
+| SAC The NEXT oboe recital | [official page](https://www.sac.or.kr/site/main/show/show_view?SN=75581) |
+| NTOK Noon Concert | [official page](https://www.ntok.go.kr/ntok/pm/prfmng/selectSeasonInfo.do?seasonType=1&mi=21014) |
+| Bongeunsa Temple Life | [official page](http://temple.bongeunsa.org/public_html/explain/temple_life.asp) |
+| KGMA | [official page](https://kgma-is.com/locales/en/index.html) |
+| Jujutsu Kaisen in Concert | [official page](https://tickets.interpark.com/contents/notice/detail/13737) |
+| Regallily | [official page](https://ticket.yes24.com/Perf/59001) |
+| Seoul E-Land FC | [official page](https://www.seoulelandfc.com/match/schedule) |
+| Gugak Saturday Masterpieces | [official page](https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37048) |
+| Gugak Museum EN tour | [official page](https://www.gugak.go.kr/site/program/performance/detail?menuid=001001001&performance_id=37731) |
+| Mulbit Yeonhwa | [official page](https://www.kh.or.kr/cms/content/view/1526) |
+| Seoul Grand Park Autumn Festival | [official page](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=465) |
+| Seoul Museum of History | [official page](https://museum.seoul.go.kr) |
+| SeMA Seoseoul (Kim Heecheon) | [official page](https://sema.seoul.go.kr/kr/whatson/landing?whatsonMenuDivList=EX&whenType=FROM_TODAY) |
+| MMCA Deoksugung (Lee Daewon) | [official page](https://www.mmca.go.kr) |
+| NANTA Myeongdong | [official page](https://www.nanta.co.kr/kr/show/detail.php?id=1) |
+| DDP Dream in Light | [official page](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) |
+
 **Watch items (👀 — do NOT build around):** FC Seoul final-round home games (drawn ~Oct 25) · KBL SK/Samsung home dates at Jamsil Students' Gym (schedule published Aug 10 — pull from kbl.or.kr) · V-League Jangchung home dates (fixtures published Aug 18 — pull from kovo.co.kr; opening day Oct 31 GS Caltex 17:00 is pre-check-in) · Seoul Kimjang Culture Festival dates (still unpublished as of Aug 20, 2026) · Korea Sale FESTA (dates unannounced; old domains lapsed) · Hongdae Free Market November dates (organizer page) · FC Seoul/national-team friendlies (FIFA window ~Nov 9–17).
 
 **Deliberately excluded:** National Hangeul Museum (closed to Oct 2028) · Banpo Rainbow Fountain (Apr–Oct only) · Seoul Plaza/Gwanghwamun fountains (off in Nov) · Changdeokgung Moonlight Tour (fall dates TBA/2025 ran Sep–Oct) · everything dated Nov 10+ (Cafe Show, MMA, Jason Mraz, Rattle/BRSO, Kings of Convenience — after checkout).
