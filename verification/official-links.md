@@ -537,6 +537,36 @@ Each row was fetched directly from the official page today. This is the independ
 
 ---
 
+## 4b. Fourth district-day round — M5/J8/J9/D5/D6/H4/I5/I6/G6/G7 (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Korea House — cuisine + traditional performance (performance closed every Mon) | [koreahouse.or.kr](https://www.koreahouse.or.kr/en/per/art) |
+| Jogyesa Temple (24 h grounds, free, no closed day) | [jogyesa.kr](https://www.jogyesa.kr/) |
+| Munmyo Confucian Shrine & Sungkyunkwan National Academy | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85542) |
+| Naksan Park | [parks.seoul.go.kr](https://parks.seoul.go.kr) |
+| Sewoon Plaza (Makercity Sewoon, closed Sun) | [VisitSeoul](https://english.visitseoul.net/attractions/sewoon-shopping-center_/24707) · [VisitKorea (tour times)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=186513) |
+| Euljiro Nogari Alley ("Hipjiro") | [VisitSeoul editorial](https://english.visitseoul.net/editorspicks/seoul-streetside-architecture-3/39527) |
+| Cheonggyecheon | [cheonggyecheon.seoul.go.kr](https://cheonggyecheon.seoul.go.kr) · [Seoul city facility hours](https://english.seoul.go.kr/service/amusement/stream/1-cheonggyecheon/) |
+| Jungbu Dried Seafoods Market (⏳ no single official operator page found) | — (cross-checked visitor records only; not entered as a scheduled anchor) |
+| Woo Lae Oak (Bib Gourmand, closed Mon) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak) |
+| Hwanghak-dong Flea Market ("Dokkaebi Market") | [VisitKorea official](https://spanish.visitkorea.or.kr/enu/SHP/SH_ENG_2_5.jsp) |
+| Sindang-dong Tteokbokki Town | [KTO street record](https://www.ktriptips.com/kor/tourspot/699249) |
+| Hongik University Museum (HoMA) | [hongik.ac.kr](https://www.hongik.ac.kr/kr/introduction/museum-of-art.do) |
+| Mapo Oil Tank Culture Park | [parks.seoul.go.kr](https://parks.seoul.go.kr/template/sub/culturetank.do) |
+| Seoul Central Mosque (Korea Muslim Federation) | [koreaislam.org](https://www.koreaislam.org/en/seoul-kmf/) |
+| VisitSeoul halal restaurant list (city-compiled) | [VisitSeoul](https://english.visitseoul.net/tours/Seoul-Recommended-Halal-Restaurants_/23599) |
+| Itaewon Antique Furniture Street | [VisitSeoul walking course](https://korean.visitseoul.net/hallyu/지하철-5678-도보여행---6호선-이태원역_/16457) |
+| Seoul National Cemetery (grounds open 365 days) | [mpva.go.kr official](https://www.mpva.go.kr/snmb/en/contents.do?key=2108) |
+| Ichon Hangang Park | [VisitSeoul](https://english.visitseoul.net/yongsan&yeouido-area/Ichon-Hangang-Park_/29935) |
+| Yangjae Flower Market (aT Flower Market, closed Sun) | [yfmc.at.or.kr](http://yfmc.at.or.kr/) |
+| Maeheon Yun Bong-gil Memorial Hall (closed Mon) | [Seoul Mediahub](https://opengov.seoul.go.kr/civilappeal/2898608) |
+| Gwangyang Bulgogi Bonga | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99426) |
+| Seoul Arts Center — Hangaram Art/Design Museum (Art Museum closed Mon) | [sac.or.kr](https://www.sac.or.kr/site/eng/content/exhibitionHallMain) |
+| Montmartre Park (Seorae, 24 h free) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) |
+
+---
+
 ## 5. Watch items — official pages to check (NOT scheduled in any itinerary)
 
 These are real but unconfirmed-for-Nov-2026; every itinerary treats them as optional only. Check the linked official page in mid-October 2026.

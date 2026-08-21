@@ -1,7 +1,7 @@
-# 🛍️ Myeong-dong + Namsan — Itineraries M1–M4
+# 🛍️ Myeong-dong + Namsan — Itineraries M1–M5
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
-**Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1/M4; M2 starts at Myeongdong Station (8-min walk).
+**Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1/M4/M5; M2 starts at Myeongdong Station (8-min walk).
 
 ---
 
@@ -113,3 +113,21 @@
 | 15:15 | Back at the hotel — the rest of the day is free | — | — | — | [Stanford Hotel Myeongdong](http://stanfordmyeongdong.com) | — |
 
 **Why this is the easy day:** zero subway rides, one optional purchase decision (Shinsegae), and every other stop is either free (botanical garden, underground shopping browsing) or a known Koreafood-verified meal. Pairs well after a busy J1/J2/G1 day.
+
+---
+
+## M5 — Chungmuro heritage walk → Korea House traditional cuisine + performance (🟨 moderate) — any day; **closed 3rd Monday of the month** (check the calendar date, not just the weekday)
+
+> A one-cluster evening built around Korea House's dinner-and-performance combo — the closest thing to a single-stop "greatest hits of Korean tradition" evening within walking distance of the hotel.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 16:30–17:00 | Walk or 1 stop Line 3/4 to **Chungmuro** Stn Exit 3 (≈15 min from hotel) | — | T-money | — | [Korea House](https://www.koreahouse.or.kr/en/per/art) | — |
+| 17:00–18:00 | Stroll Chungmuro's old print-and-film-industry streets (free, no ticket) | Free | Free | 🔎 | [Namsangol Hanok Village](https://www.hanokmaeul.or.kr/ko/guide) (adjacent garden, optional add) | KoreaFun myeongdong #25 |
+| 18:00–19:30 | ⭐ **Korea House traditional cuisine dinner** — royal-court-style hanjeongsik in a restored hanok complex | **Cuisine seating 17:00–21:00 daily**; **closed every 3rd Monday of the month** + New Year's Day + Chuseok; reserve ≥2 days ahead | ₩86,800–155,500 (foreigner set-menu range) | 🔎 | [Korea House cuisine + performance](https://www.koreahouse.or.kr/en/per/art) | koreahouse.or.kr official |
+| 20:00–21:00 | ⭐ **Korea House Traditional Performance Arts** — pansori, dance, court music in the folk theater | **Regular show 20:00–21:00 daily**, **closed every Monday since Mar 2020** (note: the dinner's closed day is 3rd-Monday-only, but the *evening performance* is closed **every** Monday — plan around a non-Monday for both) | ₩50,000 (performance only) | ✅ | [Korea House Traditional Performance Arts](https://www.koreahouse.or.kr/en/per/art) | koreahouse.or.kr official |
+| 21:00–21:30 | Walk/Line 3 back to the hotel (≈15 min) | — | — | — | [Korea House](https://www.koreahouse.or.kr/en/per/art) | — |
+
+**Closure trap:** read this one carefully — the **dinner service** is closed only the **3rd Monday** of the month, but the **evening performance** has been **closed every Monday since March 2020**. If your date is any Monday, skip this itinerary entirely; on all other days, the dinner+show combo runs as described.
+
+**Why this pairs well with the busy days:** Korea House sits one Chungmuro stop from Myeong-dong, so it slots easily onto the tail end of an M2 Namsan day (cable car down, walk to Chungmuro, dinner + show, walk home) without adding a second transit cluster.

@@ -1,4 +1,4 @@
-# 🏙️ Gangnam & Seocho — Itineraries G1–G5
+# 🏙️ Gangnam & Seocho — Itineraries G1–G7
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Samseong/COEX + Bongeunsa (Gangnam-gu) · Seolleung/Apgujeong/Cheongdam · Seocho (National Gugak Center, Seoul Arts Center) · **From hotel:** Line 2 direct from Euljiro 1-ga to Samseong ≈30 min / Gangnam Stn ≈25 min; express note — Shinbundang does **not** accept Climate Card.
@@ -109,3 +109,41 @@ KGMA 2026 (3rd edition) is confirmed **Sat–Sun Nov 7–8 at Gocheok Sky Dome**
 | 16:30–17:00 | Return: Line 3/Bundang → hotel-side transfer (≈30 min) | — | — | — | [The Galleria](https://visitgangnam.net/en/places/the-galleria-masterpieces-among-masterpieces) | — |
 
 **Closure trap:** Mingles is **closed Sunday and Monday** and requires reservations weeks in advance — this itinerary treats it as a photo-op landmark, not a booked meal, unless you've already secured a table.
+
+---
+
+## G6 — Yangjae Flower Market → Yangjaecheon stream walk → Maeheon Memorial Hall (🟩 easy) — Mon–Sat (flower market wholesale/retail closed Sun)
+
+> The quiet, rest-day counterpart to G1's busy COEX triangle — a wholesale flower market, a flat stream-side walk, and a free memorial hall with a foliage-peaking avenue, one Bundang/Sinbundang ride south of Gangnam Station.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 09:30–10:00 | Line 3/Sinbundang to **Yangjae** or **Nambu Bus Terminal** Stn (≈30 min) | — | T-money | — | [Yangjae Flower Market](http://yfmc.at.or.kr/) | — |
+| 10:00–11:30 | **Yangjae Flower Market (aT Flower Market)** — wholesale + retail flower market, one of Korea's largest | **Retail zone ≈06:00–19:00/20:00 Mon–Sat; potted-flower zone ≈07:00–19:00; closed Sunday** (some retail stalls run partial Sunday shifts) | Free entry | 🔎 | [Yangjae Flower Market](http://yfmc.at.or.kr/) | yfmc.at.or.kr official |
+| 11:30–13:00 | **Yangjaecheon** stream-side walk (flat, tree-lined, free, 24 h) | Free | Free | 🔎 | [Cheonggyecheon-style stream network — Yangjaecheon](https://parks.seoul.go.kr) | KoreaFun districts (Seocho stream network) |
+| 13:00–14:00 | Lunch near Yangjae — **Gwangyang Bulgogi Bonga** (Daechi, 11:30–22:00 break 15:00–17:00) | — | — | 🔎 | [Gwangyang Bulgogi Bonga](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99426) | Koreafood by-location |
+| 14:00–15:30 | **Maeheon Yun Bong-gil Memorial Hall + Yangjae Citizens' Forest** — ginkgo/metasequoia avenue, peak color early-to-mid Nov | **Nov–Feb 10:00–17:00, closed Mon**, free | Free | 🔎 | [Seoul Mediahub](https://opengov.seoul.go.kr/civilappeal/2898608) | KoreaFun districts #45 |
+| 15:30–16:00 | Sinbundang/Line 3 back toward the hotel (≈30 min) | — | — | — | [Yangjae Flower Market](http://yfmc.at.or.kr/) | — |
+
+**Closure trap:** Yangjae Flower Market's retail zone is **effectively closed Sunday** (only partial stall shifts); Maeheon Memorial Hall is **closed Monday** — this itinerary is built for **Tue–Sat**, though Sunday still works if you skip the flower market and start at the stream instead.
+
+**Why this is the easy day:** no ticketed anchor, no timed reservation, and the whole loop is flat walking distance from a single subway stop — the calmest Gangnam-side day in the whole district file.
+
+---
+
+## G7 — Seoul Arts Center Hangaram museums → Montmartre Park (🟨 moderate) — Tue–Sun (Hangaram Art Museum closed Mon; Design Museum check current show)
+
+> A gallery-and-garden pairing that stays inside Seocho's arts campus, complementing G3's gugak performance day with the visual-arts side of the same complex.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 3 to **Nambu Bus Terminal** Stn (≈30 min), or bus/taxi to Seoul Arts Center | — | T-money | — | [Seoul Arts Center — Museum Information](https://www.sac.or.kr/site/eng/content/exhibitionHallMain) | — |
+| 11:00–13:00 | **Hangaram Art Museum** — 3-level, 6-gallery exhibition hall inside Seoul Arts Center | **10:00–19:00, closed Monday** (note: undergoing remodeling from Oct 2025 — confirm current gallery status before going) | Fee varies by exhibition | 🔎 | [Seoul Arts Center Museum Info](https://www.sac.or.kr/site/eng/content/exhibitionHallMain) | sac.or.kr official |
+| 13:00–14:00 | Lunch on the Seoul Arts Center campus or nearby Seocho storefronts | — | — | ⏳ | — | — |
+| 14:00–15:30 | **Hangaram Design Museum** (same complex, ground level, 3 galleries) — check current exhibition schedule | Hours align with the Art Museum; closed Mon | Fee varies | 🔎 | [Seoul Arts Center Museum Info](https://www.sac.or.kr/site/eng/content/exhibitionHallMain) | sac.or.kr official |
+| 15:30–17:00 | Taxi/bus to **Montmartre Park** (Seocho, above Seorae Village) — sculptures, skyline view, open 24 h free | Free | Free | 🔎 | [Montmartre Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) | VisitKorea vcontsId=69718 |
+| 17:00–17:30 | Return toward the hotel (≈30–35 min) | — | — | — | [Montmartre Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) | — |
+
+**Closure trap:** Hangaram Art Museum **closed Mondays**; the museum was noted as **under remodeling construction from October 2025** on the Art Museum's own gallery listing — check sac.or.kr for current gallery status before booking a specific exhibition.
+
+**Why this pairs with G3, not repeats it:** G3 is the Saturday-only gugak performance day inside the National Gugak Center; G7 is the Seoul Arts Center's separate visual-arts wing (Hangaram museums), reachable on any non-Monday, giving Seocho both a performance-day and a gallery-day option.

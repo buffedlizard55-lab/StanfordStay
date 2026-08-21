@@ -32,6 +32,16 @@ Every itinerary below is built **only** from verified entries in the KoreaFun / 
 | **I4** | Yongsan Electronics Market → Yongsan History Museum → Iparkmall | Yongsan | 🟨 | Tue–Sun (History Museum closed Mon) | Yongsan Electronics Market 🔎 · Yongsan History Museum ✅ · Iparkmall |
 | **G4** | National Library of Korea → Seocho Park → Express Bus Terminal malls | Seocho | 🟩 | Any day (Library closed 2nd/4th Mon only) | National Library of Korea 🔎 · Seocho Park (24 h free) · Go-To Mall |
 | **G5** | Apgujeong Galleria → Cheongdam Fashion Street → Mingles gallery walk | Gangnam | 🟨 | Tue–Sat (Mingles closed Sun & Mon) | Galleria Department Store 🔎 · Cheongdam Fashion Street 🔎 · Mingles (Michelin 3★, exterior/booked) |
+| **M5** | Chungmuro heritage walk → Korea House cuisine + performance | Myeong-dong/Chungmuro | 🟨 | Any day except Monday (performance closed every Mon) | Korea House cuisine 🔎 · Korea House Traditional Performance Arts ✅ |
+| **J8** | Jogyesa Temple → Munmyo Confucian Shrine (Sungkyunkwan) → Naksan wall | Jongno | 🟨 | Any day — both anchors skip the palace-closure matrix | Jogyesa Temple (24 h free) 🔎 · Munmyo/Sungkyunkwan 🔎 · Naksan Park |
+| **J9** | Sewoon Plaza (Makercity Sewoon) → Euljiro Nogari Alley → Cheonggyecheon | Jongno/Jung-gu | 🟨 | Mon–Sat (Sewoon closed Sun) | Sewoon Plaza 🔎 · Euljiro Nogari Alley 🔎 · Cheonggyecheon |
+| **D5** | Jungbu Dried Seafood Market → Cheonggyecheon walk → DDP night | Jung-gu | 🟨 | Mon–Sat (market conventionally closed Sun) | Jungbu Market ⏳ · Woo Lae Oak 🔎 · DDP Dream in Light |
+| **D6** | Hwanghak-dong Flea Market → Sindang Tteokbokki Town → DDP dusk | Dongdaemun-gu | 🟨 | Any day — the one 7-day-a-week Seoul flea market | Hwanghak-dong Flea Market 🔎 · Sindang-dong Tteokbokki Town 🔎 · DDP Dream in Light |
+| **H4** | Hongik University Museum → Yeonnam quiet streets → Oil Tank Culture Park | Hongdae/Mapo | 🟨 | Mon–Fri (museum weekday-focused hours) | Hongik University Museum 🔎 · Oil Tank Culture Park 🔎 |
+| **I5** | Seoul Central Mosque → Usadan-ro halal food street → Antique Furniture Street | Itaewon | 🟨 | Any day (Friday Jumu'ah busiest) | Seoul Central Mosque 🔎 · Halal restaurant street 🔎 · Itaewon Antique Furniture Street |
+| **I6** | Seoul National Cemetery → Ichon Hangang Park | Dongjak/Yongsan | 🟩 | Any day — zero weekly closure risk | Seoul National Cemetery (365-day grounds) 🔎 · Ichon Hangang Park (24 h free) |
+| **G6** | Yangjae Flower Market → Yangjaecheon stream → Maeheon Memorial Hall | Seocho | 🟩 | Tue–Sat (flower market closed Sun; memorial closed Mon) | Yangjae Flower Market 🔎 · Yangjaecheon stream walk · Maeheon Memorial Hall 🔎 |
+| **G7** | Seoul Arts Center Hangaram museums → Montmartre Park | Seocho | 🟨 | Tue–Sun (Hangaram Art Museum closed Mon) | Hangaram Art Museum 🔎 · Hangaram Design Museum 🔎 · Montmartre Park |
 
 ## B. Complete Nov 1–9 plans (pick one, or splice) — **twenty-six itineraries**
 

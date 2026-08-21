@@ -1,4 +1,4 @@
-# 🕌 Itaewon & Yongsan — Itineraries I1–I4
+# 🕌 Itaewon & Yongsan — Itineraries I1–I6
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Itaewon-ro / Hannam / Hangangjin (Line 6) + Yongsan museums (Ichon / Sinyongsan / Samgakji) · **From hotel:** Itaewon ≈20–25 min (Line 4→6 or taxi ≈15 min) · Leeum (Hangangjin) ≈25 min · National Museum (Ichon, **Line 4 direct from Myeongdong**) ≈25–30 min.
@@ -85,3 +85,39 @@
 | 16:00–16:30 | Line 1 or 4 back to Myeongdong/Seoul Station corridor (≈15–20 min) | — | — | — | [Yongsan Electronics Market](https://english.visitseoul.net/shopping/Yongsan-Electronics-Market-EN/ENP009672) | — |
 
 **Closure trap:** Yongsan History Museum **closed Mondays**; the Electronics Market's individual buildings close on the **2nd and 4th Sunday** of the month — check the calendar date, not just the weekday.
+
+---
+
+## I5 — Seoul Central Mosque → Usadan-ro halal food street → Itaewon Antique Furniture Street (🟨 moderate) — any day; a genuinely different cultural cluster inside Itaewon
+
+> Korea's first mosque (1976) anchors this day, with the halal-restaurant corridor that grew up around it — a distinct cultural cluster from I1's Leeum/Elisabeth art-and-theatre day, all inside a 10-minute uphill walk from Itaewon Station.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 11:00–11:30 | Line 6 to **Itaewon** Stn Exit 3, walk uphill (≈20–25 min from hotel) | — | T-money | — | [Seoul Central Mosque (Korea Muslim Federation)](https://www.koreaislam.org/en/seoul-kmf/) | — |
+| 11:30–12:30 | ⭐ **Seoul Central Mosque** — Korea's first mosque, opened 1976; visitors welcome outside prayer times, modest dress required (robes/hijab available at the entrance) | Daily, open outside the five daily prayer times; **Friday Jumu'ah midday prayer** draws the largest crowd | Free (donations welcome) | 🔎 | [Seoul Central Mosque (Korea Muslim Federation)](https://www.koreaislam.org/en/seoul-kmf/) | koreaislam.org official |
+| 12:30–14:00 | **Usadan-ro 10-gil halal food street** — Turkish, Pakistani, Indian, Egyptian, Korean-halal restaurants clustered around the mosque | Lunch — **EID Halal Korean Food** or **Sultan Turkish Kebab** or other KTO-listed self-certified spots | — | 🔎 | [VisitSeoul halal restaurant list](https://english.visitseoul.net/tours/Seoul-Recommended-Halal-Restaurants_/23599) | VisitSeoul official (city-compiled list) |
+| 14:00–15:30 | **Itaewon Antique Furniture Street** — ~100 shops, Hamilton Hotel toward Bogwang-ro | Free to browse | Free | 🔎 | [Itaewon Antique Furniture Street](https://korean.visitseoul.net/hallyu/지하철-5678-도보여행---6호선-이태원역_/16457) | KoreaFun districts #60 |
+| 15:30–16:00 | Walk down to Itaewon Stn → Line 6 back (≈20–25 min) | — | — | — | [Seoul Central Mosque](https://www.koreaislam.org/en/seoul-kmf/) | — |
+
+**Etiquette note:** the mosque asks visitors to dress modestly (long sleeves/trousers, head covering for women — available on loan at the entrance) and to avoid entering the prayer halls during active prayer times unless participating.
+
+**Why this differs from I1:** I1 is the Leeum/Gyeongridan/Elisabeth art-and-theatre day inside Hannam; I5 stays on the Itaewon-proper hillside around the mosque, a cultural anchor not used anywhere else in this repo.
+
+---
+
+## I6 — Seoul National Cemetery → Ichon Hangang Park (🟩 easy) — any day; open 365 days, zero closure risk
+
+> A reflective, mostly-outdoor half-day near Dongjak/Ichon — genuinely the only anchor in this entire district file with **no weekly closed day at all**, useful as a rest-day slot on any date including Monday or Tuesday.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:30 | Line 4 or 9 to **Dongjak** Stn Exit 2/4 (east gate) or Exit 8 (main gate) (≈25–30 min) | — | T-money | — | [Seoul National Cemetery](https://www.mpva.go.kr/snmb/en/contents.do?key=2108) | — |
+| 10:30–12:30 | ⭐ **Seoul National Cemetery** — memorial grounds for Korean War/independence-movement/Vietnam War dead, including 4 former presidents; Memorial Hall + Memorial Plaza | **Cemetery gates 06:00–18:00 daily, open year-round**; **facilities (Memorial Hall etc.) 09:00–18:00**, closed some November holidays and Dec–Feb Sat/holidays for facilities only (grounds stay open) | Free | 🔎 | [Seoul National Cemetery](https://www.mpva.go.kr/snmb/en/contents.do?key=2108) | mpva.go.kr official |
+| 12:30–13:30 | Lunch near Dongjak/Ichon | — | — | ⏳ | — | — |
+| 13:30–15:00 | Line 4 to **Ichon** Stn (≈10 min), walk to **Ichon Hangang Park** — riverside path, 24 h, free | Free | Free | 🔎 | [Ichon Hangang Park](https://english.visitseoul.net/yongsan&yeouido-area/Ichon-Hangang-Park_/29935) | VisitSeoul ENP029935 |
+| 15:00–15:30 | Line 4 back toward the hotel (≈25 min) | — | — | — | [Ichon Hangang Park](https://english.visitseoul.net/yongsan&yeouido-area/Ichon-Hangang-Park_/29935) | — |
+
+**Why this is the only zero-closure-risk day in this file:** every other Itaewon/Yongsan itinerary (I1–I5) has at least one Monday-closed anchor (Leeum, APMA, War Memorial, Yongsan History Museum). The cemetery grounds and Ichon Hangang Park are both open **every single day of the year** — this is the fallback slot if a Monday or Tuesday needs a Yongsan-side day with nothing to worry about.
+
+**Etiquette note:** Seoul National Cemetery is an active memorial/burial ground — keep a respectful, quiet tone throughout, especially near the Memorial Tower and burial sections.

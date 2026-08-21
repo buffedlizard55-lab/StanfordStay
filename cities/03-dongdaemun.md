@@ -1,4 +1,4 @@
-# 🏮 Dongdaemun & east — Itineraries D1–D4
+# 🏮 Dongdaemun & east — Itineraries D1–D6
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** DDP / Dongdaemun markets (Jung-gu edge) + Sindang + Jegi-dong/Hongneung (Dongdaemun-gu) · **From hotel:** DDP is a **12–15 min walk** straight up Euljiro or 2 stops on Line 2 (≈8 min); Sindang is 2 stops on Line 2/6.
@@ -90,3 +90,41 @@
 | 16:00 | Arrive back near the hotel via the stream path | — | — | — | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | — |
 
 **Closure trap:** Cheonggyecheon Museum **closed Mondays**; Majang Meat Market closes on the **1st and 3rd Sunday** of the month — check the calendar date, not just the weekday.
+
+---
+
+## D5 — Jungbu Dried Seafood Market → Cheonggyecheon walk → DDP night (🟨 moderate) — Mon–Sat (market closed Sun)
+
+> A quieter east-side market morning than D2's Folk Flea/Gyeongdong pairing — Jungbu specializes in dried goods and fermented seafood, one Euljiro stop from the hotel, then a flat Cheonggyecheon walk into the DDP evening light show.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:30 | Walk or Line 2/5 to **Euljiro 4-ga** Stn (≈10–15 min) | — | T-money | — | [Jungbu Market](https://www.namdaemunmarket.co.kr) (cross-district affiliate listing) | — |
+| 10:30–12:00 | **Jungbu Dried Seafoods Market** — dried anchovies, seaweed, fermented goods, one of Seoul's oldest wholesale dry-goods markets | **Wed–Sat ≈06:00–21:30; Sun/Mon/Tue shorter ≈08:00–21:00**; individual stall hours vary, market itself has **no single official operator page** — treat posted hours as approximate and confirm on-site | Free entry | ⏳ | — | Aggregate of cross-checked stall-hours records; no single official city/operator page found — flagged ⏳ per protocol |
+| 12:00–13:00 | Lunch — **Woo Lae Oak** (Bib Gourmand, Pyongyang naengmyeon since 1946, Tue–Sun 11:30–21:30, closed Mon) — 10-min walk | — | — | 🔎 | [Woo Lae Oak](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak) | Michelin Guide official |
+| 13:00–15:00 | **Cheonggyecheon** stream walk east→west toward DDP (free, 24 h, digital canvas art installation runs evenings Mar–Nov) | Free | Free | ✅ | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) · [Seoul city facility hours](https://english.seoul.go.kr/service/amusement/stream/1-cheonggyecheon/) | english.seoul.go.kr official |
+| 18:00–19:00 | Walk to **DDP** for ⭐ **Dream in Light** facade show (nightly 18:00–22:00, on the hour) | Free | Free | 🔎 | [DDP Dream in Light](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) | KoreaFun districts #1 |
+| 19:00–20:00 | Dinner near DDP — **Jin Ok-hwa Dakhanmari** (daily 10:30–01:00) | — | — | 🔎 | [Jin Ok-hwa Dakhanmari](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86514) | Koreafood S5 |
+
+**Status note on Jungbu Market:** unlike Gwangjang or Gyeongdong Market (which carry city/tourism-board pages), Jungbu Dried Seafoods Market has **no single official operator page** in the VisitSeoul/VisitKorea/city system as of this session — hours above are cross-checked across multiple independent visitor records but are marked **⏳ watch only**, consistent with the same protocol that excludes Seongsu cafés (X5). Treat the market stop as a bonus browse, not a scheduled anchor; the Woo Lae Oak lunch and Cheonggyecheon/DDP evening are the plan's verified backbone.
+
+**Closure trap:** most Jungbu stalls are **closed Sunday** by convention (though not confirmed by an official page) — this itinerary is built for **Mon–Sat**.
+
+---
+
+## D6 — Hwanghak-dong Flea Market → Sindang-dong Tteokbokki Town → DDP dusk (🟨 moderate) — any day; the only 7-day-a-week Seoul flea market
+
+> Distinct from D2's Folk Flea Market (closed Tue) — Hwanghak-dong is the one antique/vintage market that runs every day of the week (weather permitting), making it the safest market-day slot on a Tuesday.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 2/6 to **Sindang** Stn Exit 11 (≈10–15 min) | — | T-money | — | [Hwanghak-dong Flea Market](https://spanish.visitkorea.or.kr/enu/SHP/SH_ENG_2_5.jsp) | — |
+| 11:00–13:00 | ⭐ **Hwanghak-dong Flea Market ("Dokkaebi Market")** — antiques, old furniture, electronics, watches, cameras; **runs 7 days a week ≈09:00–18:00** (hours/closed days vary by individual shop; closes for rain/snow) | Daily ≈09:00–18:00, weather-dependent | Free entry (pay per item) | 🔎 | [VisitKorea official](https://spanish.visitkorea.or.kr/enu/SHP/SH_ENG_2_5.jsp) | VisitKorea official flea-market page |
+| 13:00–14:00 | Lunch — **Sindang-dong Tteokbokki Town** (Seoul Future Heritage street, retro tteokbokki pans, per-shop lunch–late hours) | — | — | 🔎 | [Sindang-dong Tteokbokki Town](https://www.ktriptips.com/kor/tourspot/699249) | KoreaFun districts #73 |
+| 14:00–15:30 | Lunch continues or browse **Geumdwaeji Sikdang** area (Bib Gourmand, daily 11:30–23:00, in-person queue — save for dinner if the queue is long) | — | — | 🔎 | [Geumdwaeji Sikdang](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang) | Michelin Guide official |
+| 15:30–16:30 | Line 2/4/5 to **DDP** (≈10 min) — walk the exterior in daylight before the evening show | — | — | — | [DDP](https://ddp.or.kr) | — |
+| 18:00–19:00 | ⭐ **DDP Dream in Light** facade show (nightly 18:00–22:00, on the hour) | Free | Free | 🔎 | [DDP Dream in Light](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) | KoreaFun districts #1 |
+
+**Why this differs from D2:** the Seoul Folk Flea Market (D2) is **closed every Tuesday**; Hwanghak-dong is the market to use specifically when Tuesday is the only open day in the schedule, since it has **no confirmed weekly closed day** (only weather cancellations).
+
+**Status note:** Hwanghak-dong's exact hours vary slightly across sources (08:00–18:30 vs 09:00–19:00 depending on the section — antiques vs. electronics), so it is marked 🔎 verified-place rather than ✅ confirmed-schedule; always allow flexibility on the exact closing time.

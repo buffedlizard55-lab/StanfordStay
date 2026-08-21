@@ -1,4 +1,4 @@
-# ⛩️ Jongno & central Jung-gu — Itineraries J1–J7
+# ⛩️ Jongno & central Jung-gu — Itineraries J1–J9
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Jongno-gu + Gwanghwamun/City Hall side of Jung-gu · **From hotel:** Line 2→3 or a 15–20 min walk to Jongno 3-ga; ≈20–25 min to Gyeongbokgung by subway, ≈15 min by taxi.
@@ -139,3 +139,42 @@
 | 15:00–16:00 | Coffee/rest at a Gwanghwamun-side café; walk back to the hotel (≈15–20 min) | — | — | ⏳ | — | — |
 
 **Why this is the easy day:** two free 24-hour parks, one free palace-grounds walk, zero ticketed stops, and it never touches the Mon/Tue palace-closure matrix since Gyeonghuigung's grounds and both parks are open every day of the stay.
+
+---
+
+## J8 — Jogyesa Temple → Munmyo Confucian Shrine (Sungkyunkwan) → Ihwa/Naksan wall (🟨 moderate) — any day, quiet on Mon/Tue when palaces are shut
+
+> A Buddhism-and-Confucianism heritage day that skips the palace-closure matrix entirely — both anchors are free, grounds-only visits with no weekly closed day, which makes this the best-placed Jongno day for a Monday or Tuesday.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:20 | Walk or Line 1 to **Jonggak/Anguk** area (≈15 min from hotel) | — | T-money | — | [Jogyesa Temple](https://www.jogyesa.kr/) | — |
+| 10:20–11:15 | **Jogyesa Temple** — head temple of the Jogye Order, grounds open 24 h/365, free, no closed day | Open 24 h, free | Free | 🔎 | [Jogyesa Temple](https://www.jogyesa.kr/) | jogyesa.kr official |
+| 11:15–12:00 | Walk or Line 4 to **Hyehwa** area (≈20 min) | — | — | — | [Munmyo Confucian Shrine](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85542) | — |
+| 12:00–13:00 | Lunch near Hyehwa — **Hakrim Dabang** area storefronts | — | — | ⏳ | [Hakrim Dabang](https://english.visitseoul.net/restaurants/Hakrim-Coffee-Shop/ENP025377) | Koreafood by-location |
+| 13:00–14:30 | ⭐ **Munmyo Confucian Shrine & Sungkyunkwan National Academy** — Korea's primary Confucius shrine and Joseon's highest educational institution, on the Sungkyunkwan University campus | **Summer (Mar–Oct) 09:00–18:00 · Winter (Nov–Feb) 09:00–17:00**, free entry, grounds-only visit (no weekly closed day found) | Free | 🔎 | [Munmyo Confucian Shrine](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85542) | VisitKorea vcontsId=85542 · cha.go.kr Historic Site No. 143 |
+| 14:30–16:00 | **Naksan Park** wall walk + Ihwa alleys (free, open views) | Free | Free | 🔎 | [Naksan Park](https://parks.seoul.go.kr) | KoreaFun seoul #36/#68 |
+| 16:00–16:30 | Line 4 Hyehwa → hotel-side transfer (≈15 min) | — | — | — | [Naksan Park](https://parks.seoul.go.kr) | — |
+
+**Why this works on a Mon/Tue:** neither Jogyesa nor Munmyo/Sungkyunkwan appears in the palace-closure matrix — both are open every day of the stay, making J8 the cleanest Jongno day to schedule opposite Gyeongbokgung (closed Tue) or Changdeokgung/Deoksugung/Changgyeonggung (closed Mon).
+
+**Note:** Munmyo holds the twice-yearly **Seokjeon Daeje** ritual (spring/autumn) — outside the Nov 1–9 window this trip, so no schedule conflict, but the shrine's main Sinsammun gate stays closed to routine visitors year-round regardless (side access only).
+
+---
+
+## J9 — Sewoon Plaza (Makercity Sewoon) → Euljiro Nogari Alley → Cheonggyecheon (🟨 moderate) — Mon–Sat (Sewoon closed Sun)
+
+> A Cheonggyecheon-spine day that stays on the Jongno/Jung-gu border: Korea's first electronics arcade (now a design/maker complex) with a free daily walking tour, then the "Hipjiro" newtro café-and-bar alley, ending on the stream.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Walk or Line 1/3/5 to **Jongno 3-ga** area (≈15 min from hotel) | — | T-money | — | [Sewoon Plaza](https://english.visitseoul.net/attractions/sewoon-shopping-center_/24707) | — |
+| 11:00–12:00 | **Sewoon Plaza (Makercity Sewoon)** — Korea's first comprehensive electronics market, 1968, now a maker/design complex spanning Jongno 3-ga to Toegye-ro | **Daily 09:00–19:00 (hours vary by store), closed Sunday**; optional free **Sewoon Tour** Mon–Sat 14:00 (covers Jongno 3-ga, Sewoon Plaza, Cheonggye Plaza, Daelim Plaza) | Free to browse | 🔎 | [Sewoon Plaza](https://english.visitseoul.net/attractions/sewoon-shopping-center_/24707) · [VisitKorea (tour times)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=186513) | VisitSeoul + VisitKorea official |
+| 12:00–13:00 | Lunch — Euljiro area naengmyeon or gopchang alley storefronts | — | — | ⏳ | — | — |
+| 13:00–15:00 | **Euljiro Nogari Alley ("Hipjiro")** — newtro café/bar street mixing old hardware shops with new cafés | Street always open; individual café/bar hours vary (most cafés 11:00–22:00, bars from 15:30/17:00) | — | 🔎 | [Seoul streetside architecture tour — Nogari Alley](https://english.visitseoul.net/editorspicks/seoul-streetside-architecture-3/39527) | VisitSeoul editorial (official city tourism content) |
+| 15:00–16:00 | **Cheonggyecheon** stream walk back toward the hotel (free, 24 h) | Free | Free | ✅ | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | KoreaFun seoul #64 |
+| 16:00–16:30 | Arrive back near the hotel via the stream path | — | — | — | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | — |
+
+**Closure trap:** Sewoon Plaza is **closed Sunday** — this itinerary is built for **Mon–Sat**. The free Sewoon Tour runs **Mon–Sat 14:00** only (contact the information center for the current meeting point).
+
+**Why this differs from J1–J8 and X3:** X3 (mixed-clusters) covers Euljiro's "Printer's Alley" food walk into Sindang/DDP; J9 stays purely on the Jongno-3-ga/Euljiro border with Sewoon Plaza as the anchor, never crossing into Dongdaemun.

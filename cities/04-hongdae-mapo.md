@@ -1,4 +1,4 @@
-# 🎸 Hongdae & Mapo — Itineraries H1–H3
+# 🎸 Hongdae & Mapo — Itineraries H1–H4
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Hongdae (Hongik Univ. Stn) + Yeonnam + Mangwon/Sangam (Mapo-gu) · **From hotel:** Line 2 direct from Euljiro 1-ga to Hongik Univ. ≈20 min ride (≈25–30 min door-to-door); Mangwon adds Line 6 (≈35 min); Sangam ≈35–40 min.
@@ -81,3 +81,22 @@
 | 15:30–16:00 | Line 6 or bus back to Hapjeong → Line 2 → Euljiro 1-ga (≈30 min) | — | — | — | [Mangwon Hangang Park](https://english.visitseoul.net/nature/Mangwon-Hangang-Park/ENP002841) | — |
 
 **Closure trap:** Yanghwajin Cemetery **closed Sundays**; Jeoldusan's indoor museum **closed Mondays** (shrine grounds stay open). Best run **Tue–Sat** to get both interiors.
+
+---
+
+## H4 — Hongik University Museum → Yeonnam quiet streets → Oil Tank Culture Park (🟨 moderate) — Mon–Fri (museum closed weekends per posted hours)
+
+> The campus-and-park version of Hongdae, deliberately away from H1's busking crowds — a small university museum, a quiet Yeonnam residential walk, and the repurposed oil-tank park, all reachable without leaving the Line 2/6 corridor.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 2 to **Hongik Univ.** Stn (≈20 min direct from Euljiro 1-ga) | — | T-money | — | [Hongik University Museum](https://www.hongik.ac.kr/kr/introduction/museum-of-art.do) | — |
+| 11:00–12:00 | **Hongik University Museum of Art (HoMA)** — contemporary art gallery on campus | **10:00–18:00, Mon–Fri (HoMA 2 gallery Wed–Sun)** — hours vary by exhibition, confirm current show before going | Free (most shows) | 🔎 | [Hongik University Museum](https://www.hongik.ac.kr/kr/introduction/museum-of-art.do) | hongik.ac.kr official |
+| 12:00–13:00 | Lunch — **Masichaina** (Sangsu, 11:30–22:00 break 16:00–17:00) | — | — | 🔎 | [Masichaina](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=66922) | Koreafood Seoul guide |
+| 13:00–14:30 | **Yeonnam-dong** quiet residential streets + **Café Layered Yeonnam** (daily 10:00–22:00) | — | — | 🔎 | [Café Layered Yeonnam](https://english.visitseoul.net/restaurants/Caf%C3%A9%20Layered%20Yeonnam_/48856) | Koreafood by-location |
+| 14:30–16:00 | **Mapo Oil Tank Culture Park** — 5 repurposed 1970s oil tanks turned cultural venue, outdoor space free/24 h | Outdoor grounds 24 h free; **program spaces closed Mon** | Free (outdoors) | 🔎 | [Oil Tank Culture Park](https://parks.seoul.go.kr/template/sub/culturetank.do) | KoreaFun districts #10 |
+| 16:00–16:30 | Line 6/2 back toward the hotel (≈30 min) | — | — | — | [Oil Tank Culture Park](https://parks.seoul.go.kr/template/sub/culturetank.do) | — |
+
+**Closure trap:** HoMA's posted hours are **weekday-only for the main gallery** (2nd gallery runs Wed–Sun) and vary by current exhibition — confirm the specific show's calendar before committing; Oil Tank Culture Park's **indoor program spaces close Monday** (outdoor grounds stay open every day).
+
+**Why this differs from H1/H2/H3:** H1 is the busking/BBQ energy day, H2 is the Mangwon/Haneul silver-grass day, H3 is the Yanghwajin/Jeoldusan heritage-riverside day — H4 is the only one that stays on the university-and-park side of Hongdae without a market or busking anchor.
