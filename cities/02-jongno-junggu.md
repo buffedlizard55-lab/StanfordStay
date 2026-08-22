@@ -1,4 +1,4 @@
-# ⛩️ Jongno & central Jung-gu — Itineraries J1–J4
+# ⛩️ Jongno & central Jung-gu — Itineraries J1–J11
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Jongno-gu + Gwanghwamun/City Hall side of Jung-gu · **From hotel:** Line 2→3 or a 15–20 min walk to Jongno 3-ga; ≈20–25 min to Gyeongbokgung by subway, ≈15 min by taxi.
@@ -104,3 +104,117 @@
 - Jongno 3-ga (Lines 1/3/5) is the useful hub for J2/J4 — ≈12–15 min from the hotel via Line 2→3 or a 20-min walk via Gwangjang.
 - **Jongmyo** (UNESCO shrine; closed **Tue**) is directly behind Changdeokgung — weekday visits are typically guided-tour-only; Saturday rules differ. Verify on royal.khs.go.kr before adding it. *(KoreaFun seoul #34)*
 - **Gyeongbokgung hanbok free-entry rule:** wearing hanbok grants free palace admission — rental shops cluster near Gyeongbokgung/Jongno. Combined 4-palace + Jongmyo ticket ₩10,000/3 months only pays off if you'll visit 3+. *(KoreaFun myeongdong #31)*
+
+---
+
+## J6 — Tapgol Park → Nagwon Instrument Arcade → Unhyeongung (🟨 moderate) — Tue–Sun (Unhyeongung closed Mon)
+
+> A quieter civic-heritage loop through central Jongno that has not appeared in J1–J5 or X-series: Korea's first modern public park, a working musical-instrument bazaar, and the royal residence where Gojong grew up — all inside a 15-minute walking triangle from Jongno 3-ga.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:20 | Line 1/3/5 to **Jongno 3-ga** Stn Exit 5 (≈15 min) | — | T-money | — | [Nagwon Instrument Arcade](https://english.visitseoul.net/area/Nagwon-Instrument-Arcade/ENP009721) | — |
+| 10:20–11:00 | **Tapgol Park** (formerly Pagoda Park) — Korea's first modern public park; 10-story Wongaksa pagoda, March 1st Movement monuments | **Mar–Oct 09:00–18:00 · Nov–Feb 09:00–17:00**, open year-round | Free | 🔎 | [Tapgol Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/locIntrdnList.do?vcontsId=104563) | VisitKorea vcontsId=104563 |
+| 11:00–12:00 | **Nagwon Instrument Arcade** — Korea's largest music-store bazaar, 2nd–3rd floors, hundreds of instrument shops | **Weekdays & Sat 10:00–19:30**; **most stores closed Sun & public holidays** | Free to browse | 🔎 | [Nagwon Instrument Arcade](https://english.visitseoul.net/area/Nagwon-Instrument-Arcade/ENP009721) | VisitSeoul ENP009721 |
+| 12:00–13:00 | Lunch — **Nagwon Rice Cake** or Insadong-side option (Sanchon, Bukchon Son Mandu) | — | — | 🔎 | [Nagwon Rice Cake](https://english.visitseoul.net/restaurants/Nakwon-Food/ENP026190) | VisitSeoul ENP026190 |
+| 13:00–14:30 | **Insadong** car-free street + Ssamziegil (10:30–20:30 daily) | Free | Free | 🔎 | [Insadong](https://mediahub.seoul.go.kr/archives/1270460) | KoreaFun districts #91 |
+| 14:30–16:00 | ⭐ **Unhyeongung Royal Residence** (Heungseon Daewongun's residence) | **Tue–Sun 09:00–18:00, closed Mon** | Free | ✅ | [Unhyeongung Royal Residence](https://www.unhyeongung.or.kr/?ckattempt=1) | unhyeongung.or.kr |
+| 16:00–16:30 | Walk or Line 3 Anguk → hotel-side transfer (≈20 min) | — | — | — | [Unhyeongung Royal Residence](https://www.unhyeongung.or.kr/?ckattempt=1) | — |
+
+**Closure trap:** Nagwon Arcade shops are mostly **closed Sundays**; Unhyeongung is **closed Mondays** — this itinerary only fully works **Tue–Sat**.
+
+---
+
+## J7 — Sajik Park → Gyeonghuigung → Seoullo civic sunset walk (🟩 easy) — any day; a rest day inside Jongno
+
+> The quiet, low-effort counterpart to J1/J2 — two 24-hour-open parks plus a free palace-grounds walk, with the only timed stop (Gyeonghuigung) open every day of the stay.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–10:50 | Line 3 to **Gyeongbokgung** Stn Exit 1, walk 5 min (≈20 min from hotel) | — | T-money | — | [Sajik Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86285) | — |
+| 10:50–12:00 | **Sajik Park** — 1395 Sajikdan altar grounds, quiet paths, statues of Sin Saimdang & Yi I | Open 24 h, free | Free | 🔎 | [Sajik Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86285) | VisitKorea vcontsId=86285 |
+| 12:00–13:00 | Lunch near Gyeongbokgung Stn (any J1 option — Hwangsaengga Kalguksu if walking to Bukchon after) | — | — | 🔎 | [Hwangsaengga Kalguksu](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86236) | Koreafood S3 |
+| 13:00–14:00 | **Gyeonghuigung** — quiet western Joseon palace, usually uncrowded, grounds free | Free entry to grounds | Free | 🔎 | [Gyeonghuigung](https://royal.khs.go.kr) | KoreaFun seoul #33 |
+| 14:00–15:00 | Walk to **Gwanghwamun Square** + **Seoullo 7017** entry point near Seoul Station side | Free | Free | 🔎 | [Seoullo 7017](https://seoullo7017.seoul.go.kr) | KoreaFun seoul #63 |
+| 15:00–16:00 | Coffee/rest at a Gwanghwamun-side café; walk back to the hotel (≈15–20 min) | — | — | ⏳ | — | — |
+
+**Why this is the easy day:** two free 24-hour parks, one free palace-grounds walk, zero ticketed stops, and it never touches the Mon/Tue palace-closure matrix since Gyeonghuigung's grounds and both parks are open every day of the stay.
+
+---
+
+## J8 — Jogyesa Temple → Munmyo Confucian Shrine (Sungkyunkwan) → Ihwa/Naksan wall (🟨 moderate) — any day, quiet on Mon/Tue when palaces are shut
+
+> A Buddhism-and-Confucianism heritage day that skips the palace-closure matrix entirely — both anchors are free, grounds-only visits with no weekly closed day, which makes this the best-placed Jongno day for a Monday or Tuesday.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:20 | Walk or Line 1 to **Jonggak/Anguk** area (≈15 min from hotel) | — | T-money | — | [Jogyesa Temple](https://www.jogyesa.kr/) | — |
+| 10:20–11:15 | **Jogyesa Temple** — head temple of the Jogye Order, grounds open 24 h/365, free, no closed day | Open 24 h, free | Free | 🔎 | [Jogyesa Temple](https://www.jogyesa.kr/) | jogyesa.kr official |
+| 11:15–12:00 | Walk or Line 4 to **Hyehwa** area (≈20 min) | — | — | — | [Munmyo Confucian Shrine](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85542) | — |
+| 12:00–13:00 | Lunch near Hyehwa — **Hakrim Dabang** area storefronts | — | — | ⏳ | [Hakrim Dabang](https://english.visitseoul.net/restaurants/Hakrim-Coffee-Shop/ENP025377) | Koreafood by-location |
+| 13:00–14:30 | ⭐ **Munmyo Confucian Shrine & Sungkyunkwan National Academy** — Korea's primary Confucius shrine and Joseon's highest educational institution, on the Sungkyunkwan University campus | **Summer (Mar–Oct) 09:00–18:00 · Winter (Nov–Feb) 09:00–17:00**, free entry, grounds-only visit (no weekly closed day found) | Free | 🔎 | [Munmyo Confucian Shrine](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85542) | VisitKorea vcontsId=85542 · cha.go.kr Historic Site No. 143 |
+| 14:30–16:00 | **Naksan Park** wall walk + Ihwa alleys (free, open views) | Free | Free | 🔎 | [Naksan Park](https://parks.seoul.go.kr) | KoreaFun seoul #36/#68 |
+| 16:00–16:30 | Line 4 Hyehwa → hotel-side transfer (≈15 min) | — | — | — | [Naksan Park](https://parks.seoul.go.kr) | — |
+
+**Why this works on a Mon/Tue:** neither Jogyesa nor Munmyo/Sungkyunkwan appears in the palace-closure matrix — both are open every day of the stay, making J8 the cleanest Jongno day to schedule opposite Gyeongbokgung (closed Tue) or Changdeokgung/Deoksugung/Changgyeonggung (closed Mon).
+
+**Note:** Munmyo holds the twice-yearly **Seokjeon Daeje** ritual (spring/autumn) — outside the Nov 1–9 window this trip, so no schedule conflict, but the shrine's main Sinsammun gate stays closed to routine visitors year-round regardless (side access only).
+
+---
+
+## J9 — Sewoon Plaza (Makercity Sewoon) → Euljiro Nogari Alley → Cheonggyecheon (🟨 moderate) — Mon–Sat (Sewoon closed Sun)
+
+> A Cheonggyecheon-spine day that stays on the Jongno/Jung-gu border: Korea's first electronics arcade (now a design/maker complex) with a free daily walking tour, then the "Hipjiro" newtro café-and-bar alley, ending on the stream.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Walk or Line 1/3/5 to **Jongno 3-ga** area (≈15 min from hotel) | — | T-money | — | [Sewoon Plaza](https://english.visitseoul.net/attractions/sewoon-shopping-center_/24707) | — |
+| 11:00–12:00 | **Sewoon Plaza (Makercity Sewoon)** — Korea's first comprehensive electronics market, 1968, now a maker/design complex spanning Jongno 3-ga to Toegye-ro | **Daily 09:00–19:00 (hours vary by store), closed Sunday**; optional free **Sewoon Tour** Mon–Sat 14:00 (covers Jongno 3-ga, Sewoon Plaza, Cheonggye Plaza, Daelim Plaza) | Free to browse | 🔎 | [Sewoon Plaza](https://english.visitseoul.net/attractions/sewoon-shopping-center_/24707) · [VisitKorea (tour times)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=186513) | VisitSeoul + VisitKorea official |
+| 12:00–13:00 | Lunch — Euljiro area naengmyeon or gopchang alley storefronts | — | — | ⏳ | — | — |
+| 13:00–15:00 | **Euljiro Nogari Alley ("Hipjiro")** — newtro café/bar street mixing old hardware shops with new cafés | Street always open; individual café/bar hours vary (most cafés 11:00–22:00, bars from 15:30/17:00) | — | 🔎 | [Seoul streetside architecture tour — Nogari Alley](https://english.visitseoul.net/editorspicks/seoul-streetside-architecture-3/39527) | VisitSeoul editorial (official city tourism content) |
+| 15:00–16:00 | **Cheonggyecheon** stream walk back toward the hotel (free, 24 h) | Free | Free | ✅ | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | KoreaFun seoul #64 |
+| 16:00–16:30 | Arrive back near the hotel via the stream path | — | — | — | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | — |
+
+**Closure trap:** Sewoon Plaza is **closed Sunday** — this itinerary is built for **Mon–Sat**. The free Sewoon Tour runs **Mon–Sat 14:00** only (contact the information center for the current meeting point).
+
+**Why this differs from J1–J8 and X3:** X3 (mixed-clusters) covers Euljiro's "Printer's Alley" food walk into Sindang/DDP; J9 stays purely on the Jongno-3-ga/Euljiro border with Sewoon Plaza as the anchor, never crossing into Dongdaemun.
+
+---
+
+## J10 — Yun Dong-ju Literature Museum → Poet's Hill → Inwangsan fortress wall (🟨 moderate) — Tue–Sun (museum + Inwangsan trail both closed Mon)
+
+> A Buam-dong/Seochon-adjacent heritage-and-hiking day that has not appeared in J1–J9 or the X-series — a small literary museum built into a converted water-pressure station, then a fortress-wall trail with skyline views, both sitting on the northwest side of the palace-closure matrix.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:40 | Line 3 to **Gyeongbokgung** Stn Exit 3, then bus 1020/7022/7212 or taxi toward Jahamun-gogae (≈10 min ride, total ≈30 min from hotel) | — | T-money | — | [Yun Dong-ju Literature Museum](https://www.jfac.or.kr/site/main/content/yoondj01) | — |
+| 10:40–11:40 | ⭐ **Yun Dong-ju Literature Museum** — built from a converted 1974 water-pressure booster station on the hill between Cheongun-dong and Buam-dong; 3 exhibition halls tracing the poet's life and manuscripts | **10:00–18:00, closed Mon** (and Jan 1, Seollal, Chuseok) | Free | 🔎 | [Yun Dong-ju Literature Museum](https://www.jfac.or.kr/site/main/content/yoondj01) | VisitKorea vcontsId=183577 |
+| 11:40–12:10 | **Yun Dong-ju's Poet's Hill** (behind the museum) — viewpoint over Inwangsan/Bugaksan, free, open 24 h | Free | Free | 🔎 | [Literature Experience (Yun Dong-ju)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=183577) | VisitKorea vcontsId=183577 |
+| 12:10–13:10 | Lunch — Seochon-side storefronts (Jahamun-ro corridor) or double back toward Tongin Market (see J2) | — | — | ⏳ | — | — |
+| 13:10–13:40 | Walk/bus to **Suseongdong Valley** entrance, the start of the **Inwangsan Mountain / Seoul City Wall (Course 4)** trail | — | — | — | [Seoul City Wall Course 4](https://english.seoul.go.kr/seoul-city-wall-course-4-inwangsan-section/) | — |
+| 13:40–16:00 | ⭐ **Inwangsan fortress-wall hike** (Seoul City Wall Course 4, Sungnyemun–Donuimun–Changuimun stretch; 5.3 km full course, or a shorter there-and-back to the ridge viewpoints) — panoramic city views, shaman-shrine rock formations | **Open 24 h, free — but entry restricted every Monday** (mountain-rest-day rule; reopens Tue if Mon is a holiday) | Free | 🔎 | [Seoul City Wall Course 4: Inwangsan Section](https://english.seoul.go.kr/seoul-city-wall-course-4-inwangsan-section/) | english.seoul.go.kr official |
+| 16:00–16:40 | Descend to **Dongnimmun Stn** or back to Gyeongbokgung Stn (≈20–30 min walk/bus) | — | — | — | [Seoul City Wall Course 4](https://english.seoul.go.kr/seoul-city-wall-course-4-inwangsan-section/) | — |
+| 16:40 | Line 3 back toward the hotel (≈25 min) | — | — | — | [Yun Dong-ju Literature Museum](https://www.jfac.or.kr/site/main/content/yoondj01) | — |
+
+**Closure trap:** both anchors are **closed Monday** — the museum by posted hours, Inwangsan by a standing "mountain rest day" access restriction (00:00–24:00 every Monday, extending to Tuesday if Monday is a public holiday). This is a **Tue–Sun only** itinerary.
+
+**Why this differs from J1/J2/J8:** J1/J2 stay inside the Gyeongbokgung/Bukchon/Seochon palace loop; J8 pairs Jogyesa with Munmyo on the Hyehwa side — J10 is the only Jongno-file day built around the Buam-dong/Inwangsan northwest corner, reachable without touching the palace-closure matrix's Tuesday side at all.
+
+---
+
+## J11 — MMCA Seoul → Samcheong-dong gallery street → Bukchon Cultural Center (🟨 moderate) — Tue–Sun (MMCA + galleries closed Mon)
+
+> The contemporary-art counterpart to J1's royal-heritage day — MMCA's flagship Seoul branch (a former military command post beside Gyeongbokgung), then Samcheong-ro's private-gallery row, ending at a free hanok cultural center offering craft demonstrations.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:30 | Line 3 to **Anguk** Stn Exit 1, walk toward Samcheong-ro (≈20 min from hotel) | — | T-money | — | [MMCA Seoul](https://www.mmca.go.kr) | — |
+| 10:30–13:00 | ⭐ **MMCA Seoul (National Museum of Modern and Contemporary Art)** — main branch beside Gyeongbokgung, built around the former Defense Security Command; permanent collection + rotating special exhibitions | **Tue/Thu/Fri/Sun 10:00–18:00 · Wed & Sat 10:00–21:00 · closed Mon** | Permanent free; special shows ticketed | 🔎 | [MMCA Seoul](https://www.mmca.go.kr) | mmca.go.kr official |
+| 13:00–14:00 | Lunch — **Hwangsaengga Kalguksu** (Bib Gourmand, see J1) or Samcheong-dong storefronts | — | — | 🔎 | [Hwangsaengga Kalguksu](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86236) | Koreafood Route S3 |
+| 14:00–16:00 | **Samcheong-dong gallery street**: **Kukje Gallery** (Mon–Sat 10:00–18:00, Sun & holidays 10:00–17:00) + **Hakgojae Gallery** (10:00–18:00, **closed Sun & Mon**) — Korea's leading private contemporary-art galleries, free admission | Free | Free | 🔎 | [Kukje Gallery](https://english.visitseoul.net/attractions/Kukje-Gallery/ENP003241) · [Hakgojae Gallery](https://english.visitseoul.net/attractions/Hakgojae-Gallery/ENP001871) | VisitSeoul ENP003241 / ENP001871 |
+| 16:00–17:00 | **Bukchon Cultural Center** (Bukchon Traditional Culture Center) — hanok exhibits, craft/tea-ceremony demonstrations, free hanok-stay-planning info desk | **Tue/Thu/Fri 09:00–18:00 · Wed to 20:00 · Sat–Sun 09:00–17:00 · closed Mon** | Free | 🔎 | [Bukchon Cultural Center](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97933) | VisitKorea vcontsId=97933 |
+| 17:00–17:30 | Walk or Line 3 Anguk back toward the hotel (≈20 min) | — | — | — | [Bukchon Cultural Center](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97933) | — |
+
+**Closure trap:** MMCA Seoul, Hakgojae Gallery, and Bukchon Cultural Center are all **closed Monday** (Kukje Gallery is the one exception, open daily) — this whole loop is built for **Tue–Sun**.
+
+**Why this differs from J1/J6:** J1 treats Bukchon as a residential-alley walk on the way to Insadong; J6 uses the Tapgol/Nagwon/Unhyeongung civic triangle — J11 is the only Jongno-file day centered on the Samcheong-ro **contemporary-art** corridor (MMCA + private galleries), never repeating J1's Gyeongbokgung/Insadong anchors.

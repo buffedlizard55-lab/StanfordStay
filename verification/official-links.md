@@ -205,6 +205,105 @@ Each row was fetched directly from the official page today. This is the independ
 | Maeheon Yun Bong-gil Memorial + Yangjae Citizens' Forest (free; closed Mon) | [Seoul 120 listing](https://opengov.seoul.go.kr/civilappeal/2898608) |
 | Some Sevit (decks free, 11:00–22:00; fountain OFF Nov) | [hangang.seoul.go.kr](https://hangang.seoul.go.kr/www/contents/804.do?mid=622) |
 | Seoripul / Montmartre Park ridge | [seocho.go.kr](https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505) |
+| Montmartre Park (Seorae) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) |
+| Seorae Village ("Little France") | [VisitSeoul](https://english.visitseoul.net/attractions/seorae-village_/20977) |
+| Banpo Hangang Park | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91983) |
+
+### Seodaemun-gu / Sinchon / Ewha (added Aug 21, 2026 — X14/X15/X20)
+
+| Item | Official page(s) |
+|---|---|
+| Seodaemun Prison History Hall (closed Mon) | [VisitSeoul](https://english.visitseoul.net/attractions/Seodaemun-Prison-History-Hall_/1834) · [sscmc.or.kr](https://sphh.sscmc.or.kr) |
+| Seodaemun Independence Park (24 h, free) | [VisitSeoul](https://english.visitseoul.net/area/Seodaemun-Independence-Park/ENP001753) |
+| Ansan Jarak-gil (7 km accessible trail, free) | [VisitSeoul accessible course](https://english.visitseoul.net/accessible-seoul/AnsanCourse/ENNjlyd7c) |
+| Dongnimmun Yeongcheon Market | [VisitSeoul](https://english.visitseoul.net/shopping/Yeongcheon-Market/ENP028253) |
+| Ewha Womans University campus | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=174329) |
+| Yonsei-ro transit-zone lift / Sunday car-free (Seoul city release) | [news.seoul.go.kr](https://news.seoul.go.kr/traffic/archives/513420) |
+| Gyeongui Line Book Street (closed Mon) | [english.seoul.go.kr](https://english.seoul.go.kr/gyeongui-line-book-street/) · [gbookst.or.kr](https://www.gbookst.or.kr) |
+| Gyeonghuigung | [royal.khs.go.kr](https://royal.khs.go.kr) |
+
+### Yongsan / Ichon extended (added Aug 21, 2026 — X16)
+
+| Item | Official page(s) |
+|---|---|
+| Yongsan Family Park (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111286) |
+| Dongbinggo café | [VisitSeoul](https://english.visitseoul.net/restaurants/Dongbinggo-en/ENP013716) |
+
+### Dongjak / Noryangjin / Nodeul (added Aug 21, 2026 — X17)
+
+| Item | Official page(s) |
+|---|---|
+| Noryangjin Fisheries Wholesale Market | [susansijang.co.kr](https://www.susansijang.co.kr/nsis/miw/en/intro) · [VisitSeoul](https://english.visitseoul.net/shopping/Noryangjin-Fisheries-Wholesale-Market-Noryangjin-Fish-Market/ENP009505) |
+| Nodeul Island (closed Mon indoors; outdoor 24 h) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34334) · [nodeul.org](https://nodeul.org/guide/) |
+
+### Jung-gu east / Namsan east (added Aug 21, 2026 — X19)
+
+| Item | Official page(s) |
+|---|---|
+| Jangchungdan Park (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=85639) |
+| Jangchung-dong Jokbal Alley | [VisitSeoul](https://english.visitseoul.net/attractions/jangchung-dong-jokbal-alley_/29089) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85189) |
+
+### Jongno civic heritage additions (added Aug 21, 2026 — X21/X23)
+
+| Item | Official page(s) |
+|---|---|
+| Unhyeongung Royal Residence (closed Mon) | [unhyeongung.or.kr](https://www.unhyeongung.or.kr/?ckattempt=1) · [Seoul (SMG)](https://english.seoul.go.kr/namsangol-hanok-village-unhyeongung-royal-residence-announce-major-events-calendar-to-attract-millennials-gen-z-and-reborn-as-hot-spots/) |
+| Jongmyo Shrine (self-guided Sat/Sun only; closed Tue) | [royal.khs.go.kr](https://royal.khs.go.kr) |
+| Jongmyo–Changgyeonggung Yulgok-ro connecting gate (Sat/Sun/holidays only) | [korea.kr press release](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156653898) |
+| Sanchon (Insadong temple-food restaurant) | [VisitSeoul](https://english.visitseoul.net/restaurants/Sanchon-en/ENP014518) |
+| Seodaemun Gopchang (closed Sun) | [VisitSeoul](https://english.visitseoul.net/restaurants/Seodaemun-Gopchang/ENP013139) |
+
+### District day-itineraries — M4/J6/J7/D3/D4/H3/I3/I4/G4/G5 (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Shinsegae The Heritage (Myeongdong Main Store) | [VisitSeoul](https://english.visitseoul.net/shopping/ShinsegaeTheHeritage/ENP6ptemj) |
+| Myeongdong Underground Shopping Center | [VisitSeoul](https://english.visitseoul.net/area/Myeongdong-Underground-Shopping-Center/ENP009730) |
+| Namsan Outdoor Botanical Garden (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) |
+| Tapgol Park (formerly Pagoda Park) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/locIntrdnList.do?vcontsId=104563) |
+| Nagwon Instrument Arcade (closed Sun) | [VisitSeoul](https://english.visitseoul.net/area/Nagwon-Instrument-Arcade/ENP009721) |
+| Nagwon Rice Cake | [VisitSeoul](https://english.visitseoul.net/restaurants/Nakwon-Food/ENP026190) |
+| Sajik Park (24 h, free) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86285) |
+| Doota Mall | [VisitSeoul](https://english.visitseoul.net/shopping/doota-dongdaemun_/426) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106371) |
+| Migliore Dongdaemun (closed Mon) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106366) |
+| Hello apM (closed Tue) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=138541) |
+| Majang Meat Market (closed 1st/3rd Sun) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84934) |
+| Cheonggyecheon Museum (closed Mon) | [museum.seoul.go.kr](https://museum.seoul.go.kr/eng/about/annex/cheongGyeMuse.jsp) |
+| Yanghwajin Foreign Missionary Cemetery (closed Sun) | [VisitSeoul](https://english.visitseoul.net/attractions/Yanghwajin-Foreign-Missionary-Cemetery/ENP001153) |
+| Jeoldusan Martyrs' Shrine (museum closed Mon) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107565) |
+| Mangwon Hangang Park | [VisitSeoul](https://english.visitseoul.net/nature/Mangwon-Hangang-Park/ENP002841) |
+| Nanji Hangang Park | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=95349) |
+| Haebangchon / Shinheung Market | [VisitSeoul](https://english.visitseoul.net/editorspicks/Shinheung/ENNqxr8e5) |
+| Haebangchondak | [VisitSeoul](https://english.visitseoul.net/restaurants/2024-hbcdak_/45783) |
+| Yongsan Electronics Market | [VisitSeoul](https://english.visitseoul.net/shopping/Yongsan-Electronics-Market-EN/ENP009672) |
+| Yongsan History Museum (closed Mon) | [museum.yongsan.go.kr](https://museum.yongsan.go.kr/visit/guide) |
+| Iparkmall Yongsan | [KTO listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=f10e3c38-2b26-49ca-9ea3-7ec1e8b559b6) |
+| National Library of Korea (closed 2nd/4th Mon) | [VisitSeoul](https://english.visitseoul.net/attractions/National-Library-of-Korea-EN/ENP011010) · [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111030) |
+| Express Bus Terminal Go-To Mall / Shinsegae Central City | [Shinsegae Central City official](http://eng.shinsegaecentralcity.com/about) |
+| The Galleria Department Store (Apgujeong) | [Visit Gangnam (Gangnam-gu Tourism Division)](https://visitgangnam.net/en/places/the-galleria-masterpieces-among-masterpieces) |
+| Cheongdam Fashion Street | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84734) |
+| Mingles (Michelin 3★, closed Sun+Mon) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/mingles) |
+
+### Second plan expansion (Q–Z) — new anchors (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Jogyesa Temple (24 h grounds, free) | [jogyesa.kr](https://www.jogyesa.kr/) |
+| Seoul Children's Grand Park (park/zoo, no weekly closed day) | [sisul.or.kr](https://www.sisul.or.kr/open_content/childrenpark/) · [Seoul city listing](https://english.seoul.go.kr/service/amusement/parks/) |
+| National Museum of Korea — Children's Museum reservation | [museum.go.kr](https://www.museum.go.kr/ENG/contents/E0103000000.do) |
+| Lotte World Adventure | [adventure.lotteworld.com](https://adventure.lotteworld.com/) |
+| Seoul Sky (Lotte World Tower) | [seoulsky.lotteworld.com](https://seoulsky.lotteworld.com/) |
+| Culture Station Seoul 284 (closed Mon) | [seoul284.org](https://www.seoul284.org/) |
+| Deoksugung Stonewall Walkway (Doldam-gil) | [VisitSeoul](https://english.visitseoul.net/attractions/Deoksugung%20Stonewall%20Walkway_/23958) |
+| Seoul Guided Walking Tour (free, English-speaking volunteer guides) | [VisitSeoul](https://english.visitseoul.net/walking-tour) · [sto.or.kr booking](https://www.sto.or.kr/english/tourism01/view?stBusinessSeq=30) |
+| Woo Lae Oak (Bib Gourmand, closed Mon) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak) |
+| Myeongdong Kyoja (Michelin Selected) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/myeongdong-kyoja) |
+| Hwangsaengga Kalguksu (Bib Gourmand 2026) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu) |
+| Imun Seolnongtang (Michelin Selected, 1907) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/imun-seolnongtang) |
+| Hadongkwan (Michelin Selected, closed Sun) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/hadongkwan) |
+| Budnamujip (Michelin Selected) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/budnamujip) |
+| Geumdwaeji Sikdang (Bib Gourmand 2026) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/geumdwaeji-sikdang) |
+| Pildong Myeonok (Bib Gourmand 2026, closed Sun) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/pildong-myeonok) |
 
 ---
 
@@ -435,6 +534,70 @@ Each row was fetched directly from the official page today. This is the independ
 | **Yeonbaek Naengmyeon** | [Visit Seoul](https://english.visitseoul.net/restaurants/YeonbaekNaengmyeon/ENPc8sicj) |
 | **Yangmani (Yeouido)** | [Visit Seoul](https://english.visitseoul.net/area/Yangmani-EN/ENP011966) |
 | **Ttosuni Sundae** | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=99580) |
+
+---
+
+## 4b. Fourth district-day round — M5/J8/J9/D5/D6/H4/I5/I6/G6/G7 (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Korea House — cuisine + traditional performance (performance closed every Mon) | [koreahouse.or.kr](https://www.koreahouse.or.kr/en/per/art) |
+| Jogyesa Temple (24 h grounds, free, no closed day) | [jogyesa.kr](https://www.jogyesa.kr/) |
+| Munmyo Confucian Shrine & Sungkyunkwan National Academy | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85542) |
+| Naksan Park | [parks.seoul.go.kr](https://parks.seoul.go.kr) |
+| Sewoon Plaza (Makercity Sewoon, closed Sun) | [VisitSeoul](https://english.visitseoul.net/attractions/sewoon-shopping-center_/24707) · [VisitKorea (tour times)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=186513) |
+| Euljiro Nogari Alley ("Hipjiro") | [VisitSeoul editorial](https://english.visitseoul.net/editorspicks/seoul-streetside-architecture-3/39527) |
+| Cheonggyecheon | [cheonggyecheon.seoul.go.kr](https://cheonggyecheon.seoul.go.kr) · [Seoul city facility hours](https://english.seoul.go.kr/service/amusement/stream/1-cheonggyecheon/) |
+| Jungbu Dried Seafoods Market (⏳ no single official operator page found) | — (cross-checked visitor records only; not entered as a scheduled anchor) |
+| Woo Lae Oak (Bib Gourmand, closed Mon) | [Michelin Guide official](https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/woo-lae-oak) |
+| Hwanghak-dong Flea Market ("Dokkaebi Market") | [VisitKorea official](https://spanish.visitkorea.or.kr/enu/SHP/SH_ENG_2_5.jsp) |
+| Sindang-dong Tteokbokki Town | [KTO street record](https://www.ktriptips.com/kor/tourspot/699249) |
+| Hongik University Museum (HoMA) | [hongik.ac.kr](https://www.hongik.ac.kr/kr/introduction/museum-of-art.do) |
+| Mapo Oil Tank Culture Park | [parks.seoul.go.kr](https://parks.seoul.go.kr/template/sub/culturetank.do) |
+| Seoul Central Mosque (Korea Muslim Federation) | [koreaislam.org](https://www.koreaislam.org/en/seoul-kmf/) |
+| VisitSeoul halal restaurant list (city-compiled) | [VisitSeoul](https://english.visitseoul.net/tours/Seoul-Recommended-Halal-Restaurants_/23599) |
+| Itaewon Antique Furniture Street | [VisitSeoul walking course](https://korean.visitseoul.net/hallyu/지하철-5678-도보여행---6호선-이태원역_/16457) |
+| Seoul National Cemetery (grounds open 365 days) | [mpva.go.kr official](https://www.mpva.go.kr/snmb/en/contents.do?key=2108) |
+| Ichon Hangang Park | [VisitSeoul](https://english.visitseoul.net/yongsan&yeouido-area/Ichon-Hangang-Park_/29935) |
+| Yangjae Flower Market (aT Flower Market, closed Sun) | [yfmc.at.or.kr](http://yfmc.at.or.kr/) |
+| Maeheon Yun Bong-gil Memorial Hall (closed Mon) | [Seoul Mediahub](https://opengov.seoul.go.kr/civilappeal/2898608) |
+| Gwangyang Bulgogi Bonga | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99426) |
+| Seoul Arts Center — Hangaram Art/Design Museum (Art Museum closed Mon) | [sac.or.kr](https://www.sac.or.kr/site/eng/content/exhibitionHallMain) |
+| Montmartre Park (Seorae, 24 h free) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) |
+
+---
+
+## 4c. Fifth district-day round — M6/J10/J11/D7/D8/H5/I7/I8/G8/G9 (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Bank of Korea Money Museum (closed Mon) | [bok.or.kr](https://www.bok.or.kr/museum/main/contents.do?menuNo=700128) · [VisitSeoul](https://english.visitseoul.net/attractions/bank-of-korea-money-museum_/2733) |
+| Namdaemun Market | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106358) |
+| Namdaemun Galchi-jorim (Hairtail) Alley | [VisitSeoul](https://english.visitseoul.net/shopping/NamdaemunGalchijorimAlley/ENP041949) |
+| Namdaemun Market Tourist Information Center | [VisitSeoul](https://english.visitseoul.net/attractions/Namdaemun-Market-Tourist-Information-Center/ENP027219) |
+| Hoehyeon Underground Shopping Center | [VisitSeoul](https://english.visitseoul.net/shopping/Hoehyeon-Underground-Shopping-Center/ENP000559) |
+| Yun Dong-ju Literature Museum (closed Mon) | [jfac.or.kr](https://www.jfac.or.kr/site/main/content/yoondj01) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=183577) |
+| Seoul City Wall Course 4 — Inwangsan Section (mountain-rest-day closed Mon) | [english.seoul.go.kr](https://english.seoul.go.kr/seoul-city-wall-course-4-inwangsan-section/) |
+| MMCA Seoul (closed Mon) | [mmca.go.kr](https://www.mmca.go.kr) |
+| Kukje Gallery | [VisitSeoul](https://english.visitseoul.net/attractions/Kukje-Gallery/ENP003241) |
+| Hakgojae Gallery (closed Sun & Mon) | [VisitSeoul](https://english.visitseoul.net/attractions/Hakgojae-Gallery/ENP001871) |
+| Bukchon Cultural Center (closed Mon) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97933) |
+| Culture Station Seoul 284 (closed Mon) | [seoul284.org](https://www.seoul284.org/) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86336) |
+| Bangsan Wholesale Market (closed Sun) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80425) |
+| Gyeongui Line Book Street (Monday status disputed — see V79) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=64574) |
+| Gongdeok Traditional Market | [VisitSeoul](https://english.visitseoul.net/area/Gongdeok-Market/ENP028335) |
+| World Cup Park (Pyeonghwa Park — no closed day) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107540) |
+| Hyundai Card Music Library (closed Mon) | [dive.hyundaicard.com](https://dive.hyundaicard.com/web/musiclibrary/spaceMain.hdc) · [VisitSeoul](https://english.visitseoul.net/attractions/hyundaicard-musiclibrary-hyundaicard-vinyl-and-plastic/ENPtvunyc) |
+| Gyeongnidan-gil | [VisitSeoul](https://english.visitseoul.net/shopping/Gyeongnidangil_/41818) |
+| Noksapyeong Overpass viewpoint | [VisitSeoul editorial](https://english.visitseoul.net/attractions/Hidden-Night-Spots-for-Seoul-Travelers_/31618) |
+| Yongsan Yongmun Traditional Market (⏳ conventionally closed Sun, no single official closed-day page) | [Seoul Mediahub](https://mediahub.seoul.go.kr/archives/2010333) |
+| Sookmyung Women's University | [sookmyung.ac.kr](https://www.sookmyung.ac.kr/en/intro/directions.do) |
+| Hyochang Park / Baekbeom Kim Koo Memorial Hall (hall closed Mon) | [Seoul Mediahub](https://mediahub.seoul.go.kr/archives/2010436) |
+| Bongeunsa Temple (self-guided, open 365 days) | [bongeunsa.org](http://www.bongeunsa.org) |
+| Starfield Library | [starfield.co.kr](https://starfield.co.kr/m/coexmall/starfieldLibrary/library.do) |
+| Gangnam Station Underground Shopping Center | [VisitSeoul](https://english.visitseoul.net/shopping/Gangnam-Station-Underground-Shopping-Center/ENP017740) |
+| World Trade Center Seoul | [VisitSeoul](https://english.visitseoul.net/gangnamarea/WTCSeoul/ENP042328) |
+| Seoripul Park | [Seocho-gu official](https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505) |
 
 ---
 

@@ -1,7 +1,7 @@
-# 🌆 Mixed-cluster itineraries (X1–X6) — new Aug 20, 2026
+# 🌆 Mixed-cluster itineraries (X1–X23) — X1–X13 built Aug 20, 2026 · X14–X23 added Aug 21, 2026
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
-**Built to fill the gap between the single-cluster city files.** Each itinerary chains 2–3 neighbouring districts so a full day runs without public-transit hops between activities. All anchors trace to entries already in the KoreaFun/Koreafood verified rosters, with the source's claim cross-checked against the original official page in [`verification/verification-log.md`](../verification/verification-log.md).
+**Built to fill the gap between the single-cluster city files.** Each itinerary chains 2–3 neighbouring districts so a full day runs without public-transit hops between activities. All anchors trace to entries already in the KoreaFun/Koreafood verified rosters (X1–X13) or to freshly re-verified official VisitSeoul/VisitKorea/city/operator pages (X14–X23), with every claim cross-checked against the original official page in [`verification/verification-log.md`](../verification/verification-log.md).
 
 > **Pace key:** 🟥 busy full day · 🟨 moderate · 🟩 easy / rest. **Hotel base:** Stanford Hotel Myeongdong (Line 2 Euljiro 1-ga Ex. 6, 2 min walk).
 
@@ -309,7 +309,174 @@ The user rule: **no public transit between activities in a given day if possible
 
 ---
 
-## 🗺️ X1–X13 walkability map
+## X14 — Seodaemun Prison History Hall → Independence Park → Ansan Jarak-gil (🟨 moderate) — any non-Mon (Prison Hall closed Mon)
+
+> One Line 3 ride to Dongnimmun, then everything is on foot: the park, the museum, and the accessible forest trail behind it share one gate cluster.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 09:30–10:00 | Line 3 from Euljiro 3-ga → **Dongnimmun** Stn Exit 5 (≈20 min) | — | T-money | — | [Dongnimmun Yeongcheon Market](https://english.visitseoul.net/shopping/Yeongcheon-Market/ENP028253) | — |
+| 10:00–10:30 | **Seodaemun Independence Park** grounds (Dongnimmun Gate, monuments) | Open 24 h, free | Free | 🔎 | [Seodaemun Independence Park](https://english.visitseoul.net/area/Seodaemun-Independence-Park/ENP001753) | VisitSeoul ENP001753 |
+| 10:30–12:30 | ⭐ **Seodaemun Prison History Hall** — colonial-era prison halls + outdoor exhibits | **Mar–Oct 09:30–18:00 · Nov–Feb 09:30–17:00**, last admission 30 min before close, **closed Mon** | ₩3,000 adult / ₩1,500 youth / ₩1,000 child | 🔎 | [Seodaemun Prison History Hall](https://english.visitseoul.net/attractions/Seodaemun-Prison-History-Hall_/1834) · [sscmc.or.kr](https://sphh.sscmc.or.kr) | VisitSeoul ENP001831 · sphh.sscmc.or.kr |
+| 12:30–13:30 | Lunch — **Dongnimmun Yeongcheon Market** food alley (daily 07:00–21:00, hours vary by stall) or **Seodaemun Gopchang** (Mon–Sat 17:00–22:30, **closed Sun**) | — | — | 🔎 | [Yeongcheon Market](https://english.visitseoul.net/shopping/Yeongcheon-Market/ENP028253) · [Seodaemun Gopchang](https://english.visitseoul.net/restaurants/Seodaemun-Gopchang/ENP013139) | Koreafood by-location |
+| 13:30–16:00 | **Ansan Jarak-gil** — 7 km circular barrier-free forest boardwalk (beacon mound, Bongwonsa temple views); enter from behind the park | Open 24 h, free, no booking | Free | 🔎 | [Ansan Jarak-gil (VisitSeoul accessible course)](https://english.visitseoul.net/accessible-seoul/AnsanCourse/ENNjlyd7c) | VisitSeoul ENNjlyd7c |
+| 16:00–16:30 | Return Dongnimmun Stn (exit near the trailhead) → Line 3 → hotel-side transfer at Euljiro 3-ga | — | — | — | [Dongnimmun Yeongcheon Market](https://english.visitseoul.net/shopping/Yeongcheon-Market/ENP028253) | — |
+
+**Closure trap:** Prison History Hall **closed Mondays** (if Monday is a holiday, closed the following business day) — never schedule this on Nov 2 or Nov 9. Independence Park and the Jarak-gil trail are open every day, so a Monday visit can still do the park + trail half only.
+
+---
+
+## X15 — Sinchon / Ewha campus stroll → Yonsei-ro → Gyeongui Line Book Street (🟩 easy) — best Sun (Yonsei-ro car-free 09:00–22:00); Book Street closed Mon
+
+> One Line 2 ride out to Ewha Womans University, then a flat walk east through Sinchon to the Gyeongui Line Book Street and Yeonnam-dong — all on the same Line 2 corridor, no further transit.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:20 | Line 2 from Euljiro 1-ga → **Ewha Womans University** Stn (≈20 min, direct) | — | T-money | — | [Ewha Womans University](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=174329) | — |
+| 10:20–11:30 | **Ewha Womans University** campus walk (ECC underground complex, Grand Staircase) + **Ewha shopping street** browsing | Campus grounds free; visiting hours weekdays/weekend daytime | Free | 🔎 | [Ewha Womans University](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=174329) | VisitKorea vcontsId=174329 |
+| 11:30–12:30 | Walk (~15 min) to **Sinchon / Yonsei-ro** — as of Jan 2025 open to general traffic on weekdays, but the district runs it **car-free every Sunday 09:00–22:00** | Street always accessible; car-free Sun only | Free | ✅ | [Seoul (SMG) press release — Yonsei-ro transit-zone lift](https://news.seoul.go.kr/traffic/archives/513420) | news.seoul.go.kr Dec 19 2024 |
+| 12:30–13:30 | Lunch on Yonsei-ro / Sinchon-ro — pick a posted-hours storefront (café/bakery row); confirm hours on Naver the day of | — | ⏳ | Street businesses only, not individually verified | — |
+| 13:30–14:30 | Walk (~20 min, or 1 Line-2 stop **Hongik Univ.**) to **Gyeongui Line Book Street** | **Tue–Sun 11:00–20:00, closed Mon** | Free | ✅ | [Gyeongui Line Book Street](https://english.seoul.go.kr/gyeongui-line-book-street/) · [gbookst.or.kr](https://www.gbookst.or.kr) | english.seoul.go.kr · gbookst.or.kr |
+| 14:30–15:30 | Continue into **Gyeongui Line Forest Park** (Yeontral Park section, Yeonnam-dong) | Free, always open | Free | 🔎 | [Gyeongui Line Forest Park](https://parks.seoul.go.kr) | KoreaFun districts (Hongdae/Mapo) |
+| 15:30–16:00 | Line 2 **Hongik Univ.** → Euljiro 1-ga (direct, ≈20 min) | — | — | — | [Café Layered Yeonnam](https://english.visitseoul.net/restaurants/Caf%C3%A9%20Layered%20Yeonnam_/48856) | — |
+
+**Closure trap:** Gyeongui Line Book Street **closed every Monday**. Yonsei-ro is only guaranteed car-free on **Sundays 09:00–22:00** (Sat 14:00–22:00 also carries pedestrian priority per the district's posted schedule) — on weekdays it now carries normal traffic since the Jan 2025 transit-zone lift.
+
+---
+
+## X16 — Ichon extended: National Museum → Yongsan Family Park → Dongbinggo (🟨 moderate) — best Wed / Sat (NMK late night); adds to I2/X12 without repeating them
+
+> Same Line 4 Ichon arrival as I2/X12, but stays entirely on the river side of the museum instead of crossing to APMA/War Memorial — a genuinely different half-day for a second Ichon visit.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–13:00 | ⭐ **National Museum of Korea** (Ichon, Line 4 direct) — free permanent galleries | Mon/Tue/Thu/Fri/Sun 09:30–17:30 · **Wed & Sat 09:30–21:00** | Free | ✅ | [National Museum of Korea](https://www.museum.go.kr/MUSEUM/contents/M0101000000.do) | museum.go.kr |
+| 13:00–14:30 | **Yongsan Family Park** — 2 km walking path, gardens, on the museum's south side | Open 24 h, free | Free | 🔎 | [Yongsan Family Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111286) | VisitKorea vcontsId=111286 |
+| 14:30–15:30 | Lunch/dessert — **Dongbinggo** café (daily 10:30–21:30, near Seobinggo Stn Exit 1) | — | — | 🔎 | [Dongbinggo](https://english.visitseoul.net/restaurants/Dongbinggo-en/ENP013716) | VisitSeoul ENP013716 |
+| 15:30–17:00 | **Ichon Hangang Park** riverside walk (24 h, free) back toward Ichon Stn | Free | Free | 🔎 | [Ichon Hangang Park](https://hangang.seoul.go.kr) | KoreaFun districts #102 |
+| 17:00–17:30 | Line 4 Ichon → Myeongdong (direct, ≈25 min) | — | — | — | [National Museum of Korea](https://www.museum.go.kr/MUSEUM/contents/M0101000000.do) | — |
+
+**Note:** this is a **repeat-of-district** day, not a repeat-of-content day — it swaps APMA/War Memorial (I2/X12) for the family park + Dongbinggo café side of Ichon, so it can follow I2/X12 later in the stay without visiting the same rooms twice.
+
+---
+
+## X17 — Noryangjin Fish Market → Nodeul Island night (🟨 moderate) — any day; live auction floor closed Sun
+
+> One Line 1/9 ride south of the river, then everything is a flat riverside walk: fish market → pedestrian bridge → Nodeul Island's night-lit culture complex.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 16:30–17:00 | Line 1 or 9 from City Hall/Euljiro corridor → **Noryangjin** Stn (≈30 min with one transfer) | — | T-money | — | [Noryangjin Fisheries Wholesale Market](https://english.visitseoul.net/shopping/Noryangjin-Fisheries-Wholesale-Market-Noryangjin-Fish-Market/ENP009505) | — |
+| 17:00–18:30 | ⭐ **Noryangjin Fisheries Wholesale Market** — pick seafood at the wholesale stalls, pay the restaurant next door to prep it | Wholesale/retail sales run **00:00–24:00 by category** (general 01:30–22:00); **live auction closed Sun** | Market entry free (pay per item) | ✅ | [Noryangjin Fisheries Wholesale Market](https://www.susansijang.co.kr/nsis/miw/en/intro) | susansijang.co.kr official |
+| 18:30–19:00 | Walk the **Hangang pedestrian bridge** across to **Nodeul Island** (≈15 min) | Outdoor space open 24 h | Free | 🔎 | [Nodeul Island](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34334) | VisitKorea vcontsId=34334 |
+| 19:00–21:00 | **Nodeul Island** complex — live music hall, bookstore, riverside terraces, lit at night | **Winter (Nov–Feb): Tue–Sun 10:00–20:00; outdoor space 24 h; closed Mon** | Free (event tickets vary) | ✅ | [Nodeul Island official guide](https://nodeul.org/guide/) | nodeul.org |
+| 21:00–21:30 | Return: Line 9 **Nodeul** Stn or bus back toward the hotel (≈35 min total) | — | — | — | [Nodeul Island](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34334) | — |
+
+**Closure trap:** the pre-dawn **live auction** (best seen 01:00–04:00) is not realistic on this trip's schedule and is **closed Sundays** anyway — this itinerary is built around the **daytime/evening wholesale-retail floor**, which is open every day. Nodeul Island's indoor facilities are **closed Mon**.
+
+---
+
+## X18 — Seorae Village "Little France" → Montmartre Park → Banpo Hangang Park (🟩 easy) — any day; a slow café day
+
+> One ride to Express Bus Terminal, then a hillside loop: French bakery street → hilltop park → riverside park, all on foot.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 3/7/9 from Euljiro corridor → **Express Bus Terminal** Stn Exit 5/6 (≈25 min) | — | T-money | — | [Seorae Village](https://english.visitseoul.net/attractions/seorae-village_/20977) | — |
+| 11:00–12:30 | **Seorae Village ("Little France")** — French bakeries, wine shops, tree-lined lanes | Street always open; shop hours vary (most 09:00–22:00) | Free | 🔎 | [Seorae Village](https://english.visitseoul.net/attractions/seorae-village_/20977) | VisitSeoul ENP...20977 |
+| 12:30–13:30 | Lunch/brunch — pick a Seorae bakery-café along the main lane (posted hours vary by shop; confirm on Naver Map) | — | ⏳ | — | — |
+| 13:30–14:30 | **Montmartre Park** — hilltop park above Seorae Village, sculptures + skyline view | Open 24 h, free | Free | 🔎 | [Montmartre Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) | VisitKorea vcontsId=69718 |
+| 14:30–16:00 | Walk down (Nue Bridge) to **Banpo Hangang Park** — riverside path, picnic spots (Rainbow Fountain is **off-season Nov–Mar**) | Open 24 h, free | Free | 🔎 | [Banpo Hangang Park](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91983) | VisitKorea vcontsId=91983 |
+| 16:00–16:30 | Return: Express Bus Terminal Stn or bus back toward the hotel (≈25 min) | — | — | — | [Seorae Village](https://english.visitseoul.net/attractions/seorae-village_/20977) | — |
+
+**Note:** individual Seorae cafés are not yet in the Koreafood verified roster — the district itself, Montmartre Park, and Banpo Hangang Park are all confirmed on official VisitSeoul/VisitKorea pages, so this day anchors on the parks and treats café choice as a browse.
+
+---
+
+## X19 — Jangchungdan Park → Jokbal Alley → Dongguk/Namsan east (🟩 easy) — any day, walkable from Dongguk Univ. Stn
+
+> A quiet Namsan-adjacent half-day: a historic park, a famous pork-trotter alley, and the east side of Namsan — all one Line 3 stop past Chungmuro, then on foot.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 11:30–12:00 | Line 3 from Euljiro 3-ga → **Dongguk University** Stn Exit 3 (≈15 min) | — | T-money | — | [Jangchung-dong Jokbal Alley](https://english.visitseoul.net/attractions/jangchung-dong-jokbal-alley_/29089) | — |
+| 12:00–13:30 | Lunch — **Jangchung-dong Jokbal Alley** (jokbal, bindaetteok, pajeon; alley shops run lunch–late, hours vary by shop) | — | — | 🔎 | [Jangchung-dong Jokbal Alley](https://english.visitseoul.net/attractions/jangchung-dong-jokbal-alley_/29089) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85189) | VisitSeoul ENP029089 · VisitKorea vcontsId=85189 |
+| 13:30–14:30 | **Jangchungdan Park** — 1900 memorial shrine site, Supyogyo historic bridge, pine-forest walking paths | Open 24 h, free | Free | 🔎 | [Jangchungdan Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=85639) | VisitKorea vcontsId=85639 |
+| 14:30–16:00 | Walk up into **Namsan Park's east side** toward N Seoul Tower base (rejoin M2 territory if continuing) | Free | Free | 🔎 | [Namsan Outdoor Botanical Garden](https://us.trip.com/travel-guide/attraction/seoul/namsan-outdoor-botanical-garden-55988379/) — free, open daily, verify via [Seoul city parks record](http://english.seoul.go.kr/%EA%B3%B5%EC%9B%90/?pidx=26&sub=4) | Seoul city parks record |
+| 16:00–16:30 | Walk down to **Dongguk Univ.** Stn or **Chungmuro** Stn → Line 3/4 back to the hotel (≈15 min) | — | — | — | [Chungmuro](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192789) | — |
+
+**Note:** this is a quiet-day filler that avoids repeating the Namsan Cable Car / N Seoul Tower ticketed sequence from M2 — treat the Namsan Botanical Garden leg as optional if you've already done M2 that week.
+
+---
+
+## X20 — Gyeonghuigung quiet palace → Seodaemun Museum of Natural History → Independence Park half-day (🟨 moderate) — any non-Mon
+
+> A lighter alternative to X14's full day: starts at the quiet western palace near Gwanghwamun, then walks/rides west into the Seodaemun museum-and-park cluster.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–11:00 | **Gyeonghuigung** — quiet western Joseon palace grounds, usually uncrowded | Free entry to grounds | Free | 🔎 | [Gyeonghuigung](https://royal.khs.go.kr) | KoreaFun seoul #33 |
+| 11:00–11:30 | Walk or 1 bus stop to **Seodaemun-gu** (or Line 5 Gwanghwamun → Seodaemun, 1 stop) | — | T-money | — | [Seodaemun Independence Park](https://english.visitseoul.net/area/Seodaemun-Independence-Park/ENP001753) | — |
+| 11:30–12:30 | Lunch near Seodaemun Station (Independence Park side) | — | — | ⏳ | — | — |
+| 12:30–14:00 | **Seodaemun Prison History Hall** (see X14 for full hours/price) or, if repeating X14, skip straight to the park | Closed Mon | ₩3,000 | 🔎 | [Seodaemun Prison History Hall](https://english.visitseoul.net/attractions/Seodaemun-Prison-History-Hall_/1834) | VisitSeoul ENP001831 |
+| 14:00–15:30 | **Seodaemun Independence Park** monuments + Dongnimmun Gate | Open 24 h, free | Free | 🔎 | [Seodaemun Independence Park](https://english.visitseoul.net/area/Seodaemun-Independence-Park/ENP001753) | VisitSeoul ENP001753 |
+| 15:30–16:00 | Line 5/3 back toward the hotel (≈20–25 min) | — | — | — | [Gyeonghuigung](https://royal.khs.go.kr) | — |
+
+**This half-day exists to pair with a light morning elsewhere in Jongno** (e.g., before an afternoon at M3 or J3) rather than as a full standalone — for the complete Seodaemun day, use **X14**.
+
+---
+
+## X21 — Bosingak noon bell → Insadong → Unhyeongung Royal Residence (🟨 moderate) — Tue–Sun (Unhyeongung + Bosingak closed Mon)
+
+> A short civic-heritage loop entirely on foot from Jongno 3-ga/Anguk, adding the Unhyeongung royal residence (not used in J1–J4) to the existing Bosingak + Insadong anchors.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 11:00–11:20 | Line 1 to **Jonggak** Stn Exit 4 (≈15 min) | — | T-money | — | [Seoul Culture](https://culture.seoul.go.kr/culture/main/contents.do?menuNo=200147) | — |
+| 11:50–12:10 | ⭐ **Bosingak bell-striking ceremony** — 12 strikes at noon | **Daily except Mon**; Tue is the foreign-visitor slot | Free | ✅ | [Seoul Culture](https://culture.seoul.go.kr/culture/main/contents.do?menuNo=200147) | KoreaFun districts #68 |
+| 12:15–13:15 | Lunch — **Sanchon** temple-style vegetarian tasting menu, Insadong (daily 11:30–21:00/22:00) | — | — | 🔎 | [Sanchon](https://english.visitseoul.net/restaurants/Sanchon-en/ENP014518) | VisitSeoul ENP014518 |
+| 13:15–14:30 | **Insadong** car-free street + **Ssamziegil** (10:30–20:30 daily) | Free | Free | 🔎 | [Insadong](https://mediahub.seoul.go.kr/archives/1270460) | KoreaFun districts #91 |
+| 14:30–16:00 | ⭐ **Unhyeongung Royal Residence** (Heungseon Daewongun's residence, Gojong's childhood home) | **Tue–Sun 09:00–18:00 (winter Nov–Mar to 18:00, last entry 17:30), closed Mon**; Fri extended to 21:00 in summer season only | Free | ✅ | [Unhyeongung Royal Residence](https://www.unhyeongung.or.kr/?ckattempt=1) · [Seoul (SMG) events page](https://english.seoul.go.kr/namsangol-hanok-village-unhyeongung-royal-residence-announce-major-events-calendar-to-attract-millennials-gen-z-and-reborn-as-hot-spots/) | unhyeongung.or.kr · english.seoul.go.kr |
+| 16:00–16:30 | Walk or Line 3 Anguk → hotel-side transfer (≈20 min) | — | — | — | [Unhyeongung Royal Residence](https://www.unhyeongung.or.kr/?ckattempt=1) | — |
+
+**Closure trap:** **Unhyeongung + Bosingak both closed Monday.** Combine with J1/J4 on a non-Monday only.
+
+---
+
+## X22 — Namdaemun dawn market → Sungnyemun → Seoul Station / Seoullo 7017 (🟩 easy) — 0-transit walk from the hotel; some Namdaemun stalls shut Sun
+
+> The lowest-effort easy day in the whole system — everything is inside the ~15-minute walking radius already used by X1, but sequenced as a slow morning market crawl instead of the civic-museum loop.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 08:30–10:00 | **Namdaemun Market** morning stalls (kitchenware, produce, street food alleys) — busiest and freshest early | Sections open from ~05:00–06:00, food alleys later; **some fabric/home-goods sections closed Sun** | Free entry | 🔎 | [Namdaemun Market](https://www.namdaemunmarket.co.kr) | KoreaFun myeongdong #34–35 |
+| 10:00–10:30 | **Sungnyemun** gate (winter 09:00–17:30, closed Mon) + free **Pasu guard ceremony** (~10:00–15:40 daily except Mon) | Free | Free | 🔎 | [Sungnyemun](https://royal.khs.go.kr) | KoreaFun myeongdong #33 |
+| 10:30–11:15 | **Seoullo 7017** elevated garden walkway toward Seoul Station | Free, open daily | Free | 🔎 | [Seoullo 7017](https://seoullo7017.seoul.go.kr) | KoreaFun seoul #63 |
+| 11:15–12:00 | Coffee at **Ops Bakery** (Euljiro 1-ga, weekdays 10:30–20:00 / weekends to 20:30) on the walk back | — | — | 🔎 | [Ops Bakery](https://english.visitseoul.net/tours/seouls-bakeries--nostalgia-memories-and-bread/ENN020733) | Koreafood by-location |
+| 12:00 | Back at the hotel — the rest of the day is free for a second, separate half-day plan | — | — | — | [Stanford Hotel Myeongdong](http://stanfordmyeongdong.com) | — |
+
+**Why this exists:** X1 already covers a Myeong-dong→City Hall→Sungnyemun civic loop for a non-Sunday afternoon; X22 is the **morning-market, zero-transit** version for a slow rest day, deliberately short so it pairs with an easy afternoon (M1, M3, or hotel rest) rather than another full itinerary.
+
+---
+
+## X23 — Jongmyo Saturday self-guided → Changgyeonggung Yulgok-ro passage → Mulbit Yeonhwa (🟥 busy) — **Sat Nov 7 only**
+
+> Saturday is the one day Jongmyo drops its guided-tour-only rule **and** the Yulgok-ro gate between Jongmyo and Changgyeonggung is open, so this is the single day a walkable Jongmyo→Changgyeonggung→Mulbit chain exists without recrossing to the front gates. Built as a Saturday-only alternative to J5/X2's Tue–Sat Mulbit routine.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 13:30–14:00 | Line 1/3/5 to **Jongno 3-ga** Exit 11 → walk to Jongmyo's main gate (≈5 min) | — | T-money | — | [Jongmyo Shrine](https://royal.khs.go.kr) | — |
+| 14:00–15:30 | ⭐ **Jongmyo Shrine** — **self-guided (no tour required) on Saturdays only**; UNESCO World Heritage ancestral shrine | Nov–Jan 09:00–17:30 (last entry 16:30); **closed Tue**; self-guided Sat/Sun/Culture Day, guided-tour-only other weekdays | ₩1,000 | ✅ | [Jongmyo Shrine (Royal Palaces)](https://royal.khs.go.kr) | royal.khs.go.kr |
+| 15:30–16:00 | ⭐ Cross via the **Yulgok-ro connecting gate** (Jongmyo Buksinmun ↔ Changgyeonggung Yulgok-ro gate) — open **Sat/Sun/public holidays/Culture Day** since Oct 2024 | Separate ₩1,000 ticket required for Changgyeonggung side | ₩1,000 (Changgyeonggung) | ✅ | [Korea Heritage Service notice — Yulgok-ro connecting gate](https://www.korea.kr/briefing/pressReleaseView.do?newsId=156653898) | korea.kr press release, Oct 8 2024 |
+| 16:00–16:40 | **Changgyeonggung** grounds before dusk (grounds open to 21:00 during Mulbit run) | Nov entry 09:00–16:30 (Yulgok-ro gate hours), grounds to 21:00 | ₩1,000 (already inside) | ✅ | [Changgyeonggung](https://royal.khs.go.kr) | royal.khs.go.kr |
+| 16:40–20:30 | ⭐ **Changgyeonggung Mulbit Yeonhwa** — 8-scene night media art (already inside the grounds, no need to re-enter at Honghwamun) | Full run through **Nov 8**; entry closes 20:00, grounds close 21:00; rain rule ≥3 mm at 13:00 cancels scenes 2 & 5 | Included (already paid ₩1,000 entry) | ✅ | [Mulbit Yeonhwa](https://www.kh.or.kr/cms/content/view/1526) | KoreaFun seoul #25 · kh.or.kr |
+| 20:30–21:00 | Exit via **Honghwamun** → Line 4 Hyehwa (≈12 min walk) → Myeongdong (direct) | — | — | — | [Nanta Myeongdong](https://www.nanta.co.kr/kr/show/detail.php?id=1) | — |
+
+**Why Saturday only:** on any other open day, Jongmyo requires a **timed guided tour** (10:00/12:00/14:00/16:00 Mon/Wed/Thu/Fri/Sun) which breaks the free-roaming chain into Changgyeonggung, and the Yulgok-ro connecting gate itself is **only open Sat/Sun/public holidays/the last Wednesday of the month** — so within the Nov 1–9 window, **Sat Nov 7** is the only day both conditions align with an evening Mulbit visit still in season. **Closed Tue** (Jongmyo) applies regardless.
+
+---
+
+## 🗺️ X1–X23 walkability map
 
 | ID | Cluster | Subway after leaving the hotel? | Best day | Pace | Master list |
 |---|---|---|---|---|---|
@@ -326,3 +493,13 @@ The user rule: **no public transit between activities in a given day if possible
 | **X11** | Hannam stay-put | 1 ride, then walk | Tue–Sat | 🟥 | Entered |
 | **X12** | Ichon museum triangle | 1 Line-4 ride, then walk | Wed / Sat | 🟨 | Entered |
 | **X13** | Friday-late civic museums | Walk | **Fri Nov 6** | 🟨 | Entered |
+| **X14** | Seodaemun Prison History Hall → Independence Park → Ansan Jarak-gil | 1 Line-3 ride, then walk | Any non-Mon | 🟨 | Entered |
+| **X15** | Sinchon/Ewha campus stroll → Yonsei-ro → Gyeongui Book Street | 1 Line-2 ride, then walk | Sun (Book Street closed Mon) | 🟩 | Entered |
+| **X16** | Ichon extended: National Museum → Yongsan Family Park → Dongbinggo | 1 Line-4 ride, then walk | Wed / Sat (NMK late) | 🟨 | Entered |
+| **X17** | Noryangjin Fish Market → Nodeul Island night | 1 Line-1/9 ride, then walk | Any (auction closed Sun) | 🟨 | Entered |
+| **X18** | Seorae Village "Little France" → Montmartre Park → Banpo Hangang Park | 1 Line-3/7/9 ride, then walk | Any | 🟩 | Entered |
+| **X19** | Jangchungdan Park → Jokbal Alley → Dongguk/Namsan east | 1 Line-3 ride, then walk | Any | 🟩 | Entered |
+| **X20** | Gyeonghuigung quiet palace → Seodaemun Museum of Natural History → Independence Park (afternoon half of X14 alone) | Walk from Gwanghwamun; 1 ride if starting cold | Any non-Mon | 🟨 | Entered |
+| **X21** | Bosingak noon bell → Insadong → Unhyeongung Royal Residence | Walk | Tue–Sun (closed Mon) | 🟨 | Entered |
+| **X22** | Namdaemun dawn market → Sungnyemun → Seoul Station / Seoullo 7017 | Walk (0 transit) | Any (some stalls shut Sun) | 🟩 | Entered |
+| **X23** | Jongmyo Saturday self-guided → Changgyeonggung Yulgok-ro passage → Mulbit Yeonhwa | Walk (0 transit) | **Sat Nov 7 only** (self-guided Jongmyo + passage both need Sat) | 🟥 | Entered |

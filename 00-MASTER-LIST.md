@@ -22,8 +22,38 @@ Every itinerary below is built **only** from verified entries in the KoreaFun / 
 | **G1** | COEX day: Bongeunsa Temple Life (EN) → Starfield Library → Food Week → Garosu-gil | Gangnam/Seocho | 🟥 | **Nov 5 (Thu)** — Temple Life is Thursday-only in window (also Nov 12+) | Bongeunsa Temple Life **Thu 14:00–16:00, ₩30,000** · Food Week Korea Nov 4–7 (₩10,000) |
 | **G2** | Gangnam classic: Seonjeongneung → K-Star Road → Apgujeong Rodeo → Some Sevit night | Gangnam/Seocho | 🟨 | Nov 3–8 (Seonjeongneung closed Mon) | Seonjeongneung ₩1,000 free docent tours 🔎 · K-Star Road 🔎 · Some Sevit decks free |
 | **G3** | Saturday gugak afternoon (adds to any Sat plan) | Seocho | 🟨 | **Nov 7 (Sat)** only | Gugak Museum free EN tour **14:00** + 토요명품 **15:00** (₩20–30k) |
+| **M4** | Shinsegae Heritage → Underground shopping → Namsan Botanical Garden rest day | Myeong-dong + Namsan | 🟩 | Any day — a zero-transit rest day | Shinsegae The Heritage 🔎 · Myeongdong Underground Shopping 🔎 · Namsan Outdoor Botanical Garden (24 h free) |
+| **J6** | Tapgol Park → Nagwon Instrument Arcade → Unhyeongung | Jongno | 🟨 | Tue–Sat (Nagwon shops shut Sun; Unhyeongung closed Mon) | Tapgol Park 🔎 · Nagwon Instrument Arcade 🔎 · Unhyeongung Royal Residence ✅ |
+| **J7** | Sajik Park → Gyeonghuigung → Seoullo civic sunset walk | Jongno | 🟩 | Any day — rest day, no closure matrix | Sajik Park (24 h free) 🔎 · Gyeonghuigung 🔎 · Seoullo 7017 🔎 |
+| **D3** | Dongdaemun retail malls: Doota → Migliore → Hello apM night crawl | Dongdaemun | 🟥 | Wed–Sun (Migliore closed Mon; Hello apM closed Tue) | Doota Mall ✅ · Migliore ✅ · Hello apM ✅ · DDP Dream in Light |
+| **D4** | Majang Meat Market → Cheonggyecheon Museum → stream walk | Dongdaemun-gu | 🟩 | Tue–Sun (museum closed Mon; market shut 1st/3rd Sun) | Majang Meat Market 🔎 · Cheonggyecheon Museum 🔎 · Cheonggyecheon walk |
+| **H3** | Yanghwajin Missionary Cemetery → Jeoldusan Shrine → Hangang riverside | Mapo | 🟩 | Mon–Sat (cemetery closed Sun) | Yanghwajin Cemetery 🔎 · Jeoldusan Martyrs' Shrine 🔎 · Mangwon/Nanji Hangang Park |
+| **I3** | Namsan Botanical Garden → Haebangchon → Shinheung Market rest day | Itaewon/Yongsan | 🟩 | Any day — no ticketed anchor | Namsan Outdoor Botanical Garden (24 h free) · Haebangchon walk · Shinheung Market |
+| **I4** | Yongsan Electronics Market → Yongsan History Museum → Iparkmall | Yongsan | 🟨 | Tue–Sun (History Museum closed Mon) | Yongsan Electronics Market 🔎 · Yongsan History Museum ✅ · Iparkmall |
+| **G4** | National Library of Korea → Seocho Park → Express Bus Terminal malls | Seocho | 🟩 | Any day (Library closed 2nd/4th Mon only) | National Library of Korea 🔎 · Seocho Park (24 h free) · Go-To Mall |
+| **G5** | Apgujeong Galleria → Cheongdam Fashion Street → Mingles gallery walk | Gangnam | 🟨 | Tue–Sat (Mingles closed Sun & Mon) | Galleria Department Store 🔎 · Cheongdam Fashion Street 🔎 · Mingles (Michelin 3★, exterior/booked) |
+| **M5** | Chungmuro heritage walk → Korea House cuisine + performance | Myeong-dong/Chungmuro | 🟨 | Any day except Monday (performance closed every Mon) | Korea House cuisine 🔎 · Korea House Traditional Performance Arts ✅ |
+| **J8** | Jogyesa Temple → Munmyo Confucian Shrine (Sungkyunkwan) → Naksan wall | Jongno | 🟨 | Any day — both anchors skip the palace-closure matrix | Jogyesa Temple (24 h free) 🔎 · Munmyo/Sungkyunkwan 🔎 · Naksan Park |
+| **J9** | Sewoon Plaza (Makercity Sewoon) → Euljiro Nogari Alley → Cheonggyecheon | Jongno/Jung-gu | 🟨 | Mon–Sat (Sewoon closed Sun) | Sewoon Plaza 🔎 · Euljiro Nogari Alley 🔎 · Cheonggyecheon |
+| **D5** | Jungbu Dried Seafood Market → Cheonggyecheon walk → DDP night | Jung-gu | 🟨 | Mon–Sat (market conventionally closed Sun) | Jungbu Market ⏳ · Woo Lae Oak 🔎 · DDP Dream in Light |
+| **D6** | Hwanghak-dong Flea Market → Sindang Tteokbokki Town → DDP dusk | Dongdaemun-gu | 🟨 | Any day — the one 7-day-a-week Seoul flea market | Hwanghak-dong Flea Market 🔎 · Sindang-dong Tteokbokki Town 🔎 · DDP Dream in Light |
+| **H4** | Hongik University Museum → Yeonnam quiet streets → Oil Tank Culture Park | Hongdae/Mapo | 🟨 | Mon–Fri (museum weekday-focused hours) | Hongik University Museum 🔎 · Oil Tank Culture Park 🔎 |
+| **I5** | Seoul Central Mosque → Usadan-ro halal food street → Antique Furniture Street | Itaewon | 🟨 | Any day (Friday Jumu'ah busiest) | Seoul Central Mosque 🔎 · Halal restaurant street 🔎 · Itaewon Antique Furniture Street |
+| **I6** | Seoul National Cemetery → Ichon Hangang Park | Dongjak/Yongsan | 🟩 | Any day — zero weekly closure risk | Seoul National Cemetery (365-day grounds) 🔎 · Ichon Hangang Park (24 h free) |
+| **G6** | Yangjae Flower Market → Yangjaecheon stream → Maeheon Memorial Hall | Seocho | 🟩 | Tue–Sat (flower market closed Sun; memorial closed Mon) | Yangjae Flower Market 🔎 · Yangjaecheon stream walk · Maeheon Memorial Hall 🔎 |
+| **G7** | Seoul Arts Center Hangaram museums → Montmartre Park | Seocho | 🟨 | Tue–Sun (Hangaram Art Museum closed Mon) | Hangaram Art Museum 🔎 · Hangaram Design Museum 🔎 · Montmartre Park |
+| **M6** | Bank of Korea Money Museum → Namdaemun Market Kalguksu Alley → Hoehyeon Underground → Seoullo 7017 | Myeong-dong/Namdaemun | 🟩 | Tue–Sat (Money Museum closed Mon; market stalls mostly closed Sun) | Bank of Korea Money Museum 🔎 · Namdaemun Market 🔎 · Hoehyeon Underground 🔎 |
+| **J10** | Yun Dong-ju Literature Museum → Poet's Hill → Inwangsan fortress wall | Jongno (Buam-dong side) | 🟨 | Tue–Sun (museum + Inwangsan both closed Mon) | Yun Dong-ju Literature Museum 🔎 · Inwangsan/Seoul City Wall Course 4 🔎 |
+| **J11** | MMCA Seoul → Samcheong-dong gallery street → Bukchon Cultural Center | Jongno | 🟨 | Tue–Sun (MMCA + Hakgojae + Bukchon Cultural Center closed Mon) | MMCA Seoul 🔎 · Kukje Gallery 🔎 · Hakgojae Gallery 🔎 |
+| **D7** | Culture Station Seoul 284 → Namdaemun Market → Seoullo 7017 → DDP dusk | Jung-gu/Dongdaemun | 🟨 | Tue–Sun (Culture Station closed Mon) | Culture Station Seoul 284 🔎 · Namdaemun Market 🔎 · DDP Dream in Light |
+| **D8** | Bangsan Market (baking/packaging) → Cheonggyecheon tool alleys → DDP night | Jung-gu | 🟩 | Mon–Sat (Bangsan closed Sun) | Bangsan Wholesale Market 🔎 · Cheonggyecheon ✅ · DDP Dream in Light |
+| **H5** | Gyeongui Line Book Street → Gongdeok Jokbal Market → World Cup Park sunset | Mapo | 🟩 | Tue–Sun safest (Book St. Monday status disputed between sources) | Gyeongui Line Book Street 🔎/⏳ · Gongdeok Market 🔎 · World Cup Park 🔎 |
+| **I7** | Hyundai Card Music Library → Passion 5 → Gyeongridan-gil sunset | Hannam/Itaewon | 🟨 | Tue–Sun (Music Library closed Mon) | Hyundai Card Music Library 🔎 · Gyeongnidan-gil 🔎 · Noksapyeong Overpass 🔎 |
+| **I8** | Yongsan Yongmun Market → Sookmyung Women's Univ. campus → Hyochang Park | Yongsan (Cheongpa-dong) | 🟩 | Any day except Sun (market closed Sun) | Yongmun Traditional Market 🔎 · Sookmyung Women's University 🔎 · Hyochang Park 🔎 |
+| **G8** | Bongeunsa (self-guided) → Starfield Library → Gangnam Station Underground | Gangnam | 🟨 | Any day (zero weekly closure risk) | Bongeunsa Temple 🔎 · Starfield Library ✅ · Gangnam Station Underground 🔎 |
+| **G9** | WTC Seoul plaza walk → Seoripul Park ridge → Seorae Village | Gangnam/Seocho | 🟩 | Any day (zero weekly closure risk) | World Trade Center Seoul 🔎 · Seoripul Park 🔎 |
 
-## B. Complete Nov 1–9 plans (pick one, or splice) — **sixteen itineraries**
+## B. Complete Nov 1–9 plans (pick one, or splice) — **twenty-six itineraries**
 
 ### B1. Original set (A–F)
 
@@ -53,6 +83,23 @@ Same design rules: **one walking cluster per day** · busy+rest mix · closure-a
 | **O — Classic alternate order** | Plan A anchors re-ordered: BANKSY Yeouido-only Tue; Huwon on Fri; Hongdae Sat | Nov 2, 3, 5, 6 | Nov 1, 4, 9 | [`plans/plan-O-classic-alternate.md`](plans/plan-O-classic-alternate.md) |
 | **P — Modern Seoul** | DDP, BANKSY, Leeum, COEX, APMA, Elisabeth, Garosu/Sevit — minimal palace days | Nov 3, 4, 5, 6 | Nov 1, 2, 9 | [`plans/plan-P-modern-seoul.md`](plans/plan-P-modern-seoul.md) |
 
+### B3. Second expanded set (Q–Z) — added Aug 21, 2026
+
+Same design rules: **one walking cluster per day** · busy+rest mix · closure-aware · ✅/🔎/⏳/⛔ · **official links inline in every day cell + appendix table** · X4/X5/X6 still held.
+
+| Plan | Philosophy | Busy days | Easy days | File |
+|---|---|---|---|---|
+| **Q — Family & kids** | Free/low-cost parks, hands-on museums, Children's Grand Park zoo day | Nov 4, 7 | Nov 1, 2, 5, 9 | [`plans/plan-Q-family-kids.md`](plans/plan-Q-family-kids.md) |
+| **R — Michelin & Bib Gourmand food trail** | One starred/Bib Gourmand meal per day (Hadongkwan, Hwangsaengga, Imun, Budnamujip, Woo Lae Oak) | Nov 2, 5, 7 | Nov 1, 4, 9 | [`plans/plan-R-michelin-food-trail.md`](plans/plan-R-michelin-food-trail.md) |
+| **S — All-weather / indoor-first** | Every day leads with an indoor anchor; Lotte World Adventure rain-proof Saturday | Nov 4, 7 | Nov 1, 2, 5, 9 | [`plans/plan-S-all-weather.md`](plans/plan-S-all-weather.md) |
+| **T — Golden hour & viewpoints** | Sunrise/sunset-timed skyline anchors (N Seoul Tower, Some Sevit, Naksan, Yeouido) | Nov 3, 6, 8 | Nov 1, 4, 9 | [`plans/plan-T-golden-hour-viewpoints.md`](plans/plan-T-golden-hour-viewpoints.md) |
+| **U — Solo traveler** | Free guided walking tours, counter-seating meals, well-lit evening anchors | Nov 2, 5, 7 | Nov 1, 4, 8, 9 | [`plans/plan-U-solo-traveler.md`](plans/plan-U-solo-traveler.md) |
+| **V — First-timer express** | Five back-to-back busy days covering the maximum landmark checklist | Nov 2, 3, 5, 6, 7 | Nov 1, 4, 9 | [`plans/plan-V-first-timer-express.md`](plans/plan-V-first-timer-express.md) |
+| **W — Traditional crafts & temple** | Jogyesa, Bongeunsa Temple Life, gugak, craft museums — Buddhism/craft, not palaces | Nov 3, 5, 7 | Nov 1, 2, 4, 9 | [`plans/plan-W-crafts-temple.md`](plans/plan-W-crafts-temple.md) |
+| **X — Architecture & design** | Free DDP architecture tour, Leeum's three architects, Culture Station Seoul 284 | Nov 4, 6 | Nov 1, 2, 5, 9 | [`plans/plan-X-architecture-design.md`](plans/plan-X-architecture-design.md) |
+| **Y — Nightlife & late-night** | Soft mornings, late malls, 24 h BBQ, Mulbit's latest closing hour | Nov 3, 6, 7 | Nov 1, 2, 5, 9 | [`plans/plan-Y-nightlife-late.md`](plans/plan-Y-nightlife-late.md) |
+| **Z — Slow travel & wellness** | Zero 🟥 days; one anchor per day; only BANKSY + Mulbit are fixed | none | Nov 1, 2, 4, 5, 6, 7, 9 | [`plans/plan-Z-slow-wellness.md`](plans/plan-Z-slow-wellness.md) |
+
 ## D. Mixed-cluster itineraries — [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md)
 
 Entered only if every named stop traces to KoreaFun/Koreafood **and** the day stays in one walking cluster (one inbound ride from the hotel, then walk).
@@ -69,6 +116,16 @@ Entered only if every named stop traces to KoreaFun/Koreafood **and** the day st
 | **X11** | Hannam stay-put | Itaewon / Hannam | 🟥 | Tue–Sat (Leeum closed Mon; Elisabeth dark Mon) | Leeum both shows · Passion 5 · Elisabeth | 1 ride in, then walk |
 | **X12** | Ichon museum triangle | Yongsan | 🟨 | Wed Nov 4 or Sat Nov 7 (NMK to 21:00) | NMK · Jonas Wood · War Memorial | 1 Line-4 ride in, then walk |
 | **X13** | Friday-late civic museums | Gwanghwamun / Jeong-dong | 🟨 | **Fri Nov 6** | Deoksugung · History Museum / Sejong Story / SeMA Fri 21:00 | Walk from hotel |
+| **X14** | Seodaemun Prison History Hall → Independence Park → Ansan Jarak-gil | Seodaemun-gu | 🟨 | Any non-Mon (Prison Hall closed Mon) | Seodaemun Prison History Hall · Ansan Jarak-gil 7 km | 1 Line-3 ride in, then walk |
+| **X15** | Sinchon/Ewha stroll → Yonsei-ro → Gyeongui Book Street | Seodaemun-gu / Mapo-gu | 🟩 | **Sun** (Yonsei-ro car-free 09:00–22:00; Book St closed Mon) | Ewha campus · Yonsei-ro · Gyeongui Line Book Street | 1 Line-2 ride in, then walk |
+| **X16** | Ichon extended: NMK → Yongsan Family Park → Dongbinggo | Yongsan | 🟨 | Wed / Sat (NMK to 21:00) | National Museum · Yongsan Family Park · Ichon Hangang Park | 1 Line-4 ride in, then walk |
+| **X17** | Noryangjin Fish Market → Nodeul Island night | Dongjak / Yongsan | 🟨 | Any (live auction closed Sun) | Noryangjin Market · Nodeul Island | 1 Line-1/9 ride in, then walk |
+| **X18** | Seorae Village → Montmartre Park → Banpo Hangang Park | Seocho | 🟩 | Any | Seorae Village · Montmartre Park · Banpo Hangang Park | 1 Line-3/7/9 ride in, then walk |
+| **X19** | Jangchungdan Park → Jokbal Alley → Namsan east | Jung-gu | 🟩 | Any | Jangchungdan Park · Jangchung-dong Jokbal Alley | 1 Line-3 ride in, then walk |
+| **X20** | Gyeonghuigung → Seodaemun museum half-day | Jongno-gu / Seodaemun-gu | 🟨 | Any non-Mon | Gyeonghuigung · Seodaemun Prison History Hall · Independence Park | Walk + short ride |
+| **X21** | Bosingak noon bell → Insadong → Unhyeongung | Jongno-gu | 🟨 | Tue–Sun (closed Mon) | Bosingak ✅ · Insadong · Unhyeongung Royal Residence | Walk from hotel |
+| **X22** | Namdaemun dawn market → Sungnyemun → Seoullo 7017 | Jung-gu | 🟩 | Any (some stalls shut Sun) | Namdaemun Market · Sungnyemun · Seoullo 7017 | **0** |
+| **X23** | Jongmyo Saturday self-guided → Changgyeonggung passage → Mulbit | Jongno-gu | 🟥 | **Sat Nov 7 only** | Jongmyo self-guided ✅ · Yulgok-ro connecting gate ✅ · Mulbit Yeonhwa | **0** (one continuous grounds walk) |
 
 ### Not entered (fails the gate)
 
@@ -77,6 +134,10 @@ Entered only if every named stop traces to KoreaFun/Koreafood **and** the day st
 | **X4** Yeouido → Sebitseom → DDP | Two subway hops. BANKSY itself is Plan E **Nov 3 Yeouido-only**. |
 | **X5** Seongsu café street | Cafés not in KoreaFun/Koreafood; no Visit Seoul / Michelin / operator hours. |
 | **X6** Namsan → Leeum → Elisabeth | Line 4→6 transfer mid-day. Hannam half is **X11 / I1**. |
+
+**Aug 21, 2026 (later still):** added **10 more mixed-cluster itineraries (X14–X23)** under the same gate — each stays inside one walking cluster after a single inbound ride, every stop traces to an official VisitSeoul/VisitKorea/city/operator page, and closure days are called out line-by-line. Full detail: [`cities/07-mixed-clusters.md`](cities/07-mixed-clusters.md).
+
+**Aug 21, 2026 (5th expansion round):** added **10 more district-level day itineraries — M6, J10–J11, D7–D8, H5, I7–I8, G8–G9** — the 3rd round of district-day expansion, bringing the total to **47 district itineraries** across all 6 city files (M1–6 / J1–11 / D1–8 / H1–5 / I1–8 / G1–9). Every new anchor was verified live this round: Bank of Korea Money Museum, Namdaemun Market, Culture Station Seoul 284, Bangsan Wholesale Market, Yun Dong-ju Literature Museum, Inwangsan/Seoul City Wall Course 4, MMCA Seoul, Kukje/Hakgojae galleries, Bukchon Cultural Center, Gyeongui Line Book Street, Gongdeok Market, World Cup Park, Hyundai Card Music Library, Gyeongridan-gil, Yongsan Yongmun Market, Sookmyung Women's University, Hyochang Park, Bongeunsa (self-guided), World Trade Center Seoul, and Seoripul Park. One genuine source conflict was surfaced and flagged rather than papered over: Gyeongui Line Book Street's own VisitKorea page states "open year-round, no closed day" while multiple independent visitor listings report Monday closures — H5 carries both claims with a 🔎/⏳ status and a Tue–Sun safe-default recommendation. Full detail across all 6 files: [`cities/01-myeongdong-namsan.md`](cities/01-myeongdong-namsan.md) · [`cities/02-jongno-junggu.md`](cities/02-jongno-junggu.md) · [`cities/03-dongdaemun.md`](cities/03-dongdaemun.md) · [`cities/04-hongdae-mapo.md`](cities/04-hongdae-mapo.md) · [`cities/05-itaewon-yongsan.md`](cities/05-itaewon-yongsan.md) · [`cities/06-gangnam-seocho.md`](cities/06-gangnam-seocho.md).
 
 ## C. Date-locked anchors (verified ✅ — these fix the calendar)
 

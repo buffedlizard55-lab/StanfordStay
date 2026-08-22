@@ -1,7 +1,7 @@
-# 🛍️ Myeong-dong + Namsan — Itineraries M1 & M2
+# 🛍️ Myeong-dong + Namsan — Itineraries M1–M6
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
-**Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1; M2 starts at Myeongdong Station (8-min walk).
+**Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1/M4/M5; M2 starts at Myeongdong Station (8-min walk).
 
 ---
 
@@ -95,3 +95,59 @@
 - Myeongdong NANTA theatre is inside the shopping district (UNESCO Building 3F) — 5-min walk from the hotel. A second NANTA house exists in Hongdae (reduced Wed–Sun schedule).
 - Myeong-dong Tourist Information Center (66 Eulji-ro, 09:00–18:00) + Seoul My Soul official shop inside. *(KoreaFun myeongdong #9–10)*
 - **1898 Cathedral cultural complex** (bookstore/gallery/café beside the cathedral) is a rain plan. *(KoreaFun myeongdong #7)*
+
+---
+
+## M4 — Shinsegae Heritage → Underground shopping → Namsan Botanical Garden rest day (🟩 easy) — any day; a genuinely zero-transit rest day
+
+> Built as the "tired legs" companion to M1/M3 — everything is inside the ≤12-min walking radius of the hotel, and the only ticketed stop (Shinsegae "The Heritage") is optional browsing, not a timed activity.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Walk (≈8 min) to **Shinsegae Department Store Main / "The Heritage"** — restored 1930 bank building, garden + gallery floors | **Mon–Thu 10:30–20:00 · Fri–Sun 10:30–20:30** | Free to browse | 🔎 | [Shinsegae The Heritage](https://english.visitseoul.net/shopping/ShinsegaeTheHeritage/ENP6ptemj) | VisitSeoul ENP6ptemj |
+| 11:00–11:45 | Continue into **Myeongdong Underground Shopping Center** (connects Myeong-dong to City Hall) | **09:00–22:00** (exits 12–15 open 24 h) | Free entry | 🔎 | [Myeongdong Underground Shopping Center](https://english.visitseoul.net/area/Myeongdong-Underground-Shopping-Center/ENP009730) | VisitSeoul ENP009730 |
+| 11:45–12:45 | Lunch — **Myeongdong Kyoja** (daily 10:30–21:00) or **Yeongyang Center** (daily 10:30–22:30) | — | — | 🔎 | [Myeongdong Kyoja](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=99925) · [Yeongyang Center](https://english.visitseoul.net/restaurants/Yeongyang-Center/ENP012371) | Koreafood Route S1 |
+| 12:45–13:15 | Walk (≈15 min) toward Namsan's Hoehyeon side | — | — | — | [Namsan Outdoor Botanical Garden](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) | — |
+| 13:15–14:30 | **Namsan Outdoor Botanical Garden** — 13 themed gardens, open 24 h, free, no interior building to worry about closing | Open 24 h, free | Free | 🔎 | [Namsan Outdoor Botanical Garden](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80961) | VisitKorea vcontsId=80961 |
+| 14:30–15:15 | Coffee/tea back toward Myeong-dong — **Eulji Dabang** (Mon–Sat 06:00–21:00 / Sun 09:00–20:00) | — | — | 🔎 | [Eulji Dabang](https://english.visitseoul.net/restaurants/Eulji-Coffee-Shop/ENP025376) | Koreafood by-location |
+| 15:15 | Back at the hotel — the rest of the day is free | — | — | — | [Stanford Hotel Myeongdong](http://stanfordmyeongdong.com) | — |
+
+**Why this is the easy day:** zero subway rides, one optional purchase decision (Shinsegae), and every other stop is either free (botanical garden, underground shopping browsing) or a known Koreafood-verified meal. Pairs well after a busy J1/J2/G1 day.
+
+---
+
+## M5 — Chungmuro heritage walk → Korea House traditional cuisine + performance (🟨 moderate) — any day; **closed 3rd Monday of the month** (check the calendar date, not just the weekday)
+
+> A one-cluster evening built around Korea House's dinner-and-performance combo — the closest thing to a single-stop "greatest hits of Korean tradition" evening within walking distance of the hotel.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 16:30–17:00 | Walk or 1 stop Line 3/4 to **Chungmuro** Stn Exit 3 (≈15 min from hotel) | — | T-money | — | [Korea House](https://www.koreahouse.or.kr/en/per/art) | — |
+| 17:00–18:00 | Stroll Chungmuro's old print-and-film-industry streets (free, no ticket) | Free | Free | 🔎 | [Namsangol Hanok Village](https://www.hanokmaeul.or.kr/ko/guide) (adjacent garden, optional add) | KoreaFun myeongdong #25 |
+| 18:00–19:30 | ⭐ **Korea House traditional cuisine dinner** — royal-court-style hanjeongsik in a restored hanok complex | **Cuisine seating 17:00–21:00 daily**; **closed every 3rd Monday of the month** + New Year's Day + Chuseok; reserve ≥2 days ahead | ₩86,800–155,500 (foreigner set-menu range) | 🔎 | [Korea House cuisine + performance](https://www.koreahouse.or.kr/en/per/art) | koreahouse.or.kr official |
+| 20:00–21:00 | ⭐ **Korea House Traditional Performance Arts** — pansori, dance, court music in the folk theater | **Regular show 20:00–21:00 daily**, **closed every Monday since Mar 2020** (note: the dinner's closed day is 3rd-Monday-only, but the *evening performance* is closed **every** Monday — plan around a non-Monday for both) | ₩50,000 (performance only) | ✅ | [Korea House Traditional Performance Arts](https://www.koreahouse.or.kr/en/per/art) | koreahouse.or.kr official |
+| 21:00–21:30 | Walk/Line 3 back to the hotel (≈15 min) | — | — | — | [Korea House](https://www.koreahouse.or.kr/en/per/art) | — |
+
+**Closure trap:** read this one carefully — the **dinner service** is closed only the **3rd Monday** of the month, but the **evening performance** has been **closed every Monday since March 2020**. If your date is any Monday, skip this itinerary entirely; on all other days, the dinner+show combo runs as described.
+
+**Why this pairs well with the busy days:** Korea House sits one Chungmuro stop from Myeong-dong, so it slots easily onto the tail end of an M2 Namsan day (cable car down, walk to Chungmuro, dinner + show, walk home) without adding a second transit cluster.
+
+---
+
+## M6 — Bank of Korea Money Museum → Namdaemun Market Kalguksu Alley → Hoehyeon Underground → Seoullo 7017 (🟩 easy) — Tue–Sat (Money Museum + Sun stalls closed; best avoiding Sun)
+
+> A third rest-day option for this file (after M4's zero-transit loop and M5's Chungmuro heritage walk) — a free numismatics museum inside a National Treasure–designated building, then Seoul's oldest and largest traditional market, ending on the elevated Seoullo walkway back toward the hotel.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:15 | Walk to **Bank of Korea Money Museum** (Namdaemun-ro 39, opposite Shinsegae — ≤10 min from hotel) | — | — | — | [Bank of Korea Money Museum](https://www.bok.or.kr/museum/main/contents.do?menuNo=700128) | — |
+| 10:15–11:30 | ⭐ **Bank of Korea Money Museum** — housed in the 1907 former Bank of Korea building (National Treasure–grade historic site), 20,000+ Korean/foreign banknotes & coins across 4 halls; free English guided tour **Tue/Thu/Sat 14:00** (Korean 11:00 & 15:00, Chinese Wed/Fri 14:00) | **Tue–Sun 10:00–17:00, closed Mon**; weekend visits need advance booking on the museum site | Free | 🔎 | [Bank of Korea Money Museum](https://www.bok.or.kr/museum/main/contents.do?menuNo=700128) · [VisitSeoul](https://english.visitseoul.net/attractions/bank-of-korea-money-museum_/2733) | bok.or.kr official + VisitSeoul ENP...2733 |
+| 11:30–13:00 | **Namdaemun Market** — Korea's oldest & largest traditional market (est. 1414); **Kalguksu Alley** (Hoehyeon Stn ex. 5, ~10–15 stalls, open ≈05:00–21:00) for lunch | Market hours vary by store; **most stalls closed Sunday** | ₩7,000–10,000 lunch | 🔎 | [Namdaemun Market](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106358) · [Kalguksu Alley area](https://english.visitseoul.net/shopping/NamdaemunGalchijorimAlley/ENP041949) | VisitKorea vcontsId=106358 |
+| 13:00–14:00 | **Namdaemun Galchi-jorim (Hairtail) Alley** browse + **Namdaemun Market Tourist Information Center** (EN/CN/JP staff, 10:00–19:00) for a market map | Free | Free | 🔎 | [Namdaemun Galchi-jorim Alley](https://english.visitseoul.net/shopping/NamdaemunGalchijorimAlley/ENP041949) · [Tourist Info Center](https://english.visitseoul.net/attractions/Namdaemun-Market-Tourist-Information-Center/ENP027219) | VisitSeoul ENP041949 / ENP027219 |
+| 14:00–15:00 | **Hoehyeon Underground Shopping Center** (vintage LPs, antiques, pre-digital collectibles; connects Myeongdong ↔ Hoehyeon stations) | **Daily ≈09:00–22:00**; some sources note **closed 1st & 3rd Sunday** | Free entry | 🔎 | [Hoehyeon Underground Shopping Center](https://english.visitseoul.net/shopping/Hoehyeon-Underground-Shopping-Center/ENP000559) | VisitSeoul ENP000559 |
+| 15:00–16:00 | **Seoullo 7017** elevated garden walkway (Seoul Station side) → walk back toward the hotel (≈15 min) | Free, open 24 h | Free | 🔎 | [Seoullo 7017](https://seoullo7017.seoul.go.kr) | KoreaFun seoul #63 |
+| 16:00 | Arrive back near the hotel | — | — | — | [Seoullo 7017](https://seoullo7017.seoul.go.kr) | — |
+
+**Closure trap:** Bank of Korea Money Museum is **closed Mondays**; Namdaemun Market's stalls are **mostly closed Sundays**; Hoehyeon Underground carries a secondary note of **1st/3rd-Sunday closures** in some listings. This itinerary is built for **Tue–Sat** — on a Monday, swap in M4 or M5 instead.
+
+**Why this differs from M3/M4/M5:** M3 is the free micro-museum civic loop (Bosingak/Financial Museum/HiKR), M4 is the zero-transit Shinsegae/Namsan Botanical Garden rest day, M5 is the Chungmuro/Korea House heritage-and-performance evening — M6 is the only one anchored on Namdaemun Market itself, giving this file a genuine market day distinct from D2/D5/D6/X22's Dongdaemun-side markets.
