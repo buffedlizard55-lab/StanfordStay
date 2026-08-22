@@ -1,4 +1,4 @@
-# 🛍️ Myeong-dong + Namsan — Itineraries M1–M5
+# 🛍️ Myeong-dong + Namsan — Itineraries M1–M6
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Myeong-dong (Jung-gu) + Namsan north side · **From hotel:** 0–10 min walk to everything in M1/M4/M5; M2 starts at Myeongdong Station (8-min walk).
@@ -131,3 +131,23 @@
 **Closure trap:** read this one carefully — the **dinner service** is closed only the **3rd Monday** of the month, but the **evening performance** has been **closed every Monday since March 2020**. If your date is any Monday, skip this itinerary entirely; on all other days, the dinner+show combo runs as described.
 
 **Why this pairs well with the busy days:** Korea House sits one Chungmuro stop from Myeong-dong, so it slots easily onto the tail end of an M2 Namsan day (cable car down, walk to Chungmuro, dinner + show, walk home) without adding a second transit cluster.
+
+---
+
+## M6 — Bank of Korea Money Museum → Namdaemun Market Kalguksu Alley → Hoehyeon Underground → Seoullo 7017 (🟩 easy) — Tue–Sat (Money Museum + Sun stalls closed; best avoiding Sun)
+
+> A third rest-day option for this file (after M4's zero-transit loop and M5's Chungmuro heritage walk) — a free numismatics museum inside a National Treasure–designated building, then Seoul's oldest and largest traditional market, ending on the elevated Seoullo walkway back toward the hotel.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:00–10:15 | Walk to **Bank of Korea Money Museum** (Namdaemun-ro 39, opposite Shinsegae — ≤10 min from hotel) | — | — | — | [Bank of Korea Money Museum](https://www.bok.or.kr/museum/main/contents.do?menuNo=700128) | — |
+| 10:15–11:30 | ⭐ **Bank of Korea Money Museum** — housed in the 1907 former Bank of Korea building (National Treasure–grade historic site), 20,000+ Korean/foreign banknotes & coins across 4 halls; free English guided tour **Tue/Thu/Sat 14:00** (Korean 11:00 & 15:00, Chinese Wed/Fri 14:00) | **Tue–Sun 10:00–17:00, closed Mon**; weekend visits need advance booking on the museum site | Free | 🔎 | [Bank of Korea Money Museum](https://www.bok.or.kr/museum/main/contents.do?menuNo=700128) · [VisitSeoul](https://english.visitseoul.net/attractions/bank-of-korea-money-museum_/2733) | bok.or.kr official + VisitSeoul ENP...2733 |
+| 11:30–13:00 | **Namdaemun Market** — Korea's oldest & largest traditional market (est. 1414); **Kalguksu Alley** (Hoehyeon Stn ex. 5, ~10–15 stalls, open ≈05:00–21:00) for lunch | Market hours vary by store; **most stalls closed Sunday** | ₩7,000–10,000 lunch | 🔎 | [Namdaemun Market](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106358) · [Kalguksu Alley area](https://english.visitseoul.net/shopping/NamdaemunGalchijorimAlley/ENP041949) | VisitKorea vcontsId=106358 |
+| 13:00–14:00 | **Namdaemun Galchi-jorim (Hairtail) Alley** browse + **Namdaemun Market Tourist Information Center** (EN/CN/JP staff, 10:00–19:00) for a market map | Free | Free | 🔎 | [Namdaemun Galchi-jorim Alley](https://english.visitseoul.net/shopping/NamdaemunGalchijorimAlley/ENP041949) · [Tourist Info Center](https://english.visitseoul.net/attractions/Namdaemun-Market-Tourist-Information-Center/ENP027219) | VisitSeoul ENP041949 / ENP027219 |
+| 14:00–15:00 | **Hoehyeon Underground Shopping Center** (vintage LPs, antiques, pre-digital collectibles; connects Myeongdong ↔ Hoehyeon stations) | **Daily ≈09:00–22:00**; some sources note **closed 1st & 3rd Sunday** | Free entry | 🔎 | [Hoehyeon Underground Shopping Center](https://english.visitseoul.net/shopping/Hoehyeon-Underground-Shopping-Center/ENP000559) | VisitSeoul ENP000559 |
+| 15:00–16:00 | **Seoullo 7017** elevated garden walkway (Seoul Station side) → walk back toward the hotel (≈15 min) | Free, open 24 h | Free | 🔎 | [Seoullo 7017](https://seoullo7017.seoul.go.kr) | KoreaFun seoul #63 |
+| 16:00 | Arrive back near the hotel | — | — | — | [Seoullo 7017](https://seoullo7017.seoul.go.kr) | — |
+
+**Closure trap:** Bank of Korea Money Museum is **closed Mondays**; Namdaemun Market's stalls are **mostly closed Sundays**; Hoehyeon Underground carries a secondary note of **1st/3rd-Sunday closures** in some listings. This itinerary is built for **Tue–Sat** — on a Monday, swap in M4 or M5 instead.
+
+**Why this differs from M3/M4/M5:** M3 is the free micro-museum civic loop (Bosingak/Financial Museum/HiKR), M4 is the zero-transit Shinsegae/Namsan Botanical Garden rest day, M5 is the Chungmuro/Korea House heritage-and-performance evening — M6 is the only one anchored on Namdaemun Market itself, giving this file a genuine market day distinct from D2/D5/D6/X22's Dongdaemun-side markets.

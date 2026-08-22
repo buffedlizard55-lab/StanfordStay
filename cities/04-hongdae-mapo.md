@@ -1,4 +1,4 @@
-# 🎸 Hongdae & Mapo — Itineraries H1–H4
+# 🎸 Hongdae & Mapo — Itineraries H1–H5
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Hongdae (Hongik Univ. Stn) + Yeonnam + Mangwon/Sangam (Mapo-gu) · **From hotel:** Line 2 direct from Euljiro 1-ga to Hongik Univ. ≈20 min ride (≈25–30 min door-to-door); Mangwon adds Line 6 (≈35 min); Sangam ≈35–40 min.
@@ -100,3 +100,23 @@
 **Closure trap:** HoMA's posted hours are **weekday-only for the main gallery** (2nd gallery runs Wed–Sun) and vary by current exhibition — confirm the specific show's calendar before committing; Oil Tank Culture Park's **indoor program spaces close Monday** (outdoor grounds stay open every day).
 
 **Why this differs from H1/H2/H3:** H1 is the busking/BBQ energy day, H2 is the Mangwon/Haneul silver-grass day, H3 is the Yanghwajin/Jeoldusan heritage-riverside day — H4 is the only one that stays on the university-and-park side of Hongdae without a market or busking anchor.
+
+---
+
+## H5 — Gyeongui Line Book Street → Gongdeok Jokbal Market → World Cup Park sunset (🟩 easy) — any day; weekday mornings safest (Book Street's Monday status is disputed between sources)
+
+> The Mapo-side rest day this file has been missing — a car-free book-shop street, a jokbal-alley market lunch, and a free 24-hour sunset park, all reachable without touching H1's busking crowds or H2's stadium-tour timing.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 2/6/Gyeongui-Jungang to **Hongik Univ.** or **Gongdeok** Stn (≈25–30 min from hotel) | — | T-money | — | [Gyeongui Line Book Street](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=193887) | — |
+| 11:00–12:30 | ⭐ **Gyeongui Line Book Street** — a pedestrian book-and-café street built over the old rail line, small-press bookshops, reading gazebos, free browsing | **11:00–20:00 (break 12:30–13:30)**; official VisitKorea page lists "open year-round, no closed day" but third-party visitor listings report **closed Monday** — go on a weekday morning and treat Monday as ⏳ unverified rather than guaranteed-open | Free | 🔎/⏳ | [Gyeongui Line Book Street (VisitKorea)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=64574) | VisitKorea vcontsId=64574 |
+| 12:30–13:00 | Line 2/Gyeongui-Jungang to **Gongdeok** Stn (≈15–20 min) | — | T-money | — | [Gongdeok Market](https://english.visitseoul.net/area/Gongdeok-Market/ENP028335) | — |
+| 13:00–14:30 | **Gongdeok Traditional Market** — famed **Jokbal Alley** (braised pig's trotters, since the 1990s) and **Jeon Alley** (Korean pancakes), Exit 5 | Open daily, hours vary by store | ₩15,000–25,000 lunch | 🔎 | [Gongdeok Market](https://english.visitseoul.net/area/Gongdeok-Market/ENP028335) | VisitSeoul ENP028335 |
+| 14:30–15:15 | Line 6 to **World Cup Stadium** Stn (≈15 min) | — | T-money | — | [World Cup Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107540) | — |
+| 15:15–17:30 | **World Cup Park — Pyeonghwa (Peace) Park** loop (pond, garden, free, open all year) + optional walk into **Haneul Park** for late-afternoon skyline views | **Pyeonghwa Park open all year, no closed day**; Haneul Park closes at dusk (Nov ≈18:30–19:00) | Free | 🔎 | [World Cup Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107540) | VisitKorea vcontsId=107540 |
+| 17:30–18:00 | Line 6 back toward the hotel (≈35–40 min) | — | — | — | [World Cup Park](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107540) | — |
+
+**Closure trap:** Gyeongui Line Book Street's own VisitKorea listing says "open year-round," but multiple independent visitor reports say **closed Monday** — this is a genuine source conflict (flagged 🔎/⏳ in the table above), so treat Monday as a risk day and default to **Tue–Sun** until confirmed on-site. World Cup Park (Pyeonghwa Park) has no weekly closed day, but Haneul Park's access hours shrink to roughly sunset in November (~18:30), so plan the park visit before dusk.
+
+**Why this is the easy day:** unlike H1's busking-and-BBQ energy or H2's timed stadium tour, H5 has no reservation, no ticketed anchor, and stays almost entirely on the Gyeongui-Jungang Line corridor — the genuine 🟩 rest day for the Hongdae/Mapo cluster.

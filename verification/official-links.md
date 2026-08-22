@@ -567,6 +567,40 @@ Each row was fetched directly from the official page today. This is the independ
 
 ---
 
+## 4c. Fifth district-day round — M6/J10/J11/D7/D8/H5/I7/I8/G8/G9 (added Aug 21, 2026)
+
+| Item | Official page(s) |
+|---|---|
+| Bank of Korea Money Museum (closed Mon) | [bok.or.kr](https://www.bok.or.kr/museum/main/contents.do?menuNo=700128) · [VisitSeoul](https://english.visitseoul.net/attractions/bank-of-korea-money-museum_/2733) |
+| Namdaemun Market | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106358) |
+| Namdaemun Galchi-jorim (Hairtail) Alley | [VisitSeoul](https://english.visitseoul.net/shopping/NamdaemunGalchijorimAlley/ENP041949) |
+| Namdaemun Market Tourist Information Center | [VisitSeoul](https://english.visitseoul.net/attractions/Namdaemun-Market-Tourist-Information-Center/ENP027219) |
+| Hoehyeon Underground Shopping Center | [VisitSeoul](https://english.visitseoul.net/shopping/Hoehyeon-Underground-Shopping-Center/ENP000559) |
+| Yun Dong-ju Literature Museum (closed Mon) | [jfac.or.kr](https://www.jfac.or.kr/site/main/content/yoondj01) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=183577) |
+| Seoul City Wall Course 4 — Inwangsan Section (mountain-rest-day closed Mon) | [english.seoul.go.kr](https://english.seoul.go.kr/seoul-city-wall-course-4-inwangsan-section/) |
+| MMCA Seoul (closed Mon) | [mmca.go.kr](https://www.mmca.go.kr) |
+| Kukje Gallery | [VisitSeoul](https://english.visitseoul.net/attractions/Kukje-Gallery/ENP003241) |
+| Hakgojae Gallery (closed Sun & Mon) | [VisitSeoul](https://english.visitseoul.net/attractions/Hakgojae-Gallery/ENP001871) |
+| Bukchon Cultural Center (closed Mon) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97933) |
+| Culture Station Seoul 284 (closed Mon) | [seoul284.org](https://www.seoul284.org/) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86336) |
+| Bangsan Wholesale Market (closed Sun) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80425) |
+| Gyeongui Line Book Street (Monday status disputed — see V79) | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=64574) |
+| Gongdeok Traditional Market | [VisitSeoul](https://english.visitseoul.net/area/Gongdeok-Market/ENP028335) |
+| World Cup Park (Pyeonghwa Park — no closed day) | [VisitKorea](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107540) |
+| Hyundai Card Music Library (closed Mon) | [dive.hyundaicard.com](https://dive.hyundaicard.com/web/musiclibrary/spaceMain.hdc) · [VisitSeoul](https://english.visitseoul.net/attractions/hyundaicard-musiclibrary-hyundaicard-vinyl-and-plastic/ENPtvunyc) |
+| Gyeongnidan-gil | [VisitSeoul](https://english.visitseoul.net/shopping/Gyeongnidangil_/41818) |
+| Noksapyeong Overpass viewpoint | [VisitSeoul editorial](https://english.visitseoul.net/attractions/Hidden-Night-Spots-for-Seoul-Travelers_/31618) |
+| Yongsan Yongmun Traditional Market (⏳ conventionally closed Sun, no single official closed-day page) | [Seoul Mediahub](https://mediahub.seoul.go.kr/archives/2010333) |
+| Sookmyung Women's University | [sookmyung.ac.kr](https://www.sookmyung.ac.kr/en/intro/directions.do) |
+| Hyochang Park / Baekbeom Kim Koo Memorial Hall (hall closed Mon) | [Seoul Mediahub](https://mediahub.seoul.go.kr/archives/2010436) |
+| Bongeunsa Temple (self-guided, open 365 days) | [bongeunsa.org](http://www.bongeunsa.org) |
+| Starfield Library | [starfield.co.kr](https://starfield.co.kr/m/coexmall/starfieldLibrary/library.do) |
+| Gangnam Station Underground Shopping Center | [VisitSeoul](https://english.visitseoul.net/shopping/Gangnam-Station-Underground-Shopping-Center/ENP017740) |
+| World Trade Center Seoul | [VisitSeoul](https://english.visitseoul.net/gangnamarea/WTCSeoul/ENP042328) |
+| Seoripul Park | [Seocho-gu official](https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505) |
+
+---
+
 ## 5. Watch items — official pages to check (NOT scheduled in any itinerary)
 
 These are real but unconfirmed-for-Nov-2026; every itinerary treats them as optional only. Check the linked official page in mid-October 2026.

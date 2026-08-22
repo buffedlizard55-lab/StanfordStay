@@ -1,4 +1,4 @@
-# 🏙️ Gangnam & Seocho — Itineraries G1–G7
+# 🏙️ Gangnam & Seocho — Itineraries G1–G9
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Samseong/COEX + Bongeunsa (Gangnam-gu) · Seolleung/Apgujeong/Cheongdam · Seocho (National Gugak Center, Seoul Arts Center) · **From hotel:** Line 2 direct from Euljiro 1-ga to Samseong ≈30 min / Gangnam Stn ≈25 min; express note — Shinbundang does **not** accept Climate Card.
@@ -147,3 +147,44 @@ KGMA 2026 (3rd edition) is confirmed **Sat–Sun Nov 7–8 at Gocheok Sky Dome**
 **Closure trap:** Hangaram Art Museum **closed Mondays**; the museum was noted as **under remodeling construction from October 2025** on the Art Museum's own gallery listing — check sac.or.kr for current gallery status before booking a specific exhibition.
 
 **Why this pairs with G3, not repeats it:** G3 is the Saturday-only gugak performance day inside the National Gugak Center; G7 is the Seoul Arts Center's separate visual-arts wing (Hangaram museums), reachable on any non-Monday, giving Seocho both a performance-day and a gallery-day option.
+
+---
+
+## G8 — Bongeunsa grounds (non-Thursday) → Starfield Library → Gangnam Station Underground (🟨 moderate) — any day; Temple Life only Thu (see G1) — this is the non-program version
+
+> The "everything except the ₩30,000 Temple Life program" version of G1 — for days that aren't Thursday, this keeps the COEX/Bongeunsa cluster in play with a self-guided temple visit and a full underground-mall crawl instead.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 2 to **Samseong** Stn (≈30 min from hotel) | — | T-money | — | [Bongeunsa Temple](http://www.bongeunsa.org) | — |
+| 11:00–12:30 | **Bongeunsa Temple** self-guided visit — 1,200-year-old temple, Korea's tallest Maitreya (Mireuk) statue, active morning/evening prayer services | **Grounds open ≈03:00–22:00 (some listings 05:00–21:00), open every day of the year, free** | Free | 🔎 | [Bongeunsa Temple](http://www.bongeunsa.org) | bongeunsa.org official |
+| 12:30–13:30 | Lunch — **Heukdonga Gangnam/Samseong** (see G1) or COEX food court | — | — | 🔎 | [Heukdonga Gangnam](https://english.visitseoul.net/restaurants/Heukdonga-EN/ENP006289) | Koreafood by-location |
+| 13:30–15:30 | **COEX Starfield Library** (10:30–22:00 daily, free) + **COEX Mall** browse — 13-m bookshelves, 50,000 books, one of Seoul's most-photographed indoor spaces | Free | Free | ✅ | [Starfield Library](https://starfield.co.kr/m/coexmall/starfieldLibrary/library.do) | KoreaFun seoul #54 |
+| 15:30–16:30 | Optional: **SEA LIFE COEX Aquarium** (daily 10:00–20:00, last entry 19:00) if traveling with kids | Adult ≈₩29,000 | 🔎 | [SEA LIFE COEX Aquarium](https://www.visitsealife.com/coex-seoul/en/) | visitsealife.com official |
+| 16:30–17:15 | Line 2 to **Gangnam** Stn (≈10 min) | — | — | — | [Gangnam Station Underground Shopping Center](https://english.visitseoul.net/shopping/Gangnam-Station-Underground-Shopping-Center/ENP017740) | — |
+| 17:15–18:30 | **Gangnam Station Underground Shopping Center** — budget K-beauty/fashion arcade running the length of the station | **Daily 09:00–22:00** | Free entry | 🔎 | [Gangnam Station Underground Shopping Center](https://english.visitseoul.net/shopping/Gangnam-Station-Underground-Shopping-Center/ENP017740) | VisitSeoul ENP017740 |
+| 18:30–19:30 | Dinner — **Yangmani** Cheongdam gopchang (**24 h**) or Gangnam Station-side BBQ | — | — | 🔎 | [Yangmani](https://english.visitseoul.net/area/Yangmani-EN/ENP011966) | Koreafood by-location |
+
+**Why this exists alongside G1:** G1 is built specifically around the Thursday-only Bongeunsa Temple Life program (₩30,000, English, 14:00–16:00); G8 is the same COEX/Bongeunsa geography for the other six days of the week, replacing the paid program with a free self-guided temple visit and extending into the Gangnam Station underground arcade that G1 never reaches.
+
+**Closure trap:** none of this itinerary's anchors have a weekly closed day — Bongeunsa is open 365 days, Starfield Library and the Gangnam underground arcade run daily. This is the safe stand-in whenever G1's Thursday slot isn't available.
+
+---
+
+## G9 — Trade Tower / World Trade Center Seoul walk → Seocho Central corridor → Seoripul Park ridge (🟩 easy) — any day; a genuine rest day inside the Gangnam/Seocho border
+
+> The calmest day added to this file — a free civic-plaza walk around the WTC Seoul complex, then a quiet ridge-park walk on the Seocho side, with no ticketed anchor and no weekly closure risk.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 2 to **Samseong** Stn (≈30 min from hotel) | — | T-money | — | [World Trade Center Seoul](https://english.visitseoul.net/gangnamarea/WTCSeoul/ENP042328) | — |
+| 11:00–12:00 | **World Trade Center Seoul (WTC Seoul)** complex walk — Atrium outdoor wall media, the "Gangnam Style" Psy hand statue, COEX exterior plaza | Free to walk; individual facility hours vary | Free | 🔎 | [World Trade Center Seoul](https://english.visitseoul.net/gangnamarea/WTCSeoul/ENP042328) | VisitSeoul ENP042328 |
+| 12:00–13:00 | Lunch at COEX food court or Samseong-side storefronts | — | — | ⏳ | — | — |
+| 13:00–13:30 | Line 2/9 or taxi to **Seocho** Stn / Seoripul area (≈15–20 min) | — | — | — | [Seoripul Park](https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505) | — |
+| 13:30–15:30 | **Seoripul Park** ridge walk — open year-round, 24 h, free, connects toward Umyeonsan; quiet forested paths well above the Gangnam traffic | Open 24 h, free, year-round | Free | 🔎 | [Seoripul Park](https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505) | Seocho-gu official |
+| 15:30–16:30 | Walk down toward **Seorae Village** ("Little France") for a slow café stop | — | — | 🔎 | [Seorae Village walk (see X18)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718) | KoreaFun districts (cross-ref X18) |
+| 16:30–17:00 | Line 3/7/9 back toward the hotel (≈25–30 min) | — | — | — | [Seoripul Park](https://www.seocho.go.kr/site/seocho/ex/reservation/re00403.do?riIdx=04020505) | — |
+
+**Closure trap:** none — WTC Seoul's outdoor plaza, Seoripul Park, and Seorae Village's public streets are all free, open-air, and carry no weekly closed day. This is the zero-risk 🟩 rest day for the whole Gangnam/Seocho file.
+
+**Why this differs from G4/G6/X18:** G4 anchors on the National Library of Korea (closed 2nd/4th Mon); G6 anchors on Yangjae Flower Market (closed Sun); X18 (mixed-clusters) covers Seorae Village → Montmartre Park → Banpo Hangang Park — G9 is the only Gangnam/Seocho day that starts at the COEX/WTC civic plaza before heading into the Seoripul ridge, and it deliberately has **zero** ticketed or closure-risk stops, unlike G4/G6.

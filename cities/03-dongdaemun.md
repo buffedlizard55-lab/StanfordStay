@@ -1,4 +1,4 @@
-# 🏮 Dongdaemun & east — Itineraries D1–D6
+# 🏮 Dongdaemun & east — Itineraries D1–D8
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** DDP / Dongdaemun markets (Jung-gu edge) + Sindang + Jegi-dong/Hongneung (Dongdaemun-gu) · **From hotel:** DDP is a **12–15 min walk** straight up Euljiro or 2 stops on Line 2 (≈8 min); Sindang is 2 stops on Line 2/6.
@@ -128,3 +128,46 @@
 **Why this differs from D2:** the Seoul Folk Flea Market (D2) is **closed every Tuesday**; Hwanghak-dong is the market to use specifically when Tuesday is the only open day in the schedule, since it has **no confirmed weekly closed day** (only weather cancellations).
 
 **Status note:** Hwanghak-dong's exact hours vary slightly across sources (08:00–18:30 vs 09:00–19:00 depending on the section — antiques vs. electronics), so it is marked 🔎 verified-place rather than ✅ confirmed-schedule; always allow flexibility on the exact closing time.
+
+---
+
+## D7 — Culture Station Seoul 284 → Namdaemun Market food alleys → Seoullo 7017 → DDP dusk (🟨 moderate) — Tue–Sun (Culture Station closed Mon)
+
+> A civic-heritage-to-market day that bridges Jung-gu's Seoul Station side into the Dongdaemun evening light show — not previously covered in D1–D6, which stay closer to DDP/Sindang/Jegi-dong.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Walk to **Seoul Station** side (≈15 min from hotel via Namdaemun-ro) | — | — | — | [Culture Station Seoul 284](https://www.seoul284.org/) | — |
+| 11:00–12:30 | ⭐ **Culture Station Seoul 284** — the restored 1925 Gyeongseong Station (Sky Blue Building, historic site number 284), free rotating art/design exhibitions in the old ticketing hall and platforms | **Tue–Sun 10:00–19:00, closed Mon**; last Wed of month (Culture Day) open to 21:00; check current exhibition on seoul284.org before going | Free | 🔎 | [Culture Station Seoul 284](https://www.seoul284.org/) · [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86336) | seoul284.org official |
+| 12:30–13:30 | Lunch — **Namdaemun Market Kalguksu Alley** (Hoehyeon Stn ex. 5, ~05:00–21:00 daily) | ₩7,000–10,000 | — | 🔎 | [Namdaemun Market](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106358) | VisitKorea vcontsId=106358 |
+| 13:30–15:00 | **Seoullo 7017** elevated walkway east toward Cheonggyecheon (free, 24 h) → **Cheonggyecheon** stream walk east toward Jongno | Free | Free | 🔎 | [Seoullo 7017](https://seoullo7017.seoul.go.kr) · [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | KoreaFun seoul #63/#64 |
+| 15:00–16:30 | Line 1/2/4/5 or continue walking to **DDP** area — daylight exterior walk before the light show | — | — | — | [DDP](https://ddp.or.kr) | — |
+| 16:30–17:30 | **Dongdaemun Comprehensive Market** early browse (fabric floors close by evening on weekdays) or **Doota Mall** (10:30–24:00 daily) | Free entry | Free | 🔎 | [Doota Mall](https://english.visitseoul.net/shopping/doota-dongdaemun_/426) | VisitSeoul ENP...426 |
+| 18:00–19:00 | ⭐ **DDP Dream in Light** facade show (nightly 18:00–22:00, on the hour) | Free | Free | 🔎 | [DDP Dream in Light](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) | KoreaFun districts #1 |
+| 19:00–20:00 | Dinner — **Jin Ok-hwa Halmae Wonjo Dakhanmari** (daily 10:30–01:00) | — | — | 🔎 | [Jin Ok-hwa Dakhanmari](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86514) | Koreafood S5 |
+
+**Closure trap:** Culture Station Seoul 284 is **closed Mondays** — this itinerary's morning anchor only works **Tue–Sun**; the rest of the day (Namdaemun, Seoullo, DDP) has no Monday issue, so on a Monday, swap the museum stop for extra Namdaemun Market time.
+
+**Why this differs from D1/D5:** D1 starts the day already at DDP; D5 anchors on Jungbu Dried Seafoods Market — D7 is the only Dongdaemun-file day that begins on the Seoul Station/Namdaemun side of Jung-gu and walks the full Seoullo-to-Cheonggyecheon-to-DDP spine in one continuous route.
+
+---
+
+## D8 — Bangsan Market (baking & packaging) → Euljiro tool alleys → Cheonggyecheon → DDP night (🟩 easy) — Mon–Sat (Bangsan closed Sun)
+
+> A niche specialty-wholesale morning distinct from every other market day in this file — Bangsan Market's baking/packaging shops and the adjoining Cheonggyecheon hardware-and-tool alleys, then a flat stream walk into the evening light show.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 2/5 to **Euljiro 4-ga** Stn Exit 6 (≈10–15 min from hotel) | — | T-money | — | [Bangsan Wholesale Market](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80425) | — |
+| 11:00–12:30 | ⭐ **Bangsan Market (Bangsan Wholesale Market)** — ~250 stores of packaging, baking, and promotional materials; a browsing-only market distinct from Dongdaemun's fashion/food markets | **Mon–Fri 09:00–18:00, Sat 09:00–15:00, closed Sunday** (hours vary by individual shop) | Free entry | 🔎 | [Bangsan Wholesale Market](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80425) | VisitKorea vcontsId=80425 |
+| 12:30–13:30 | Lunch — Euljiro-side naengmyeon/gopchang storefronts near Gwangjang Market | — | — | ⏳ | — | — |
+| 13:30–15:00 | **Cheonggyecheon "tool alley"** stretch (Euljiro 4~8-ga side) — Seoul's dense hardware/electronics/rivets district lining the stream, browsing only | Individual shops set own hours (mostly weekday-focused) | Free to browse | ⏳ | — | Cross-checked visitor accounts; no single official operator page for the informal tool-alley strip — treat as a bonus browse |
+| 15:00–16:30 | **Cheonggyecheon** stream walk east→west toward DDP (free, 24 h) | Free | Free | ✅ | [Cheonggyecheon](https://cheonggyecheon.seoul.go.kr) | KoreaFun seoul #64 |
+| 18:00–19:00 | ⭐ **DDP Dream in Light** facade show (nightly 18:00–22:00, on the hour) | Free | Free | 🔎 | [DDP Dream in Light](https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156491&menuNo=200013) | KoreaFun districts #1 |
+| 19:00–20:00 | Dinner near DDP — **Samgyeopsal Jeonmunjeom Daetongnyeong** (11:40–23:00) | — | — | 🔎 | [VisitKorea](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59055) | Koreafood by-location |
+
+**Status note on the Cheonggyecheon tool alley:** unlike Bangsan Market (which carries an official VisitKorea page with posted hours), the informal hardware/tool-and-electronics alley along Cheonggyecheon's Euljiro stretch has **no single official operator page** — flagged ⏳ watch-only per protocol, same treatment as Jungbu Dried Seafoods Market (D5) and Seongsu cafés (X5). Treat it as a bonus browse, not a scheduled anchor.
+
+**Closure trap:** Bangsan Market is **closed Sunday** and runs shortened Saturday hours (09:00–15:00) — this itinerary is built for **Mon–Sat**, ideally a weekday morning before 15:00.
+
+**Why this is the easy day in this pairing:** D8 has zero ticketed anchors and the lightest walking load of D7/D8 — a specialty-market browse, a stream walk, and the free nightly DDP show, making it the 🟩 rest-day counterpart to D7's more heritage-and-market-dense 🟨 day.

@@ -1,4 +1,4 @@
-# 🕌 Itaewon & Yongsan — Itineraries I1–I6
+# 🕌 Itaewon & Yongsan — Itineraries I1–I8
 > 🔗 **Official links for everything named in this file:** [`verification/official-links.md`](../verification/official-links.md).
 
 **Cluster:** Itaewon-ro / Hannam / Hangangjin (Line 6) + Yongsan museums (Ichon / Sinyongsan / Samgakji) · **From hotel:** Itaewon ≈20–25 min (Line 4→6 or taxi ≈15 min) · Leeum (Hangangjin) ≈25 min · National Museum (Ichon, **Line 4 direct from Myeongdong**) ≈25–30 min.
@@ -121,3 +121,42 @@
 **Why this is the only zero-closure-risk day in this file:** every other Itaewon/Yongsan itinerary (I1–I5) has at least one Monday-closed anchor (Leeum, APMA, War Memorial, Yongsan History Museum). The cemetery grounds and Ichon Hangang Park are both open **every single day of the year** — this is the fallback slot if a Monday or Tuesday needs a Yongsan-side day with nothing to worry about.
 
 **Etiquette note:** Seoul National Cemetery is an active memorial/burial ground — keep a respectful, quiet tone throughout, especially near the Memorial Tower and burial sections.
+
+---
+
+## I7 — Hyundai Card Music Library → Passion 5 → Gyeongridan-gil sunset (🟨 moderate) — Tue–Sun (Music Library closed Mon)
+
+> A Hannam-dong music-and-design day distinct from I1's Leeum-anchored art day — a members'-and-public vinyl library open to non-cardholders on the ground floor, then Gyeongridan's hillside cafés for sunset views of Namsan.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 11:00–11:30 | Line 6 to **Hangangjin** Stn Exit 1 (≈20–25 min from hotel) | — | T-money | — | [Hyundai Card Music Library](https://dive.hyundaicard.com/web/musiclibrary/spaceMain.hdc) | — |
+| 11:30–13:00 | ⭐ **Hyundai Card Music Library** — ~15,000 vinyl records, books, and magazines; ground-floor vinyl shop open to all visitors, upper floors are Hyundai Card–holder only (or free via the Hyundai Card DIVE app on weekdays) | **Tue–Sat 12:00–21:00 · Sun 11:00–18:00 · closed Mon** | Free (ground floor) | 🔎 | [Hyundai Card Music Library](https://dive.hyundaicard.com/web/musiclibrary/spaceMain.hdc) · [VisitSeoul](https://english.visitseoul.net/attractions/hyundaicard-musiclibrary-hyundaicard-vinyl-and-plastic/ENPtvunyc) | VisitSeoul ENPtvunyc |
+| 13:00–14:00 | Lunch — **Passion 5** bakery complex (Hannam, daily 07:30–22:00) | — | — | 🔎 | [Passion 5](https://english.visitseoul.net/restaurants/Passion-52/ENP013534) | Koreafood by-location |
+| 14:00–15:30 | Walk to **Hannam-dong** boutique streets (design shops, small galleries near Leeum) | Free to browse | Free | 🔎 | [Leeum Museum of Art](https://www.leeumhoam.org) (area anchor) | KoreaFun seoul #12 |
+| 15:30–17:00 | **Gyeongridan-gil** hillside walk — Italian/European eateries, wine bars with Namsan Tower views, best around golden hour | Street always open; shop hours vary | Free | 🔎 | [Gyeongnidan-gil](https://english.visitseoul.net/shopping/Gyeongnidangil_/41818) | VisitSeoul ENP...41818 |
+| 17:00–17:30 | **Noksapyeong Overpass** viewpoint — quiet sunset lookout toward Namsan/N Seoul Tower, a short walk from Gyeongridan | Free, open-air, 24 h | Free | 🔎 | [Hidden Night Spots for Seoul Travelers](https://english.visitseoul.net/attractions/Hidden-Night-Spots-for-Seoul-Travelers_/31618) | VisitSeoul editorial |
+| 17:30–18:00 | Line 6 Noksapyeong back toward the hotel (≈20–25 min) | — | — | — | [Gyeongnidan-gil](https://english.visitseoul.net/shopping/Gyeongnidangil_/41818) | — |
+
+**Closure trap:** Hyundai Card Music Library's upper vinyl-listening floors are **closed every Monday** — the ground-floor shop stays part of the same closure, so the whole stop is unavailable Monday; build this itinerary for **Tue–Sun**.
+
+**Why this differs from I1/I11 (X11):** I1 pairs Leeum with the Elisabeth musical for a full 🟥 art-and-theatre day; X11 (mixed-clusters) is the Hannam "stay-put" triangle of Leeum→Gyeongridan→Elisabeth — I7 is the only Itaewon/Yongsan-file day anchored on the **Music Library** rather than Leeum, giving Hannam-dong a second, lower-cost daytime option that doesn't require an evening theatre ticket.
+
+---
+
+## I8 — Yongsan Yongmun Traditional Market → Sookmyung Women's Univ. campus walk → Hyochang Park (🟩 easy) — Sun–Sat, market closed Sunday only
+
+> A quiet southwest-Yongsan day that has not appeared anywhere else in this file — a small neighborhood market, a university-campus stroll on the Cheongpa-dong hill, and a 24-hour park with an independence-movement memorial.
+
+| Time | Activity | Details (official) | Price | Status | Official link | Source |
+|---|---|---|---|---|---|---|
+| 10:30–11:00 | Line 6/Gyeongui-Jungang to **Hyochang Park** Stn Exit 3 (≈25–30 min from hotel) | — | T-money | — | [Yongsan Yongmun Traditional Market](https://mediahub.seoul.go.kr/archives/2010333) | — |
+| 11:00–12:00 | **Yongsan Yongmun Traditional Market** (용문전통시장) — a recently modernized neighborhood market, produce/side-dish/snack stalls, far quieter than Namdaemun or Gwangjang | **Daily, hours vary by stall**; **closed Sunday** by most vendor convention | Free entry | 🔎 | [Yongsan Yongmun Traditional Market](https://mediahub.seoul.go.kr/archives/2010333) | Seoul Mediahub official (city government) |
+| 12:00–13:00 | Lunch at a market stall or nearby Hyochang-dong storefront | — | — | ⏳ | — | — |
+| 13:00–14:30 | **Sookmyung Women's University** campus walk (Cheongpa-dong hill; public campus grounds, gardens, historic Myeongsin buildings) | Free, grounds open during daylight hours | Free | 🔎 | [Sookmyung Women's University](https://www.sookmyung.ac.kr/en/intro/directions.do) | sookmyung.ac.kr official |
+| 14:30–16:00 | **Hyochang Park** — 24-hour public park with the **Baekbeom Kim Koo Memorial Hall** and tombs of independence-movement figures (Nov–Feb memorial hall 10:00–17:00, closed Mon, free; park grounds always open) | Free | Free | 🔎 | [Seoul Mediahub — Baekbeom Kim Koo Memorial Hall](https://mediahub.seoul.go.kr/archives/2010436) | KoreaFun districts #59 |
+| 16:00–16:30 | Line 6 Hyochang Park back toward the hotel (≈25–30 min) | — | — | — | [Hyochang Park](https://mediahub.seoul.go.kr/archives/2010436) | — |
+
+**Closure trap:** Yongmun Traditional Market runs **daily but is conventionally closed Sunday** by vendor practice (no single official closed-day page found — flagged 🔎 rather than ✅); the **Baekbeom Kim Koo Memorial Hall** inside Hyochang Park is **closed Monday**, though the park grounds themselves are always open. This itinerary works any day **except Sunday for the market** and treats the memorial hall as a bonus stop on non-Mondays.
+
+**Why this differs from I3/I6:** I3 anchors on Namsan Botanical Garden/Haebangchon; I6 anchors on Seoul National Cemetery/Ichon Hangang Park — I8 is the only easy day in this file built around the Sookmyung/Hyochang southwest corner of Yongsan-gu, giving a genuinely different neighborhood from every other Itaewon/Yongsan itinerary.
